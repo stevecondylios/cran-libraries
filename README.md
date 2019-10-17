@@ -3,7 +3,7 @@
 
 ```R
 library(jsonlite)
-fromJSON("https://github.com/stevecondylios/cran-libraries/blob/master/cran-libraries.json")
+fromJSON("https://raw.githubusercontent.com/stevecondylios/cran-libraries/master/cran-libraries.json")
 ```
 
 
