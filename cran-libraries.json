@@ -4264,10 +4264,6 @@
     "downloads": 13783
   },
   {
-    "library": "biofiles",
-    "downloads": 6925
-  },
-  {
     "library": "BioFTF",
     "downloads": 11510
   },
@@ -7760,6 +7756,10 @@
     "downloads": 23257
   },
   {
+    "library": "cnaOpt",
+    "downloads": 0
+  },
+  {
     "library": "cnbdistr",
     "downloads": 6481
   },
@@ -10052,6 +10052,10 @@
     "downloads": 25300
   },
   {
+    "library": "cwbtools",
+    "downloads": 0
+  },
+  {
     "library": "cwhmisc",
     "downloads": 45429
   },
@@ -11926,6 +11930,10 @@
   {
     "library": "discreteMTP",
     "downloads": 18051
+  },
+  {
+    "library": "DiscreteQvalue",
+    "downloads": 0
   },
   {
     "library": "discreteRV",
@@ -14154,6 +14162,10 @@
   {
     "library": "emax.glm",
     "downloads": 1232
+  },
+  {
+    "library": "emba",
+    "downloads": 0
   },
   {
     "library": "EMbC",
@@ -17642,6 +17654,10 @@
   {
     "library": "FRESA.CAD",
     "downloads": 17739
+  },
+  {
+    "library": "fresh",
+    "downloads": 0
   },
   {
     "library": "FrF2",
@@ -27514,6 +27530,10 @@
   {
     "library": "lintr",
     "downloads": 651605
+  },
+  {
+    "library": "LipidMS",
+    "downloads": 2861
   },
   {
     "library": "LipidMSdata",
@@ -43756,6 +43776,10 @@
     "downloads": 16367
   },
   {
+    "library": "RecordTest",
+    "downloads": 0
+  },
+  {
     "library": "recosystem",
     "downloads": 23073
   },
@@ -48810,10 +48834,6 @@
   {
     "library": "SCPME",
     "downloads": 3153
-  },
-  {
-    "library": "SCRABBLE",
-    "downloads": 1839
   },
   {
     "library": "ScrabbleScore",
