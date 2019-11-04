@@ -1,6 +1,6 @@
 # R Libraries on the Comprehensive R Archive Network
 
-### Last Updated: 2019-11-05 04:38:57 AEDT
+### Last Updated: 2019-11-05 07:39:14 AEDT
 
 ```R
 library(jsonlite)
@@ -28,6 +28,7 @@ fromJSON("https://raw.githubusercontent.com/stevecondylios/cran-libraries/master
 
 
 ```
+
 
 
 
