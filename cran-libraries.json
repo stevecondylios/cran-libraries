@@ -20,20 +20,16 @@
     "downloads": 173106
   },
   {
-    "library": "abc.data",
-    "downloads": 153203
-  },
-  {
-    "library": "ABC.RAP",
-    "downloads": 13765
-  },
-  {
     "library": "abcADM",
     "downloads": 342
   },
   {
     "library": "ABCanalysis",
     "downloads": 30336
+  },
+  {
+    "library": "abc.data",
+    "downloads": 153203
   },
   {
     "library": "abcdeFBA",
@@ -46,6 +42,10 @@
   {
     "library": "ABCp2",
     "downloads": 27179
+  },
+  {
+    "library": "ABC.RAP",
+    "downloads": 13765
   },
   {
     "library": "abcrf",
@@ -1240,10 +1240,6 @@
     "downloads": 13402
   },
   {
-    "library": "anim.plots",
-    "downloads": 21388
-  },
-  {
     "library": "AnimalHabitatNetwork",
     "downloads": 164
   },
@@ -1258,6 +1254,10 @@
   {
     "library": "animint2",
     "downloads": 1973
+  },
+  {
+    "library": "anim.plots",
+    "downloads": 21388
   },
   {
     "library": "anipaths",
@@ -1308,10 +1308,6 @@
     "downloads": 20801
   },
   {
-    "library": "ANOVA.TFNs",
-    "downloads": 10298
-  },
-  {
     "library": "ANOVAIREVA",
     "downloads": 763
   },
@@ -1322,6 +1318,10 @@
   {
     "library": "ANOVAShiny",
     "downloads": 3236
+  },
+  {
+    "library": "ANOVA.TFNs",
+    "downloads": 10298
   },
   {
     "library": "AntAngioCOOL",
@@ -1584,10 +1584,6 @@
     "downloads": 11952
   },
   {
-    "library": "ar.matrix",
-    "downloads": 4556
-  },
-  {
     "library": "AR1seg",
     "downloads": 20467
   },
@@ -1734,6 +1730,10 @@
   {
     "library": "armada",
     "downloads": 3139
+  },
+  {
+    "library": "ar.matrix",
+    "downloads": 4556
   },
   {
     "library": "armspp",
@@ -2284,10 +2284,6 @@
     "downloads": 6608
   },
   {
-    "library": "auto.pca",
-    "downloads": 8784
-  },
-  {
     "library": "autoBagging",
     "downloads": 8413
   },
@@ -2330,6 +2326,10 @@
   {
     "library": "automultinomial",
     "downloads": 11294
+  },
+  {
+    "library": "auto.pca",
+    "downloads": 8784
   },
   {
     "library": "AutoPipe",
@@ -2436,12 +2436,24 @@
     "downloads": 17585
   },
   {
+    "library": "awsjavasdk",
+    "downloads": 10273
+  },
+  {
     "library": "aws.kms",
     "downloads": 5599
   },
   {
     "library": "aws.lambda",
     "downloads": 14082
+  },
+  {
+    "library": "awsMethods",
+    "downloads": 50000
+  },
+  {
+    "library": "awspack",
+    "downloads": 16576
   },
   {
     "library": "aws.polly",
@@ -2474,18 +2486,6 @@
   {
     "library": "aws.translate",
     "downloads": 6265
-  },
-  {
-    "library": "awsjavasdk",
-    "downloads": 10273
-  },
-  {
-    "library": "awsMethods",
-    "downloads": 50000
-  },
-  {
-    "library": "awspack",
-    "downloads": 16576
   },
   {
     "library": "AzureAuth",
@@ -3576,10 +3576,6 @@
     "downloads": 6380
   },
   {
-    "library": "bea.R",
-    "downloads": 14689
-  },
-  {
     "library": "BEACH",
     "downloads": 10817
   },
@@ -3606,6 +3602,10 @@
   {
     "library": "beanz",
     "downloads": 16014
+  },
+  {
+    "library": "bea.R",
+    "downloads": 14689
   },
   {
     "library": "beast",
@@ -4312,10 +4312,6 @@
     "downloads": 11311
   },
   {
-    "library": "bio.infer",
-    "downloads": 26378
-  },
-  {
     "library": "bio3d",
     "downloads": 58980
   },
@@ -4384,6 +4380,10 @@
     "downloads": 17996
   },
   {
+    "library": "bio.infer",
+    "downloads": 26378
+  },
+  {
     "library": "BioInstaller",
     "downloads": 33957
   },
@@ -4396,16 +4396,8 @@
     "downloads": 9645
   },
   {
-    "library": "BIOM.utils",
-    "downloads": 20859
-  },
-  {
     "library": "BioMark",
     "downloads": 27757
-  },
-  {
-    "library": "biomartr",
-    "downloads": 49547
   },
   {
     "library": "BIOMASS",
@@ -4418,6 +4410,10 @@
   {
     "library": "biomod2",
     "downloads": 71338
+  },
+  {
+    "library": "BIOM.utils",
+    "downloads": 20859
   },
   {
     "library": "bionetdata",
@@ -5420,12 +5416,12 @@
     "downloads": 7050063
   },
   {
-    "library": "broom.mixed",
-    "downloads": 34665
-  },
-  {
     "library": "broomExtra",
     "downloads": 24780
+  },
+  {
+    "library": "broom.mixed",
+    "downloads": 34665
   },
   {
     "library": "brotli",
@@ -6164,10 +6160,6 @@
     "downloads": 33892
   },
   {
-    "library": "cat.dt",
-    "downloads": 1527
-  },
-  {
     "library": "catch",
     "downloads": 5188
   },
@@ -6186,6 +6178,10 @@
   {
     "library": "catdata",
     "downloads": 89275
+  },
+  {
+    "library": "cat.dt",
+    "downloads": 1527
   },
   {
     "library": "CatDyn",
@@ -7616,20 +7612,16 @@
     "downloads": 3013704
   },
   {
-    "library": "cluster.datasets",
-    "downloads": 39392
-  },
-  {
-    "library": "Cluster.OBeu",
-    "downloads": 6901
-  },
-  {
     "library": "ClusterBootstrap",
     "downloads": 9769
   },
   {
     "library": "clusterCrit",
     "downloads": 43914
+  },
+  {
+    "library": "cluster.datasets",
+    "downloads": 39392
   },
   {
     "library": "clusteredinterference",
@@ -7674,6 +7666,10 @@
   {
     "library": "clusternor",
     "downloads": 3785
+  },
+  {
+    "library": "Cluster.OBeu",
+    "downloads": 6901
   },
   {
     "library": "clusterPower",
@@ -8888,18 +8884,6 @@
     "downloads": 333677
   },
   {
-    "library": "Copula.Markov",
-    "downloads": 21961
-  },
-  {
-    "library": "Copula.Markov.survival",
-    "downloads": 1103
-  },
-  {
-    "library": "Copula.surv",
-    "downloads": 3985
-  },
-  {
     "library": "CopulaCenR",
     "downloads": 4630
   },
@@ -8916,8 +8900,20 @@
     "downloads": 28416
   },
   {
+    "library": "Copula.Markov",
+    "downloads": 21961
+  },
+  {
+    "library": "Copula.Markov.survival",
+    "downloads": 1103
+  },
+  {
     "library": "CopulaREMADA",
     "downloads": 19622
+  },
+  {
+    "library": "Copula.surv",
+    "downloads": 3985
   },
   {
     "library": "CopyDetect",
@@ -9724,12 +9720,12 @@
     "downloads": 4039
   },
   {
-    "library": "crp.CSFP",
-    "downloads": 30372
-  },
-  {
     "library": "CRPClustering",
     "downloads": 7284
+  },
+  {
+    "library": "crp.CSFP",
+    "downloads": 30372
   },
   {
     "library": "crqa",
@@ -10464,18 +10460,6 @@
     "downloads": 14379
   },
   {
-    "library": "data.table",
-    "downloads": 15109859
-  },
-  {
-    "library": "data.tree",
-    "downloads": 276112
-  },
-  {
-    "library": "data.world",
-    "downloads": 13269
-  },
-  {
     "library": "Data2LD",
     "downloads": 6919
   },
@@ -10644,6 +10628,14 @@
     "downloads": 10490
   },
   {
+    "library": "data.table",
+    "downloads": 15109859
+  },
+  {
+    "library": "data.tree",
+    "downloads": 276112
+  },
+  {
     "library": "datautils",
     "downloads": 22228
   },
@@ -10662,6 +10654,10 @@
   {
     "library": "DataViz",
     "downloads": 3125
+  },
+  {
+    "library": "data.world",
+    "downloads": 13269
   },
   {
     "library": "date",
@@ -11264,12 +11260,12 @@
     "downloads": 9027
   },
   {
-    "library": "Density.T.HoldOut",
-    "downloads": 16966
-  },
-  {
     "library": "densityClust",
     "downloads": 52524
+  },
+  {
+    "library": "Density.T.HoldOut",
+    "downloads": 16966
   },
   {
     "library": "DensParcorr",
@@ -11672,12 +11668,12 @@
     "downloads": 3882
   },
   {
-    "library": "DHS.rates",
-    "downloads": 11713
-  },
-  {
     "library": "dHSIC",
     "downloads": 13147
+  },
+  {
+    "library": "DHS.rates",
+    "downloads": 11713
   },
   {
     "library": "di",
@@ -12184,12 +12180,12 @@
     "downloads": 46163
   },
   {
-    "library": "distance.sample.size",
-    "downloads": 9989
-  },
-  {
     "library": "distances",
     "downloads": 25152
+  },
+  {
+    "library": "distance.sample.size",
+    "downloads": 9989
   },
   {
     "library": "distantia",
@@ -12604,12 +12600,12 @@
     "downloads": 892
   },
   {
-    "library": "DoE.wrapper",
-    "downloads": 66314
-  },
-  {
     "library": "DoEstRare",
     "downloads": 6910
+  },
+  {
+    "library": "DoE.wrapper",
+    "downloads": 66314
   },
   {
     "library": "doex",
@@ -12716,16 +12712,16 @@
     "downloads": 6283
   },
   {
-    "library": "double.truncation",
-    "downloads": 7028
-  },
-  {
     "library": "DoubleCone",
     "downloads": 18385
   },
   {
     "library": "DoubleExpSeq",
     "downloads": 16295
+  },
+  {
+    "library": "double.truncation",
+    "downloads": 7028
   },
   {
     "library": "DOvalidation",
@@ -12792,12 +12788,12 @@
     "downloads": 21956045
   },
   {
-    "library": "dplyr.teradata",
-    "downloads": 24309
-  },
-  {
     "library": "dplyrAssist",
     "downloads": 12275
+  },
+  {
+    "library": "dplyr.teradata",
+    "downloads": 24309
   },
   {
     "library": "dpmr",
@@ -13204,12 +13200,12 @@
     "downloads": 44159
   },
   {
-    "library": "dunn.test",
-    "downloads": 216734
-  },
-  {
     "library": "DunnettTests",
     "downloads": 21496
+  },
+  {
+    "library": "dunn.test",
+    "downloads": 216734
   },
   {
     "library": "dupiR",
@@ -14220,12 +14216,12 @@
     "downloads": 19821
   },
   {
-    "library": "elec.strat",
-    "downloads": 18424
-  },
-  {
     "library": "EleChemr",
     "downloads": 3378
+  },
+  {
+    "library": "elec.strat",
+    "downloads": 18424
   },
   {
     "library": "elect",
@@ -14336,10 +14332,6 @@
     "downloads": 16207
   },
   {
-    "library": "EM.Fuzzy",
-    "downloads": 4425
-  },
-  {
     "library": "EMA",
     "downloads": 30103
   },
@@ -14398,6 +14390,10 @@
   {
     "library": "emdist",
     "downloads": 27141
+  },
+  {
+    "library": "EM.Fuzzy",
+    "downloads": 4425
   },
   {
     "library": "emg",
@@ -15052,6 +15048,10 @@
     "downloads": 309245
   },
   {
+    "library": "ergMargins",
+    "downloads": 1747
+  },
+  {
     "library": "ergm.count",
     "downloads": 162948
   },
@@ -15060,20 +15060,16 @@
     "downloads": 24482
   },
   {
+    "library": "ergmharris",
+    "downloads": 17768
+  },
+  {
     "library": "ergm.rank",
     "downloads": 25438
   },
   {
     "library": "ergm.userterms",
     "downloads": 83687
-  },
-  {
-    "library": "ergMargins",
-    "downloads": 1747
-  },
-  {
-    "library": "ergmharris",
-    "downloads": 17768
   },
   {
     "library": "eRm",
@@ -15128,10 +15124,6 @@
     "downloads": 18399
   },
   {
-    "library": "es.dif",
-    "downloads": 3881
-  },
-  {
     "library": "esaBcv",
     "downloads": 16261
   },
@@ -15146,6 +15138,10 @@
   {
     "library": "esDesign",
     "downloads": 4755
+  },
+  {
+    "library": "es.dif",
+    "downloads": 3881
   },
   {
     "library": "eSDM",
@@ -15336,10 +15332,6 @@
     "downloads": 67685
   },
   {
-    "library": "ev.trawl",
-    "downloads": 3380
-  },
-  {
     "library": "eva",
     "downloads": 19019
   },
@@ -15470,6 +15462,10 @@
   {
     "library": "evtclass",
     "downloads": 3872
+  },
+  {
+    "library": "ev.trawl",
+    "downloads": 3380
   },
   {
     "library": "evtree",
@@ -16008,10 +16004,6 @@
     "downloads": 9688
   },
   {
-    "library": "fam.recrisk",
-    "downloads": 3620
-  },
-  {
     "library": "fam2r",
     "downloads": 7234
   },
@@ -16038,6 +16030,10 @@
   {
     "library": "FAMoS",
     "downloads": 3719
+  },
+  {
+    "library": "fam.recrisk",
+    "downloads": 3620
   },
   {
     "library": "famSKATRC",
@@ -16436,10 +16432,6 @@
     "downloads": 423862
   },
   {
-    "library": "fda.usc",
-    "downloads": 75683
-  },
-  {
     "library": "fdadensity",
     "downloads": 6316
   },
@@ -16470,6 +16462,10 @@
   {
     "library": "fdatest",
     "downloads": 18556
+  },
+  {
+    "library": "fda.usc",
+    "downloads": 75683
   },
   {
     "library": "FDboost",
@@ -16992,10 +16988,6 @@
     "downloads": 12520
   },
   {
-    "library": "fit.models",
-    "downloads": 284704
-  },
-  {
     "library": "fit4NM",
     "downloads": 18748
   },
@@ -17026,6 +17018,10 @@
   {
     "library": "fitHeavyTail",
     "downloads": 135
+  },
+  {
+    "library": "fit.models",
+    "downloads": 284704
   },
   {
     "library": "fitODBOD",
@@ -17612,12 +17608,12 @@
     "downloads": 5971545
   },
   {
-    "library": "formula.tools",
-    "downloads": 80642
-  },
-  {
     "library": "formulaic",
     "downloads": 1500
+  },
+  {
+    "library": "formula.tools",
+    "downloads": 80642
   },
   {
     "library": "formulize",
@@ -18288,10 +18284,6 @@
     "downloads": 10241
   },
   {
-    "library": "Fuzzy.p.value",
-    "downloads": 9383
-  },
-  {
     "library": "FuzzyAHP",
     "downloads": 12898
   },
@@ -18322,6 +18314,10 @@
   {
     "library": "FuzzyNumbers.Ext.2",
     "downloads": 10564
+  },
+  {
+    "library": "Fuzzy.p.value",
+    "downloads": 9383
   },
   {
     "library": "FuzzyR",
@@ -18378,10 +18374,6 @@
   {
     "library": "fy",
     "downloads": 1947
-  },
-  {
-    "library": "g.data",
-    "downloads": 41157
   },
   {
     "library": "G1DBN",
@@ -18528,6 +18520,10 @@
     "downloads": 28840
   },
   {
+    "library": "gamlssbssn",
+    "downloads": 6280
+  },
+  {
     "library": "gamlss.cens",
     "downloads": 32290
   },
@@ -18572,10 +18568,6 @@
     "downloads": 24737
   },
   {
-    "library": "gamlssbssn",
-    "downloads": 6280
-  },
-  {
     "library": "gamm4",
     "downloads": 214393
   },
@@ -18616,12 +18608,12 @@
     "downloads": 116155
   },
   {
-    "library": "gap.datasets",
-    "downloads": 7153
-  },
-  {
     "library": "GAparsimony",
     "downloads": 6898
+  },
+  {
+    "library": "gap.datasets",
+    "downloads": 7153
   },
   {
     "library": "gapfill",
@@ -18830,6 +18822,10 @@
   {
     "library": "gdalUtils",
     "downloads": 321114
+  },
+  {
+    "library": "g.data",
+    "downloads": 41157
   },
   {
     "library": "gdata",
@@ -19692,10 +19688,6 @@
     "downloads": 1509
   },
   {
-    "library": "gg.gap",
-    "downloads": 793
-  },
-  {
     "library": "ggallin",
     "downloads": 6643
   },
@@ -19822,6 +19814,10 @@
   {
     "library": "ggfortify",
     "downloads": 534805
+  },
+  {
+    "library": "gg.gap",
+    "downloads": 793
   },
   {
     "library": "gggenes",
@@ -19968,10 +19964,6 @@
     "downloads": 4498
   },
   {
-    "library": "ggplot.multistats",
-    "downloads": 3813
-  },
-  {
     "library": "ggplot2",
     "downloads": 26700535
   },
@@ -19994,6 +19986,10 @@
   {
     "library": "ggplotlyExtra",
     "downloads": 188
+  },
+  {
+    "library": "ggplot.multistats",
+    "downloads": 3813
   },
   {
     "library": "ggpmisc",
@@ -20200,12 +20196,12 @@
     "downloads": 12273
   },
   {
-    "library": "gibbs.met",
-    "downloads": 19830
-  },
-  {
     "library": "GibbsACOV",
     "downloads": 18353
+  },
+  {
+    "library": "gibbs.met",
+    "downloads": 19830
   },
   {
     "library": "Gifi",
@@ -20408,14 +20404,6 @@
     "downloads": 8968
   },
   {
-    "library": "glm.deploy",
-    "downloads": 5905
-  },
-  {
-    "library": "glm.predict",
-    "downloads": 19517
-  },
-  {
     "library": "glm2",
     "downloads": 102983
   },
@@ -20438,6 +20426,10 @@
   {
     "library": "glmc",
     "downloads": 23964
+  },
+  {
+    "library": "glm.deploy",
+    "downloads": 5905
   },
   {
     "library": "glmdisc",
@@ -20526,6 +20518,10 @@
   {
     "library": "glmpca",
     "downloads": 1148
+  },
+  {
+    "library": "glm.predict",
+    "downloads": 19517
   },
   {
     "library": "GLMsData",
@@ -21984,10 +21980,6 @@
     "downloads": 18401
   },
   {
-    "library": "HAP.ROR",
-    "downloads": 17628
-  },
-  {
     "library": "hapassoc",
     "downloads": 25454
   },
@@ -22004,10 +21996,6 @@
     "downloads": 27279
   },
   {
-    "library": "haplo.stats",
-    "downloads": 92851
-  },
-  {
     "library": "haploR",
     "downloads": 20703
   },
@@ -22018,6 +22006,10 @@
   {
     "library": "HaploSim",
     "downloads": 33841
+  },
+  {
+    "library": "haplo.stats",
+    "downloads": 92851
   },
   {
     "library": "haplotyper",
@@ -22034,6 +22026,10 @@
   {
     "library": "happytime",
     "downloads": 4242
+  },
+  {
+    "library": "HAP.ROR",
+    "downloads": 17628
   },
   {
     "library": "hapsim",
@@ -22320,10 +22316,6 @@
     "downloads": 16438
   },
   {
-    "library": "heatmap.plus",
-    "downloads": 68208
-  },
-  {
     "library": "heatmap3",
     "downloads": 56307
   },
@@ -22334,6 +22326,10 @@
   {
     "library": "heatmaply",
     "downloads": 144995
+  },
+  {
+    "library": "heatmap.plus",
+    "downloads": 68208
   },
   {
     "library": "heatwaveR",
@@ -22424,10 +22420,6 @@
     "downloads": 6620
   },
   {
-    "library": "het.test",
-    "downloads": 38869
-  },
-  {
     "library": "hetGP",
     "downloads": 8263
   },
@@ -22438,6 +22430,10 @@
   {
     "library": "hett",
     "downloads": 28297
+  },
+  {
+    "library": "het.test",
+    "downloads": 38869
   },
   {
     "library": "hettx",
@@ -22552,10 +22548,6 @@
     "downloads": 25446
   },
   {
-    "library": "hier.part",
-    "downloads": 35295
-  },
-  {
     "library": "hierarchicalDS",
     "downloads": 17715
   },
@@ -22586,6 +22578,10 @@
   {
     "library": "HierO",
     "downloads": 14088
+  },
+  {
+    "library": "hier.part",
+    "downloads": 35295
   },
   {
     "library": "hiertest",
@@ -22736,16 +22732,16 @@
     "downloads": 41720
   },
   {
-    "library": "HIV.LifeTables",
-    "downloads": 15776
-  },
-  {
     "library": "hive",
     "downloads": 24667
   },
   {
     "library": "HiveR",
     "downloads": 34620
+  },
+  {
+    "library": "HIV.LifeTables",
+    "downloads": 15776
   },
   {
     "library": "HK80",
@@ -22804,16 +22800,16 @@
     "downloads": 48111
   },
   {
-    "library": "hmm.discnp",
-    "downloads": 28968
-  },
-  {
     "library": "HMMCont",
     "downloads": 16489
   },
   {
     "library": "HMMcopula",
     "downloads": 3998
+  },
+  {
+    "library": "hmm.discnp",
+    "downloads": 28968
   },
   {
     "library": "HMMEsolver",
@@ -23252,10 +23248,6 @@
     "downloads": 61982
   },
   {
-    "library": "HW.pval",
-    "downloads": 17687
-  },
-  {
     "library": "hwde",
     "downloads": 24585
   },
@@ -23270,6 +23262,10 @@
   {
     "library": "hwordcloud",
     "downloads": 1841
+  },
+  {
+    "library": "HW.pval",
+    "downloads": 17687
   },
   {
     "library": "hwriter",
@@ -23352,10 +23348,6 @@
     "downloads": 12921
   },
   {
-    "library": "hyper.fit",
-    "downloads": 8670
-  },
-  {
     "library": "hyper2",
     "downloads": 9909
   },
@@ -23366,6 +23358,10 @@
   {
     "library": "hypercube",
     "downloads": 5605
+  },
+  {
+    "library": "hyper.fit",
+    "downloads": 8670
   },
   {
     "library": "hypergate",
@@ -23556,10 +23552,6 @@
     "downloads": 6817
   },
   {
-    "library": "ic.infer",
-    "downloads": 46744
-  },
-  {
     "library": "iC10",
     "downloads": 30511
   },
@@ -23620,10 +23612,6 @@
     "downloads": 60689
   },
   {
-    "library": "ICC.Sample.Size",
-    "downloads": 11969
-  },
-  {
     "library": "ICcalib",
     "downloads": 6952
   },
@@ -23640,16 +23628,20 @@
     "downloads": 2768
   },
   {
+    "library": "ICC.Sample.Size",
+    "downloads": 11969
+  },
+  {
     "library": "icd",
     "downloads": 28115
   },
   {
-    "library": "icd.data",
-    "downloads": 8217
-  },
-  {
     "library": "ICD10gm",
     "downloads": 2744
+  },
+  {
+    "library": "icd.data",
+    "downloads": 8217
   },
   {
     "library": "icdGLM",
@@ -23722,6 +23714,10 @@
   {
     "library": "ICGOR",
     "downloads": 10363
+  },
+  {
+    "library": "ic.infer",
+    "downloads": 46744
   },
   {
     "library": "iCiteR",
@@ -23972,10 +23968,6 @@
     "downloads": 120999
   },
   {
-    "library": "ig.vancouver.2014.topcolour",
-    "downloads": 10745
-  },
-  {
     "library": "iGasso",
     "downloads": 18967
   },
@@ -24014,6 +24006,10 @@
   {
     "library": "iGSEA",
     "downloads": 6119
+  },
+  {
+    "library": "ig.vancouver.2014.topcolour",
+    "downloads": 10745
   },
   {
     "library": "iheatmapr",
@@ -24448,12 +24444,12 @@
     "downloads": 62359
   },
   {
-    "library": "influence.SEM",
-    "downloads": 24188
-  },
-  {
     "library": "influenceR",
     "downloads": 483619
+  },
+  {
+    "library": "influence.SEM",
+    "downloads": 24188
   },
   {
     "library": "influxdbr",
@@ -25432,12 +25428,12 @@
     "downloads": 4944
   },
   {
-    "library": "its.analysis",
-    "downloads": 2060
-  },
-  {
     "library": "itsadug",
     "downloads": 27938
+  },
+  {
+    "library": "its.analysis",
+    "downloads": 2060
   },
   {
     "library": "itsmr",
@@ -25748,12 +25744,12 @@
     "downloads": 1587
   },
   {
-    "library": "joint.Cox",
-    "downloads": 32453
-  },
-  {
     "library": "JointAI",
     "downloads": 8354
+  },
+  {
+    "library": "joint.Cox",
+    "downloads": 32453
   },
   {
     "library": "jointDiag",
@@ -26348,12 +26344,12 @@
     "downloads": 1351
   },
   {
-    "library": "km.ci",
-    "downloads": 243321
-  },
-  {
     "library": "kmc",
     "downloads": 14891
+  },
+  {
+    "library": "km.ci",
+    "downloads": 243321
   },
   {
     "library": "kmconfband",
@@ -26436,12 +26432,12 @@
     "downloads": 6283
   },
   {
-    "library": "knn.covertree",
-    "downloads": 984
-  },
-  {
     "library": "knncat",
     "downloads": 26106
+  },
+  {
+    "library": "knn.covertree",
+    "downloads": 984
   },
   {
     "library": "knnGarden",
@@ -26748,10 +26744,6 @@
     "downloads": 118616
   },
   {
-    "library": "label.switching",
-    "downloads": 24777
-  },
-  {
     "library": "labeledLoop",
     "downloads": 16428
   },
@@ -26770,6 +26762,10 @@
   {
     "library": "labelrank",
     "downloads": 9393
+  },
+  {
+    "library": "label.switching",
+    "downloads": 24777
   },
   {
     "library": "labelVector",
@@ -26860,16 +26856,16 @@
     "downloads": 8913
   },
   {
+    "library": "Lambda4",
+    "downloads": 23998
+  },
+  {
     "library": "lambda.r",
     "downloads": 1446718
   },
   {
     "library": "lambda.tools",
     "downloads": 30215
-  },
-  {
-    "library": "Lambda4",
-    "downloads": 23998
   },
   {
     "library": "LambertW",
@@ -27044,12 +27040,12 @@
     "downloads": 2247903
   },
   {
-    "library": "lava.tobit",
-    "downloads": 75029
-  },
-  {
     "library": "lavaan",
     "downloads": 916678
+  },
+  {
+    "library": "lavaanPlot",
+    "downloads": 14652
   },
   {
     "library": "lavaan.shiny",
@@ -27060,16 +27056,16 @@
     "downloads": 277722
   },
   {
-    "library": "lavaanPlot",
-    "downloads": 14652
-  },
-  {
     "library": "lavaSearch2",
     "downloads": 8992
   },
   {
     "library": "Lavash",
     "downloads": 4763
+  },
+  {
+    "library": "lava.tobit",
+    "downloads": 75029
   },
   {
     "library": "lawn",
@@ -27216,12 +27212,12 @@
     "downloads": 200724
   },
   {
-    "library": "lda.svi",
-    "downloads": 1335
-  },
-  {
     "library": "ldamatch",
     "downloads": 10955
+  },
+  {
+    "library": "lda.svi",
+    "downloads": 1335
   },
   {
     "library": "ldat",
@@ -27304,12 +27300,20 @@
     "downloads": 1263648
   },
   {
+    "library": "leafletCN",
+    "downloads": 13128
+  },
+  {
     "library": "leaflet.esri",
     "downloads": 11005
   },
   {
     "library": "leaflet.extras",
     "downloads": 89075
+  },
+  {
+    "library": "leaflethex",
+    "downloads": 976
   },
   {
     "library": "leaflet.minicharts",
@@ -27322,14 +27326,6 @@
   {
     "library": "leaflet.providers",
     "downloads": 47947
-  },
-  {
-    "library": "leafletCN",
-    "downloads": 13128
-  },
-  {
-    "library": "leaflethex",
-    "downloads": 976
   },
   {
     "library": "leafletR",
@@ -27524,12 +27520,12 @@
     "downloads": 41717
   },
   {
-    "library": "LFDR.MLE",
-    "downloads": 10450
-  },
-  {
     "library": "LFDREmpiricalBayes",
     "downloads": 5731
+  },
+  {
+    "library": "LFDR.MLE",
+    "downloads": 10450
   },
   {
     "library": "lfe",
@@ -27740,10 +27736,6 @@
     "downloads": 105632
   },
   {
-    "library": "lin.eval",
-    "downloads": 2690
-  },
-  {
     "library": "linbin",
     "downloads": 13246
   },
@@ -27768,10 +27760,6 @@
     "downloads": 8905
   },
   {
-    "library": "linear.tools",
-    "downloads": 9514
-  },
-  {
     "library": "linearOrdering",
     "downloads": 695
   },
@@ -27782,6 +27770,10 @@
   {
     "library": "LinearRegressionMDE",
     "downloads": 11994
+  },
+  {
+    "library": "linear.tools",
+    "downloads": 9514
   },
   {
     "library": "linemap",
@@ -27798,6 +27790,10 @@
   {
     "library": "lineup",
     "downloads": 18879
+  },
+  {
+    "library": "lin.eval",
+    "downloads": 2690
   },
   {
     "library": "lingtypology",
@@ -28000,12 +27996,12 @@
     "downloads": 94294
   },
   {
-    "library": "lm.br",
-    "downloads": 20185
-  },
-  {
     "library": "lmboot",
     "downloads": 1443
+  },
+  {
+    "library": "lm.br",
+    "downloads": 20185
   },
   {
     "library": "lmds",
@@ -29516,10 +29512,6 @@
     "downloads": 4405561
   },
   {
-    "library": "Matrix.utils",
-    "downloads": 33694
-  },
-  {
     "library": "matrixcalc",
     "downloads": 1132270
   },
@@ -29570,6 +29562,10 @@
   {
     "library": "matrixTests",
     "downloads": 8237
+  },
+  {
+    "library": "Matrix.utils",
+    "downloads": 33694
   },
   {
     "library": "matsbyname",
@@ -29784,10 +29780,6 @@
     "downloads": 10535
   },
   {
-    "library": "mc.heterogeneity",
-    "downloads": 1645
-  },
-  {
     "library": "mc2d",
     "downloads": 205919
   },
@@ -29872,6 +29864,10 @@
     "downloads": 13816
   },
   {
+    "library": "mc.heterogeneity",
+    "downloads": 1645
+  },
+  {
     "library": "MChtest",
     "downloads": 17886
   },
@@ -29912,14 +29908,6 @@
     "downloads": 391631
   },
   {
-    "library": "MCMC.OTU",
-    "downloads": 15550
-  },
-  {
-    "library": "MCMC.qpcr",
-    "downloads": 21337
-  },
-  {
     "library": "MCMC4Extremes",
     "downloads": 12623
   },
@@ -29936,6 +29924,10 @@
     "downloads": 242080
   },
   {
+    "library": "MCMC.OTU",
+    "downloads": 15550
+  },
+  {
     "library": "MCMCpack",
     "downloads": 603240
   },
@@ -29946,6 +29938,10 @@
   {
     "library": "MCMCprecision",
     "downloads": 8827
+  },
+  {
+    "library": "MCMC.qpcr",
+    "downloads": 21337
   },
   {
     "library": "mcmcr",
@@ -30044,10 +30040,6 @@
     "downloads": 8803
   },
   {
-    "library": "md.log",
-    "downloads": 5830
-  },
-  {
     "library": "mda",
     "downloads": 560995
   },
@@ -30086,6 +30078,10 @@
   {
     "library": "mdir.logrank",
     "downloads": 4422
+  },
+  {
+    "library": "md.log",
+    "downloads": 5830
   },
   {
     "library": "mdmb",
@@ -31636,10 +31632,6 @@
     "downloads": 18323
   },
   {
-    "library": "ML.MSBD",
-    "downloads": 6085
-  },
-  {
     "library": "mlapi",
     "downloads": 72388
   },
@@ -31688,10 +31680,6 @@
     "downloads": 30366
   },
   {
-    "library": "mle.tools",
-    "downloads": 7913
-  },
-  {
     "library": "mleap",
     "downloads": 7123
   },
@@ -31710,6 +31698,10 @@
   {
     "library": "mlergm",
     "downloads": 5304
+  },
+  {
+    "library": "mle.tools",
+    "downloads": 7913
   },
   {
     "library": "mleur",
@@ -31778,6 +31770,10 @@
   {
     "library": "mlmRev",
     "downloads": 196745
+  },
+  {
+    "library": "ML.MSBD",
+    "downloads": 6085
   },
   {
     "library": "mlogit",
@@ -32092,12 +32088,12 @@
     "downloads": 6000
   },
   {
-    "library": "moc.gapbk",
-    "downloads": 2126
-  },
-  {
     "library": "MOCCA",
     "downloads": 23307
+  },
+  {
+    "library": "moc.gapbk",
+    "downloads": 2126
   },
   {
     "library": "mockery",
@@ -32424,12 +32420,12 @@
     "downloads": 24917
   },
   {
-    "library": "Monte.Carlo.se",
-    "downloads": 2051
-  },
-  {
     "library": "MonteCarlo",
     "downloads": 21715
+  },
+  {
+    "library": "Monte.Carlo.se",
+    "downloads": 2051
   },
   {
     "library": "moonBook",
@@ -32736,10 +32732,6 @@
     "downloads": 17994
   },
   {
-    "library": "mr.raps",
-    "downloads": 4933
-  },
-  {
     "library": "mra",
     "downloads": 22144
   },
@@ -32844,6 +32836,10 @@
     "downloads": 9978
   },
   {
+    "library": "mr.raps",
+    "downloads": 4933
+  },
+  {
     "library": "MRS",
     "downloads": 12381
   },
@@ -32858,10 +32854,6 @@
   {
     "library": "MRwarping",
     "downloads": 15652
-  },
-  {
-    "library": "ms.sev",
-    "downloads": 10967
   },
   {
     "library": "msaenet",
@@ -33006,6 +32998,10 @@
   {
     "library": "MSQC",
     "downloads": 22384
+  },
+  {
+    "library": "ms.sev",
+    "downloads": 10967
   },
   {
     "library": "mssm",
@@ -33796,10 +33792,6 @@
     "downloads": 55469
   },
   {
-    "library": "My.stepwise",
-    "downloads": 9314
-  },
-  {
     "library": "mycobacrvR",
     "downloads": 14030
   },
@@ -33820,6 +33812,10 @@
     "downloads": 16092
   },
   {
+    "library": "My.stepwise",
+    "downloads": 9314
+  },
+  {
     "library": "myTAI",
     "downloads": 18295
   },
@@ -33834,10 +33830,6 @@
   {
     "library": "N2H4",
     "downloads": 2242
-  },
-  {
-    "library": "na.tools",
-    "downloads": 11706
   },
   {
     "library": "nabor",
@@ -33948,24 +33940,24 @@
     "downloads": 24665
   },
   {
-    "library": "nat.nblast",
-    "downloads": 13679
-  },
-  {
-    "library": "nat.templatebrains",
-    "downloads": 14797
-  },
-  {
-    "library": "nat.utils",
-    "downloads": 22187
-  },
-  {
     "library": "nationwider",
     "downloads": 670
   },
   {
+    "library": "nat.nblast",
+    "downloads": 13679
+  },
+  {
+    "library": "na.tools",
+    "downloads": 11706
+  },
+  {
     "library": "natserv",
     "downloads": 73312
+  },
+  {
+    "library": "nat.templatebrains",
+    "downloads": 14797
   },
   {
     "library": "natural",
@@ -33980,12 +33972,12 @@
     "downloads": 9831
   },
   {
-    "library": "NB",
-    "downloads": 13883
+    "library": "nat.utils",
+    "downloads": 22187
   },
   {
-    "library": "NB.MClust",
-    "downloads": 6457
+    "library": "NB",
+    "downloads": 13883
   },
   {
     "library": "NBAloveR",
@@ -34014,6 +34006,10 @@
   {
     "library": "NBLDA",
     "downloads": 3946
+  },
+  {
+    "library": "NB.MClust",
+    "downloads": 6457
   },
   {
     "library": "nbpMatching",
@@ -34056,16 +34052,16 @@
     "downloads": 95522
   },
   {
-    "library": "ncdf.tools",
-    "downloads": 39870
-  },
-  {
     "library": "ncdf4",
     "downloads": 477305
   },
   {
     "library": "ncdfgeom",
     "downloads": 5594
+  },
+  {
+    "library": "ncdf.tools",
+    "downloads": 39870
   },
   {
     "library": "ncdump",
@@ -34740,10 +34736,6 @@
     "downloads": 3107
   },
   {
-    "library": "nls.multstart",
-    "downloads": 5924
-  },
-  {
     "library": "nls2",
     "downloads": 66237
   },
@@ -34766,6 +34758,10 @@
   {
     "library": "nlsmsn",
     "downloads": 16478
+  },
+  {
+    "library": "nls.multstart",
+    "downloads": 5924
   },
   {
     "library": "nlsr",
@@ -34805,799 +34801,799 @@
   },
   {
     "library": "nlWaldTest",
-    "downloads": 19826
+    "downloads": 0
   },
   {
     "library": "nmadb",
-    "downloads": 1815
+    "downloads": 0
   },
   {
     "library": "nmaINLA",
-    "downloads": 6771
+    "downloads": 0
   },
   {
     "library": "NMAoutlier",
-    "downloads": 2667
+    "downloads": 0
   },
   {
     "library": "nmathresh",
-    "downloads": 6066
+    "downloads": 0
   },
   {
     "library": "NMF",
-    "downloads": 1380421
+    "downloads": 0
   },
   {
     "library": "nmfem",
-    "downloads": 6090
+    "downloads": 0
   },
   {
     "library": "nmfgpu4R",
-    "downloads": 8448
+    "downloads": 0
   },
   {
     "library": "NMFN",
-    "downloads": 19887
+    "downloads": 0
   },
   {
     "library": "NMI",
-    "downloads": 8774
+    "downloads": 0
   },
   {
     "library": "Nmisc",
-    "downloads": 4794
+    "downloads": 0
   },
   {
     "library": "nmixgof",
-    "downloads": 3849
+    "downloads": 0
   },
   {
     "library": "NMOF",
-    "downloads": 63664
+    "downloads": 0
   },
   {
     "library": "nmslibR",
-    "downloads": 6317
+    "downloads": 0
   },
   {
     "library": "NMVANOVA",
-    "downloads": 524
+    "downloads": 0
   },
   {
     "library": "nmw",
-    "downloads": 7282
+    "downloads": 0
   },
   {
     "library": "nna",
-    "downloads": 4062
+    "downloads": 0
   },
   {
     "library": "nnet",
-    "downloads": 1570380
+    "downloads": 0
   },
   {
     "library": "nnetpredint",
-    "downloads": 29521
+    "downloads": 0
   },
   {
     "library": "nnfor",
-    "downloads": 21646
+    "downloads": 0
   },
   {
     "library": "nngeo",
-    "downloads": 13343
+    "downloads": 0
   },
   {
     "library": "nnlasso",
-    "downloads": 11777
+    "downloads": 0
   },
   {
     "library": "NNLM",
-    "downloads": 12333
+    "downloads": 0
   },
   {
     "library": "nnls",
-    "downloads": 279744
+    "downloads": 0
   },
   {
     "library": "NNMIS",
-    "downloads": 5983
+    "downloads": 0
   },
   {
     "library": "NNS",
-    "downloads": 34533
+    "downloads": 0
   },
   {
     "library": "NNTbiomarker",
-    "downloads": 11585
+    "downloads": 0
   },
   {
     "library": "nnTensor",
-    "downloads": 6198
+    "downloads": 0
   },
   {
     "library": "noaaoceans",
-    "downloads": 2810
+    "downloads": 0
   },
   {
     "library": "noaastormevents",
-    "downloads": 5270
+    "downloads": 0
   },
   {
     "library": "noctua",
-    "downloads": 477
+    "downloads": 0
   },
   {
     "library": "nodbi",
-    "downloads": 4713
+    "downloads": 0
   },
   {
     "library": "nodeHarvest",
-    "downloads": 55691
+    "downloads": 0
   },
   {
     "library": "nodiv",
-    "downloads": 19900
+    "downloads": 0
   },
   {
     "library": "nofrills",
-    "downloads": 7471
+    "downloads": 0
   },
   {
     "library": "noia",
-    "downloads": 18172
+    "downloads": 0
   },
   {
     "library": "noise",
-    "downloads": 7222
+    "downloads": 0
   },
   {
     "library": "NoiseFiltersR",
-    "downloads": 9211
+    "downloads": 0
   },
   {
     "library": "noisyCE2",
-    "downloads": 953
+    "downloads": 0
   },
   {
     "library": "nomclust",
-    "downloads": 12670
+    "downloads": 0
   },
   {
     "library": "NominalLogisticBiplot",
-    "downloads": 18245
+    "downloads": 0
   },
   {
     "library": "nomisr",
-    "downloads": 6472
+    "downloads": 0
   },
   {
     "library": "nomnoml",
-    "downloads": 1804
+    "downloads": 0
   },
   {
     "library": "nomogramEx",
-    "downloads": 8383
+    "downloads": 0
   },
   {
     "library": "nomogramFormula",
-    "downloads": 1007
+    "downloads": 0
   },
   {
     "library": "noncensus",
-    "downloads": 91309
+    "downloads": 0
   },
   {
     "library": "NonCompart",
-    "downloads": 18667
+    "downloads": 0
   },
   {
     "library": "noncompliance",
-    "downloads": 8437
+    "downloads": 0
   },
   {
     "library": "noncomplyR",
-    "downloads": 5428
+    "downloads": 0
   },
   {
     "library": "nonet",
-    "downloads": 3191
+    "downloads": 0
   },
   {
     "library": "nonlinearICP",
-    "downloads": 6028
+    "downloads": 0
   },
   {
     "library": "nonlinearTseries",
-    "downloads": 47212
+    "downloads": 0
   },
   {
     "library": "nonmem2R",
-    "downloads": 10526
+    "downloads": 0
   },
   {
     "library": "nonmemica",
-    "downloads": 9411
+    "downloads": 0
   },
   {
     "library": "nonneg.cg",
-    "downloads": 3691
+    "downloads": 0
   },
   {
     "library": "nonnest2",
-    "downloads": 58104
+    "downloads": 0
   },
   {
     "library": "NonNorMvtDist",
-    "downloads": 1241
+    "downloads": 0
   },
   {
     "library": "nonpar",
-    "downloads": 10216
+    "downloads": 0
   },
   {
     "library": "nonparaeff",
-    "downloads": 25604
+    "downloads": 0
   },
   {
     "library": "Nonpareil",
-    "downloads": 6381
+    "downloads": 0
   },
   {
     "library": "NonpModelCheck",
-    "downloads": 18223
+    "downloads": 0
   },
   {
     "library": "NonProbEst",
-    "downloads": 1797
+    "downloads": 0
   },
   {
     "library": "nontarget",
-    "downloads": 19160
+    "downloads": 0
   },
   {
     "library": "nontargetData",
-    "downloads": 13679
+    "downloads": 0
   },
   {
     "library": "nopaco",
-    "downloads": 9483
+    "downloads": 0
   },
   {
     "library": "nopp",
-    "downloads": 17557
+    "downloads": 0
   },
   {
     "library": "nor1mix",
-    "downloads": 216995
+    "downloads": 0
   },
   {
     "library": "nord",
-    "downloads": 5054
+    "downloads": 0
   },
   {
     "library": "nordklimdata1",
-    "downloads": 13047
+    "downloads": 0
   },
   {
     "library": "norm",
-    "downloads": 68944
+    "downloads": 0
   },
   {
     "library": "norm2",
-    "downloads": 7670
+    "downloads": 0
   },
   {
     "library": "NORMA",
-    "downloads": 6983
+    "downloads": 0
   },
   {
     "library": "NormalBetaPrime",
-    "downloads": 4596
+    "downloads": 0
   },
   {
     "library": "NormalGamma",
-    "downloads": 22024
+    "downloads": 0
   },
   {
     "library": "NormalizeMets",
-    "downloads": 6853
+    "downloads": 0
   },
   {
     "library": "NormalLaplace",
-    "downloads": 18747
+    "downloads": 0
   },
   {
     "library": "normalp",
-    "downloads": 30344
+    "downloads": 0
   },
   {
     "library": "normalr",
-    "downloads": 10687
+    "downloads": 0
   },
   {
     "library": "NormExpression",
-    "downloads": 4439
+    "downloads": 0
   },
   {
     "library": "NormPsy",
-    "downloads": 15656
+    "downloads": 0
   },
   {
     "library": "NORMT3",
-    "downloads": 25034
+    "downloads": 0
   },
   {
     "library": "normtest",
-    "downloads": 64527
+    "downloads": 0
   },
   {
     "library": "normwhn.test",
-    "downloads": 21111
+    "downloads": 0
   },
   {
     "library": "norris",
-    "downloads": 4543
+    "downloads": 0
   },
   {
     "library": "NORRRM",
-    "downloads": 11581
+    "downloads": 0
   },
   {
     "library": "NORTARA",
-    "downloads": 12087
+    "downloads": 0
   },
   {
     "library": "nortest",
-    "downloads": 1314477
+    "downloads": 0
   },
   {
     "library": "nortestARMA",
-    "downloads": 9640
+    "downloads": 0
   },
   {
     "library": "nos",
-    "downloads": 5769
+    "downloads": 0
   },
   {
     "library": "nose",
-    "downloads": 36819
+    "downloads": 0
   },
   {
     "library": "NostalgiR",
-    "downloads": 9666
+    "downloads": 0
   },
   {
     "library": "not",
-    "downloads": 7601
+    "downloads": 0
   },
   {
     "library": "noteMD",
-    "downloads": 2269
+    "downloads": 0
   },
   {
     "library": "notifyme",
-    "downloads": 7916
+    "downloads": 0
   },
   {
     "library": "notifyR",
-    "downloads": 16983
+    "downloads": 0
   },
   {
     "library": "nowcasting",
-    "downloads": 9330
+    "downloads": 0
   },
   {
     "library": "noweb",
-    "downloads": 15734
+    "downloads": 0
   },
   {
     "library": "Nozzle.R1",
-    "downloads": 37121
+    "downloads": 0
   },
   {
     "library": "np",
-    "downloads": 327347
+    "downloads": 0
   },
   {
     "library": "nparACT",
-    "downloads": 12774
+    "downloads": 0
   },
   {
     "library": "nparcomp",
-    "downloads": 39387
+    "downloads": 0
   },
   {
     "library": "nparLD",
-    "downloads": 23285
+    "downloads": 0
   },
   {
     "library": "nparMD",
-    "downloads": 3916
+    "downloads": 0
   },
   {
     "library": "nparsurv",
-    "downloads": 6213
+    "downloads": 0
   },
   {
     "library": "NPBayesImputeCat",
-    "downloads": 3169
+    "downloads": 0
   },
   {
     "library": "npbr",
-    "downloads": 16703
+    "downloads": 0
   },
   {
     "library": "NPC",
-    "downloads": 12260
+    "downloads": 0
   },
   {
     "library": "NPCD",
-    "downloads": 22353
+    "downloads": 0
   },
   {
     "library": "NPCirc",
-    "downloads": 19598
+    "downloads": 0
   },
   {
     "library": "npcopTest",
-    "downloads": 6568
+    "downloads": 0
   },
   {
     "library": "npcp",
-    "downloads": 17350
+    "downloads": 0
   },
   {
     "library": "npcure",
-    "downloads": 1996
+    "downloads": 0
   },
   {
     "library": "npExact",
-    "downloads": 3048
+    "downloads": 0
   },
   {
     "library": "NPflow",
-    "downloads": 10651
+    "downloads": 0
   },
   {
     "library": "nph",
-    "downloads": 967
+    "downloads": 0
   },
   {
     "library": "NPHazardRate",
-    "downloads": 2843
+    "downloads": 0
   },
   {
     "library": "NPHMC",
-    "downloads": 20297
+    "downloads": 0
   },
   {
     "library": "npIntFactRep",
-    "downloads": 12639
+    "downloads": 0
   },
   {
     "library": "nplplot",
-    "downloads": 19123
+    "downloads": 0
   },
   {
     "library": "nplr",
-    "downloads": 21920
+    "downloads": 0
   },
   {
     "library": "npmlda",
-    "downloads": 4628
+    "downloads": 0
   },
   {
     "library": "NPMLEcmprsk",
-    "downloads": 19630
+    "downloads": 0
   },
   {
     "library": "NPMLENCC",
-    "downloads": 1465
+    "downloads": 0
   },
   {
     "library": "npmlreg",
-    "downloads": 24274
+    "downloads": 0
   },
   {
     "library": "NPMOD",
-    "downloads": 6058
+    "downloads": 0
   },
   {
     "library": "npmr",
-    "downloads": 9435
+    "downloads": 0
   },
   {
     "library": "npmv",
-    "downloads": 21039
+    "downloads": 0
   },
   {
     "library": "NPMVCP",
-    "downloads": 15911
+    "downloads": 0
   },
   {
     "library": "npordtests",
-    "downloads": 3415
+    "downloads": 0
   },
   {
     "library": "NPP",
-    "downloads": 1363
+    "downloads": 0
   },
   {
     "library": "nppbib",
-    "downloads": 18104
+    "downloads": 0
   },
   {
     "library": "npphen",
-    "downloads": 5840
+    "downloads": 0
   },
   {
     "library": "npreg",
-    "downloads": 1598
+    "downloads": 0
   },
   {
     "library": "npregfast",
-    "downloads": 12031
+    "downloads": 0
   },
   {
     "library": "nprobust",
-    "downloads": 8948
+    "downloads": 0
   },
   {
     "library": "nproc",
-    "downloads": 13925
+    "downloads": 0
   },
   {
     "library": "npROCRegression",
-    "downloads": 9326
+    "downloads": 0
   },
   {
     "library": "nprotreg",
-    "downloads": 3647
+    "downloads": 0
   },
   {
     "library": "NPS",
-    "downloads": 104980
+    "downloads": 0
   },
   {
     "library": "npsf",
-    "downloads": 14390
+    "downloads": 0
   },
   {
     "library": "NPsimex",
-    "downloads": 16855
+    "downloads": 0
   },
   {
     "library": "npsm",
-    "downloads": 19129
+    "downloads": 0
   },
   {
     "library": "npsp",
-    "downloads": 18115
+    "downloads": 0
   },
   {
     "library": "npsr",
-    "downloads": 3996
+    "downloads": 0
   },
   {
     "library": "npst",
-    "downloads": 20752
+    "downloads": 0
   },
   {
     "library": "npsurv",
-    "downloads": 304085
+    "downloads": 0
   },
   {
     "library": "nptest",
-    "downloads": 2088
+    "downloads": 0
   },
   {
     "library": "nricens",
-    "downloads": 15676
+    "downloads": 0
   },
   {
     "library": "nsapi",
-    "downloads": 4415
+    "downloads": 0
   },
   {
     "library": "nsarfima",
-    "downloads": 686
+    "downloads": 0
   },
   {
     "library": "nscancor",
-    "downloads": 13741
+    "downloads": 0
   },
   {
     "library": "NScluster",
-    "downloads": 19177
+    "downloads": 0
   },
   {
     "library": "nscprepr",
-    "downloads": 6083
+    "downloads": 0
   },
   {
     "library": "nse",
-    "downloads": 9959
+    "downloads": 0
   },
   {
     "library": "nseval",
-    "downloads": 3763
+    "downloads": 0
   },
   {
     "library": "nsga2R",
-    "downloads": 18901
+    "downloads": 0
   },
   {
     "library": "nsga3",
-    "downloads": 2721
+    "downloads": 0
   },
   {
     "library": "nsgp",
-    "downloads": 12364
+    "downloads": 0
   },
   {
     "library": "NSM3",
-    "downloads": 36924
+    "downloads": 0
   },
   {
     "library": "NSO1212",
-    "downloads": 2301
+    "downloads": 0
   },
   {
     "library": "nspmix",
-    "downloads": 6363
+    "downloads": 0
   },
   {
     "library": "nsprcomp",
-    "downloads": 25034
+    "downloads": 0
   },
   {
     "library": "nsRFA",
-    "downloads": 34107
+    "downloads": 0
   },
   {
     "library": "nsROC",
-    "downloads": 6297
+    "downloads": 0
   },
   {
     "library": "nsrr",
-    "downloads": 2851
+    "downloads": 0
   },
   {
     "library": "NST",
-    "downloads": 1734
+    "downloads": 0
   },
   {
     "library": "NSUM",
-    "downloads": 11972
+    "downloads": 0
   },
   {
     "library": "NTS",
-    "downloads": 4127
+    "downloads": 0
   },
   {
     "library": "nucim",
-    "downloads": 8113
+    "downloads": 0
   },
   {
     "library": "NUCOMBog",
-    "downloads": 10520
+    "downloads": 0
   },
   {
     "library": "nullabor",
-    "downloads": 24836
+    "downloads": 0
   },
   {
     "library": "numbers",
-    "downloads": 146632
+    "downloads": 0
   },
   {
     "library": "numbersBR",
-    "downloads": 4404
+    "downloads": 0
   },
   {
     "library": "numDeriv",
-    "downloads": 3722160
+    "downloads": 0
   },
   {
     "library": "Numero",
-    "downloads": 7571
+    "downloads": 0
   },
   {
     "library": "numform",
-    "downloads": 10582
+    "downloads": 0
   },
   {
     "library": "numGen",
-    "downloads": 6390
+    "downloads": 0
   },
   {
     "library": "numKM",
-    "downloads": 5730
+    "downloads": 0
   },
   {
     "library": "numOSL",
-    "downloads": 22807
+    "downloads": 0
   },
   {
     "library": "NutrienTrackeR",
-    "downloads": 3459
+    "downloads": 0
   },
   {
     "library": "nutriNetwork",
-    "downloads": 1905
+    "downloads": 0
   },
   {
     "library": "nutshell",
-    "downloads": 70339
+    "downloads": 0
   },
   {
     "library": "nutshell.audioscrobbler",
-    "downloads": 60731
+    "downloads": 0
   },
   {
     "library": "nutshell.bbdb",
-    "downloads": 57545
+    "downloads": 0
   },
   {
     "library": "nvctr",
-    "downloads": 2448
+    "downloads": 0
   },
   {
     "library": "nVennR",
-    "downloads": 6026
+    "downloads": 0
   },
   {
     "library": "nvmix",
-    "downloads": 3594
+    "downloads": 0
   },
   {
     "library": "nws",
-    "downloads": 99031
+    "downloads": 0
   },
   {
     "library": "nycflights13",
-    "downloads": 1045028
+    "downloads": 0
   },
   {
     "library": "nzelect",
-    "downloads": 8690
+    "downloads": 0
   },
   {
     "library": "nzilbb.labbcat",
-    "downloads": 2939
+    "downloads": 0
   },
   {
     "library": "nzpullover",
-    "downloads": 7076
+    "downloads": 0
   },
   {
     "library": "oaColors",
-    "downloads": 9983
+    "downloads": 0
   },
   {
     "library": "oai",
-    "downloads": 76716
+    "downloads": 0
   },
   {
     "library": "OAIHarvester",
-    "downloads": 53501
+    "downloads": 0
   },
   {
     "library": "oak",
-    "downloads": 3424
+    "downloads": 0
   },
   {
     "library": "oaPlots",
-    "downloads": 9238
+    "downloads": 0
   },
   {
     "library": "oaqc",
-    "downloads": 6135
+    "downloads": 0
   },
   {
     "library": "Oarray",
-    "downloads": 25117
+    "downloads": 0
   },
   {
     "library": "oasis",
@@ -36116,11 +36112,11 @@
     "downloads": 0
   },
   {
-    "library": "operator.tools",
+    "library": "operators",
     "downloads": 0
   },
   {
-    "library": "operators",
+    "library": "operator.tools",
     "downloads": 0
   },
   {
@@ -36196,10 +36192,6 @@
     "downloads": 0
   },
   {
-    "library": "optim.functions",
-    "downloads": 0
-  },
-  {
     "library": "OptimalCutpoints",
     "downloads": 0
   },
@@ -36225,6 +36217,10 @@
   },
   {
     "library": "OptimClassifier",
+    "downloads": 0
+  },
+  {
+    "library": "optim.functions",
     "downloads": 0
   },
   {
@@ -39228,10 +39224,6 @@
     "downloads": 0
   },
   {
-    "library": "plot.matrix",
-    "downloads": 0
-  },
-  {
     "library": "plot3D",
     "downloads": 0
   },
@@ -39281,6 +39273,10 @@
   },
   {
     "library": "plotlyGeoAssets",
+    "downloads": 0
+  },
+  {
+    "library": "plot.matrix",
     "downloads": 0
   },
   {
@@ -39848,10 +39844,6 @@
     "downloads": 0
   },
   {
-    "library": "pop.wolf",
-    "downloads": 0
-  },
-  {
     "library": "popbio",
     "downloads": 0
   },
@@ -39928,6 +39920,10 @@
     "downloads": 0
   },
   {
+    "library": "pop.wolf",
+    "downloads": 0
+  },
+  {
     "library": "porridge",
     "downloads": 0
   },
@@ -39941,10 +39937,6 @@
   },
   {
     "library": "portfolio",
-    "downloads": 0
-  },
-  {
-    "library": "portfolio.optimization",
     "downloads": 0
   },
   {
@@ -39965,6 +39957,10 @@
   },
   {
     "library": "PortfolioOptim",
+    "downloads": 0
+  },
+  {
+    "library": "portfolio.optimization",
     "downloads": 0
   },
   {
@@ -40536,10 +40532,6 @@
     "downloads": 0
   },
   {
-    "library": "PRISM.forecast",
-    "downloads": 0
-  },
-  {
     "library": "PRISMA",
     "downloads": 0
   },
@@ -40549,6 +40541,10 @@
   },
   {
     "library": "prismatic",
+    "downloads": 0
+  },
+  {
+    "library": "PRISM.forecast",
     "downloads": 0
   },
   {
@@ -40684,10 +40680,6 @@
     "downloads": 0
   },
   {
-    "library": "prof.tree",
-    "downloads": 0
-  },
-  {
     "library": "profdpm",
     "downloads": 0
   },
@@ -40733,6 +40725,10 @@
   },
   {
     "library": "proftools",
+    "downloads": 0
+  },
+  {
+    "library": "prof.tree",
     "downloads": 0
   },
   {
@@ -40808,10 +40804,6 @@
     "downloads": 0
   },
   {
-    "library": "prop.comb.RR",
-    "downloads": 0
-  },
-  {
     "library": "propagate",
     "downloads": 0
   },
@@ -40821,6 +40813,10 @@
   },
   {
     "library": "PropClust",
+    "downloads": 0
+  },
+  {
+    "library": "prop.comb.RR",
     "downloads": 0
   },
   {
@@ -41832,14 +41828,6 @@
     "downloads": 0
   },
   {
-    "library": "QTL.gCIMapping",
-    "downloads": 0
-  },
-  {
-    "library": "QTL.gCIMapping.GUI",
-    "downloads": 0
-  },
-  {
     "library": "qtl2pleio",
     "downloads": 0
   },
@@ -41857,6 +41845,14 @@
   },
   {
     "library": "qtlDesign",
+    "downloads": 0
+  },
+  {
+    "library": "QTL.gCIMapping",
+    "downloads": 0
+  },
+  {
+    "library": "QTL.gCIMapping.GUI",
     "downloads": 0
   },
   {
@@ -42012,15 +42008,15 @@
     "downloads": 0
   },
   {
-    "library": "quantreg.nonpar",
-    "downloads": 0
-  },
-  {
     "library": "quantregForest",
     "downloads": 0
   },
   {
     "library": "quantregGrowth",
+    "downloads": 0
+  },
+  {
+    "library": "quantreg.nonpar",
     "downloads": 0
   },
   {
@@ -42153,58 +42149,6 @@
   },
   {
     "library": "QZ",
-    "downloads": 0
-  },
-  {
-    "library": "r.blip",
-    "downloads": 0
-  },
-  {
-    "library": "R.cache",
-    "downloads": 0
-  },
-  {
-    "library": "R.devices",
-    "downloads": 0
-  },
-  {
-    "library": "R.filesets",
-    "downloads": 0
-  },
-  {
-    "library": "R.huge",
-    "downloads": 0
-  },
-  {
-    "library": "r.jive",
-    "downloads": 0
-  },
-  {
-    "library": "R.matlab",
-    "downloads": 0
-  },
-  {
-    "library": "R.methodsS3",
-    "downloads": 0
-  },
-  {
-    "library": "R.oo",
-    "downloads": 0
-  },
-  {
-    "library": "R.rsp",
-    "downloads": 0
-  },
-  {
-    "library": "R.SamBada",
-    "downloads": 0
-  },
-  {
-    "library": "R.temis",
-    "downloads": 0
-  },
-  {
-    "library": "R.utils",
     "downloads": 0
   },
   {
@@ -42604,10 +42548,6 @@
     "downloads": 0
   },
   {
-    "library": "random.polychor.pa",
-    "downloads": 0
-  },
-  {
     "library": "RandomCoefficients",
     "downloads": 0
   },
@@ -42661,6 +42601,10 @@
   },
   {
     "library": "randomNames",
+    "downloads": 0
+  },
+  {
+    "library": "random.polychor.pa",
     "downloads": 0
   },
   {
@@ -43092,6 +43036,10 @@
     "downloads": 0
   },
   {
+    "library": "r.blip",
+    "downloads": 0
+  },
+  {
     "library": "Rblpapi",
     "downloads": 0
   },
@@ -43153,6 +43101,10 @@
   },
   {
     "library": "RCA",
+    "downloads": 0
+  },
+  {
+    "library": "R.cache",
     "downloads": 0
   },
   {
@@ -43884,6 +43836,10 @@
     "downloads": 0
   },
   {
+    "library": "R.devices",
+    "downloads": 0
+  },
+  {
     "library": "rdflib",
     "downloads": 0
   },
@@ -44068,14 +44024,6 @@
     "downloads": 0
   },
   {
-    "library": "read.dbc",
-    "downloads": 0
-  },
-  {
-    "library": "read.gb",
-    "downloads": 0
-  },
-  {
     "library": "readABF",
     "downloads": 0
   },
@@ -44096,7 +44044,15 @@
     "downloads": 0
   },
   {
+    "library": "read.dbc",
+    "downloads": 0
+  },
+  {
     "library": "reader",
+    "downloads": 0
+  },
+  {
+    "library": "read.gb",
     "downloads": 0
   },
   {
@@ -44376,10 +44332,6 @@
     "downloads": 0
   },
   {
-    "library": "ref.ICAR",
-    "downloads": 0
-  },
-  {
     "library": "referenceIntervals",
     "downloads": 0
   },
@@ -44389,6 +44341,10 @@
   },
   {
     "library": "refGenome",
+    "downloads": 0
+  },
+  {
+    "library": "ref.ICAR",
     "downloads": 0
   },
   {
@@ -45096,6 +45052,10 @@
     "downloads": 0
   },
   {
+    "library": "R.filesets",
+    "downloads": 0
+  },
+  {
     "library": "RFinanceYJ",
     "downloads": 0
   },
@@ -45468,6 +45428,10 @@
     "downloads": 0
   },
   {
+    "library": "R.huge",
+    "downloads": 0
+  },
+  {
     "library": "rhymer",
     "downloads": 0
   },
@@ -45784,6 +45748,10 @@
     "downloads": 0
   },
   {
+    "library": "r.jive",
+    "downloads": 0
+  },
+  {
     "library": "rjmcmc",
     "downloads": 0
   },
@@ -46024,10 +45992,6 @@
     "downloads": 0
   },
   {
-    "library": "RM.weights",
-    "downloads": 0
-  },
-  {
     "library": "RM2",
     "downloads": 0
   },
@@ -46036,11 +46000,11 @@
     "downloads": 0
   },
   {
-    "library": "rma.exact",
+    "library": "RMaCzek",
     "downloads": 0
   },
   {
-    "library": "RMaCzek",
+    "library": "rma.exact",
     "downloads": 0
   },
   {
@@ -46097,6 +46061,10 @@
   },
   {
     "library": "rmatio",
+    "downloads": 0
+  },
+  {
+    "library": "R.matlab",
     "downloads": 0
   },
   {
@@ -46165,6 +46133,10 @@
   },
   {
     "library": "rmetasim",
+    "downloads": 0
+  },
+  {
+    "library": "R.methodsS3",
     "downloads": 0
   },
   {
@@ -46264,15 +46236,15 @@
     "downloads": 0
   },
   {
-    "library": "rms.gof",
-    "downloads": 0
-  },
-  {
     "library": "rmsfact",
     "downloads": 0
   },
   {
     "library": "rmsfuns",
+    "downloads": 0
+  },
+  {
+    "library": "rms.gof",
     "downloads": 0
   },
   {
@@ -46305,6 +46277,10 @@
   },
   {
     "library": "rmweather",
+    "downloads": 0
+  },
+  {
+    "library": "RM.weights",
     "downloads": 0
   },
   {
@@ -46916,6 +46892,10 @@
     "downloads": 0
   },
   {
+    "library": "R.oo",
+    "downloads": 0
+  },
+  {
     "library": "Rook",
     "downloads": 0
   },
@@ -47148,19 +47128,19 @@
     "downloads": 0
   },
   {
-    "library": "rpart.plot",
-    "downloads": 0
-  },
-  {
-    "library": "rpart.utils",
-    "downloads": 0
-  },
-  {
     "library": "rpartitions",
     "downloads": 0
   },
   {
+    "library": "rpart.plot",
+    "downloads": 0
+  },
+  {
     "library": "rpartScore",
+    "downloads": 0
+  },
+  {
+    "library": "rpart.utils",
     "downloads": 0
   },
   {
@@ -47600,6 +47580,10 @@
     "downloads": 0
   },
   {
+    "library": "R.rsp",
+    "downloads": 0
+  },
+  {
     "library": "rrtable",
     "downloads": 0
   },
@@ -47633,6 +47617,10 @@
   },
   {
     "library": "RSAlgaeR",
+    "downloads": 0
+  },
+  {
+    "library": "R.SamBada",
     "downloads": 0
   },
   {
@@ -48072,10 +48060,6 @@
     "downloads": 0
   },
   {
-    "library": "rt.test",
-    "downloads": 0
-  },
-  {
     "library": "rt3",
     "downloads": 0
   },
@@ -48113,6 +48097,10 @@
   },
   {
     "library": "rtematres",
+    "downloads": 0
+  },
+  {
+    "library": "R.temis",
     "downloads": 0
   },
   {
@@ -48256,6 +48244,10 @@
     "downloads": 0
   },
   {
+    "library": "rt.test",
+    "downloads": 0
+  },
+  {
     "library": "Rttf2pt1",
     "downloads": 0
   },
@@ -48357,6 +48349,10 @@
   },
   {
     "library": "ruta",
+    "downloads": 0
+  },
+  {
+    "library": "R.utils",
     "downloads": 0
   },
   {
@@ -48832,10 +48828,6 @@
     "downloads": 0
   },
   {
-    "library": "Sample.Size",
-    "downloads": 0
-  },
-  {
     "library": "sampler",
     "downloads": 0
   },
@@ -48849,6 +48841,10 @@
   },
   {
     "library": "samplesize",
+    "downloads": 0
+  },
+  {
+    "library": "Sample.Size",
     "downloads": 0
   },
   {
@@ -50548,18 +50544,6 @@
     "downloads": 0
   },
   {
-    "library": "shiny.i18n",
-    "downloads": 0
-  },
-  {
-    "library": "shiny.router",
-    "downloads": 0
-  },
-  {
-    "library": "shiny.semantic",
-    "downloads": 0
-  },
-  {
     "library": "shinyAce",
     "downloads": 0
   },
@@ -50640,6 +50624,10 @@
     "downloads": 0
   },
   {
+    "library": "shiny.i18n",
+    "downloads": 0
+  },
+  {
     "library": "ShinyImage",
     "downloads": 0
   },
@@ -50697,6 +50685,14 @@
   },
   {
     "library": "shinyRGL",
+    "downloads": 0
+  },
+  {
+    "library": "shiny.router",
+    "downloads": 0
+  },
+  {
+    "library": "shiny.semantic",
     "downloads": 0
   },
   {
@@ -50960,14 +50956,6 @@
     "downloads": 0
   },
   {
-    "library": "Sim.DiffProc",
-    "downloads": 0
-  },
-  {
-    "library": "Sim.PLFN",
-    "downloads": 0
-  },
-  {
     "library": "sim1000G",
     "downloads": 0
   },
@@ -51013,6 +51001,10 @@
   },
   {
     "library": "SimDesign",
+    "downloads": 0
+  },
+  {
+    "library": "Sim.DiffProc",
     "downloads": 0
   },
   {
@@ -51185,6 +51177,10 @@
   },
   {
     "library": "simplexreg",
+    "downloads": 0
+  },
+  {
+    "library": "Sim.PLFN",
     "downloads": 0
   },
   {
@@ -52000,10 +51996,6 @@
     "downloads": 0
   },
   {
-    "library": "snp.plotter",
-    "downloads": 0
-  },
-  {
     "library": "snpar",
     "downloads": 0
   },
@@ -52033,6 +52025,10 @@
   },
   {
     "library": "SNPMClust",
+    "downloads": 0
+  },
+  {
+    "library": "snp.plotter",
     "downloads": 0
   },
   {
@@ -52240,10 +52236,6 @@
     "downloads": 0
   },
   {
-    "library": "som.nn",
-    "downloads": 0
-  },
-  {
     "library": "soma",
     "downloads": 0
   },
@@ -52265,6 +52257,10 @@
   },
   {
     "library": "sommer",
+    "downloads": 0
+  },
+  {
+    "library": "som.nn",
     "downloads": 0
   },
   {
@@ -52520,10 +52516,6 @@
     "downloads": 0
   },
   {
-    "library": "spark.sas7bdat",
-    "downloads": 0
-  },
-  {
     "library": "sparkavro",
     "downloads": 0
   },
@@ -52545,6 +52537,10 @@
   },
   {
     "library": "SparkR",
+    "downloads": 0
+  },
+  {
+    "library": "spark.sas7bdat",
     "downloads": 0
   },
   {
@@ -52728,14 +52724,6 @@
     "downloads": 0
   },
   {
-    "library": "spatial.gev.bma",
-    "downloads": 0
-  },
-  {
-    "library": "spatial.tools",
-    "downloads": 0
-  },
-  {
     "library": "SpatialAcc",
     "downloads": 0
   },
@@ -52777,6 +52765,10 @@
   },
   {
     "library": "spatialfusion",
+    "downloads": 0
+  },
+  {
+    "library": "spatial.gev.bma",
     "downloads": 0
   },
   {
@@ -52825,6 +52817,10 @@
   },
   {
     "library": "spatialTailDep",
+    "downloads": 0
+  },
+  {
+    "library": "spatial.tools",
     "downloads": 0
   },
   {
@@ -53036,10 +53032,6 @@
     "downloads": 0
   },
   {
-    "library": "spectral.methods",
-    "downloads": 0
-  },
-  {
     "library": "spectralAnalysis",
     "downloads": 0
   },
@@ -53053,6 +53045,10 @@
   },
   {
     "library": "SpectralMap",
+    "downloads": 0
+  },
+  {
+    "library": "spectral.methods",
     "downloads": 0
   },
   {
@@ -55460,10 +55456,6 @@
     "downloads": 0
   },
   {
-    "library": "table.express",
-    "downloads": 0
-  },
-  {
     "library": "table1",
     "downloads": 0
   },
@@ -55473,6 +55465,10 @@
   },
   {
     "library": "table1xls",
+    "downloads": 0
+  },
+  {
+    "library": "table.express",
     "downloads": 0
   },
   {
@@ -56320,15 +56316,15 @@
     "downloads": 0
   },
   {
-    "library": "TH.data",
-    "downloads": 0
-  },
-  {
     "library": "thankr",
     "downloads": 0
   },
   {
     "library": "ThankYouStars",
+    "downloads": 0
+  },
+  {
+    "library": "TH.data",
     "downloads": 0
   },
   {
@@ -56772,11 +56768,11 @@
     "downloads": 0
   },
   {
-    "library": "TimeSeries.OBeu",
+    "library": "timeseriesdb",
     "downloads": 0
   },
   {
-    "library": "timeseriesdb",
+    "library": "TimeSeries.OBeu",
     "downloads": 0
   },
   {
@@ -56952,34 +56948,6 @@
     "downloads": 0
   },
   {
-    "library": "tm.plugin.alceste",
-    "downloads": 0
-  },
-  {
-    "library": "tm.plugin.dc",
-    "downloads": 0
-  },
-  {
-    "library": "tm.plugin.europresse",
-    "downloads": 0
-  },
-  {
-    "library": "tm.plugin.factiva",
-    "downloads": 0
-  },
-  {
-    "library": "tm.plugin.lexisnexis",
-    "downloads": 0
-  },
-  {
-    "library": "tm.plugin.mail",
-    "downloads": 0
-  },
-  {
-    "library": "tm.plugin.webmining",
-    "downloads": 0
-  },
-  {
     "library": "tm1r",
     "downloads": 0
   },
@@ -57029,6 +56997,34 @@
   },
   {
     "library": "tmod",
+    "downloads": 0
+  },
+  {
+    "library": "tm.plugin.alceste",
+    "downloads": 0
+  },
+  {
+    "library": "tm.plugin.dc",
+    "downloads": 0
+  },
+  {
+    "library": "tm.plugin.europresse",
+    "downloads": 0
+  },
+  {
+    "library": "tm.plugin.factiva",
+    "downloads": 0
+  },
+  {
+    "library": "tm.plugin.lexisnexis",
+    "downloads": 0
+  },
+  {
+    "library": "tm.plugin.mail",
+    "downloads": 0
+  },
+  {
+    "library": "tm.plugin.webmining",
     "downloads": 0
   },
   {
@@ -57208,10 +57204,6 @@
     "downloads": 0
   },
   {
-    "library": "TP.idm",
-    "downloads": 0
-  },
-  {
     "library": "tpAUC",
     "downloads": 0
   },
@@ -57229,6 +57221,10 @@
   },
   {
     "library": "TPES",
+    "downloads": 0
+  },
+  {
+    "library": "TP.idm",
     "downloads": 0
   },
   {
@@ -57432,15 +57428,11 @@
     "downloads": 0
   },
   {
-    "library": "tree.bins",
-    "downloads": 0
-  },
-  {
-    "library": "tree.interpreter",
-    "downloads": 0
-  },
-  {
     "library": "treebase",
+    "downloads": 0
+  },
+  {
+    "library": "tree.bins",
     "downloads": 0
   },
   {
@@ -57473,6 +57465,10 @@
   },
   {
     "library": "treeHMM",
+    "downloads": 0
+  },
+  {
+    "library": "tree.interpreter",
     "downloads": 0
   },
   {
@@ -58000,10 +57996,6 @@
     "downloads": 0
   },
   {
-    "library": "TSS.RESTREND",
-    "downloads": 0
-  },
-  {
     "library": "TSsdmx",
     "downloads": 0
   },
@@ -58021,6 +58013,10 @@
   },
   {
     "library": "TSSQLite",
+    "downloads": 0
+  },
+  {
+    "library": "TSS.RESTREND",
     "downloads": 0
   },
   {
@@ -58936,10 +58932,6 @@
     "downloads": 0
   },
   {
-    "library": "VAR.etp",
-    "downloads": 0
-  },
-  {
     "library": "varband",
     "downloads": 0
   },
@@ -58977,6 +58969,10 @@
   },
   {
     "library": "varEst",
+    "downloads": 0
+  },
+  {
+    "library": "VAR.etp",
     "downloads": 0
   },
   {
@@ -60024,11 +60020,11 @@
     "downloads": 0
   },
   {
-    "library": "Weighted.Desc.Stat",
+    "library": "WeightedCluster",
     "downloads": 0
   },
   {
-    "library": "WeightedCluster",
+    "library": "Weighted.Desc.Stat",
     "downloads": 0
   },
   {
@@ -60616,10 +60612,6 @@
     "downloads": 0
   },
   {
-    "library": "x.ent",
-    "downloads": 0
-  },
-  {
     "library": "x12",
     "downloads": 0
   },
@@ -60649,6 +60641,10 @@
   },
   {
     "library": "xdcclarge",
+    "downloads": 0
+  },
+  {
+    "library": "x.ent",
     "downloads": 0
   },
   {
