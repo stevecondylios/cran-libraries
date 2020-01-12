@@ -2420,28 +2420,12 @@
     "downloads": 21119
   },
   {
-    "library": "aws.cloudtrail",
-    "downloads": 15287
-  },
-  {
-    "library": "aws.comprehend",
-    "downloads": 7358
-  },
-  {
     "library": "aws.ec2metadata",
     "downloads": 19932012
   },
   {
-    "library": "aws.iam",
-    "downloads": 19314
-  },
-  {
     "library": "aws.kms",
     "downloads": 6056
-  },
-  {
-    "library": "aws.lambda",
-    "downloads": 15605
   },
   {
     "library": "aws.polly",
@@ -2452,28 +2436,8 @@
     "downloads": 21473228
   },
   {
-    "library": "aws.ses",
-    "downloads": 17246
-  },
-  {
     "library": "aws.signature",
     "downloads": 1612177
-  },
-  {
-    "library": "aws.sns",
-    "downloads": 19165
-  },
-  {
-    "library": "aws.sqs",
-    "downloads": 18944
-  },
-  {
-    "library": "aws.transcribe",
-    "downloads": 6702
-  },
-  {
-    "library": "aws.translate",
-    "downloads": 6732
   },
   {
     "library": "awsjavasdk",
@@ -2482,10 +2446,6 @@
   {
     "library": "awsMethods",
     "downloads": 51785
-  },
-  {
-    "library": "awspack",
-    "downloads": 18916
   },
   {
     "library": "AzureAuth",
@@ -41641,763 +41601,763 @@
   },
   {
     "library": "QDComparison",
-    "downloads": 4561
+    "downloads": 0
   },
   {
     "library": "qdm",
-    "downloads": 11826
+    "downloads": 0
   },
   {
     "library": "QFASA",
-    "downloads": 9119
+    "downloads": 0
   },
   {
     "library": "qfasar",
-    "downloads": 8702
+    "downloads": 0
   },
   {
     "library": "QFRM",
-    "downloads": 10867
+    "downloads": 0
   },
   {
     "library": "qgam",
-    "downloads": 13993
+    "downloads": 0
   },
   {
     "library": "qGaussian",
-    "downloads": 7172
+    "downloads": 0
   },
   {
     "library": "qgcomp",
-    "downloads": 3625
+    "downloads": 0
   },
   {
     "library": "qgg",
-    "downloads": 239
+    "downloads": 0
   },
   {
     "library": "QGglmm",
-    "downloads": 10357
+    "downloads": 0
   },
   {
     "library": "qgraph",
-    "downloads": 423435
+    "downloads": 0
   },
   {
     "library": "qgtools",
-    "downloads": 13738
+    "downloads": 0
   },
   {
     "library": "qha",
-    "downloads": 7251
+    "downloads": 0
   },
   {
     "library": "QHOT",
-    "downloads": 3401
+    "downloads": 0
   },
   {
     "library": "qicharts",
-    "downloads": 32920
+    "downloads": 0
   },
   {
     "library": "qicharts2",
-    "downloads": 23523
+    "downloads": 0
   },
   {
     "library": "qif",
-    "downloads": 1471
+    "downloads": 0
   },
   {
     "library": "qiitr",
-    "downloads": 7037
+    "downloads": 0
   },
   {
     "library": "qkerntool",
-    "downloads": 3716
+    "downloads": 0
   },
   {
     "library": "qlcData",
-    "downloads": 10800
+    "downloads": 0
   },
   {
     "library": "qlcMatrix",
-    "downloads": 70112
+    "downloads": 0
   },
   {
     "library": "qLearn",
-    "downloads": 16671
+    "downloads": 0
   },
   {
     "library": "QLearning",
-    "downloads": 6436
+    "downloads": 0
   },
   {
     "library": "qmap",
-    "downloads": 33422
+    "downloads": 0
   },
   {
     "library": "qmethod",
-    "downloads": 21042
+    "downloads": 0
   },
   {
     "library": "qmix",
-    "downloads": 412
+    "downloads": 0
   },
   {
     "library": "qmrparser",
-    "downloads": 18887
+    "downloads": 0
   },
   {
     "library": "qoma.smuggler",
-    "downloads": 3390
+    "downloads": 0
   },
   {
     "library": "QPBoot",
-    "downloads": 6183
+    "downloads": 0
   },
   {
     "library": "qpcR",
-    "downloads": 107318
+    "downloads": 0
   },
   {
     "library": "qpdf",
-    "downloads": 135972
+    "downloads": 0
   },
   {
     "library": "qqid",
-    "downloads": 2577
+    "downloads": 0
   },
   {
     "library": "qqman",
-    "downloads": 93626
+    "downloads": 0
   },
   {
     "library": "QQperm",
-    "downloads": 7936
+    "downloads": 0
   },
   {
     "library": "qqplotr",
-    "downloads": 28345
+    "downloads": 0
   },
   {
     "library": "qqtest",
-    "downloads": 17431
+    "downloads": 0
   },
   {
     "library": "qqvases",
-    "downloads": 7595
+    "downloads": 0
   },
   {
     "library": "QRAGadget",
-    "downloads": 7564
+    "downloads": 0
   },
   {
     "library": "qrage",
-    "downloads": 10123
+    "downloads": 0
   },
   {
     "library": "qrandom",
-    "downloads": 4637
+    "downloads": 0
   },
   {
     "library": "QRank",
-    "downloads": 6764
+    "downloads": 0
   },
   {
     "library": "qrcm",
-    "downloads": 10422
+    "downloads": 0
   },
   {
     "library": "qrcmNP",
-    "downloads": 5760
+    "downloads": 0
   },
   {
     "library": "qrcode",
-    "downloads": 21375
+    "downloads": 0
   },
   {
     "library": "QRegVCM",
-    "downloads": 8567
+    "downloads": 0
   },
   {
     "library": "qrencoder",
-    "downloads": 8357
+    "downloads": 0
   },
   {
     "library": "QRISK3",
-    "downloads": 706
+    "downloads": 0
   },
   {
     "library": "qrjoint",
-    "downloads": 11222
+    "downloads": 0
   },
   {
     "library": "qrLMM",
-    "downloads": 13986
+    "downloads": 0
   },
   {
     "library": "QRM",
-    "downloads": 58937
+    "downloads": 0
   },
   {
     "library": "qrmdata",
-    "downloads": 15003
+    "downloads": 0
   },
   {
     "library": "qrmix",
-    "downloads": 6213
+    "downloads": 0
   },
   {
     "library": "qrmtools",
-    "downloads": 25353
+    "downloads": 0
   },
   {
     "library": "qrng",
-    "downloads": 81362
+    "downloads": 0
   },
   {
     "library": "qrNLMM",
-    "downloads": 13478
+    "downloads": 0
   },
   {
     "library": "qrnn",
-    "downloads": 64306
+    "downloads": 0
   },
   {
     "library": "qrsvm",
-    "downloads": 6337
+    "downloads": 0
   },
   {
     "library": "qs",
-    "downloads": 26755
+    "downloads": 0
   },
   {
     "library": "QSARdata",
-    "downloads": 20883
+    "downloads": 0
   },
   {
     "library": "qsort",
-    "downloads": 4874
+    "downloads": 0
   },
   {
     "library": "qsub",
-    "downloads": 5412
+    "downloads": 0
   },
   {
     "library": "qtbase",
-    "downloads": 8694
+    "downloads": 0
   },
   {
     "library": "qte",
-    "downloads": 14368
+    "downloads": 0
   },
   {
     "library": "qtl",
-    "downloads": 146001
+    "downloads": 0
   },
   {
     "library": "QTL.gCIMapping",
-    "downloads": 7069
+    "downloads": 0
   },
   {
     "library": "QTL.gCIMapping.GUI",
-    "downloads": 4596
+    "downloads": 0
   },
   {
     "library": "qtl2pleio",
-    "downloads": 629
+    "downloads": 0
   },
   {
     "library": "qtlbook",
-    "downloads": 21260
+    "downloads": 0
   },
   {
     "library": "qtlc",
-    "downloads": 8822
+    "downloads": 0
   },
   {
     "library": "qtlcharts",
-    "downloads": 18686
+    "downloads": 0
   },
   {
     "library": "qtlDesign",
-    "downloads": 21982
+    "downloads": 0
   },
   {
     "library": "qtlhot",
-    "downloads": 18800
+    "downloads": 0
   },
   {
     "library": "qtlmt",
-    "downloads": 19179
+    "downloads": 0
   },
   {
     "library": "qtlnet",
-    "downloads": 20450
+    "downloads": 0
   },
   {
     "library": "QTLRel",
-    "downloads": 33323
+    "downloads": 0
   },
   {
     "library": "QTOCen",
-    "downloads": 1818
+    "downloads": 0
   },
   {
     "library": "Qtools",
-    "downloads": 13498
+    "downloads": 0
   },
   {
     "library": "qtpaint",
-    "downloads": 6452
+    "downloads": 0
   },
   {
     "library": "QuACN",
-    "downloads": 20737
+    "downloads": 0
   },
   {
     "library": "quad",
-    "downloads": 13996
+    "downloads": 0
   },
   {
     "library": "quadmatrix",
-    "downloads": 4106
+    "downloads": 0
   },
   {
     "library": "quadmesh",
-    "downloads": 15388
+    "downloads": 0
   },
   {
     "library": "quadprog",
-    "downloads": 4836649
+    "downloads": 0
   },
   {
     "library": "quadprogXT",
-    "downloads": 13431
+    "downloads": 0
   },
   {
     "library": "quadrupen",
-    "downloads": 20385
+    "downloads": 0
   },
   {
     "library": "qualCI",
-    "downloads": 13297
+    "downloads": 0
   },
   {
     "library": "QualInt",
-    "downloads": 13727
+    "downloads": 0
   },
   {
     "library": "qualityTools",
-    "downloads": 55308
+    "downloads": 0
   },
   {
     "library": "qualmap",
-    "downloads": 5991
+    "downloads": 0
   },
   {
     "library": "qualpalr",
-    "downloads": 11176
+    "downloads": 0
   },
   {
     "library": "qualtRics",
-    "downloads": 14245
+    "downloads": 0
   },
   {
     "library": "qualV",
-    "downloads": 39537
+    "downloads": 0
   },
   {
     "library": "qualvar",
-    "downloads": 11057
+    "downloads": 0
   },
   {
     "library": "QUALYPSO",
-    "downloads": 1986
+    "downloads": 0
   },
   {
     "library": "qualypsoss",
-    "downloads": 710
+    "downloads": 0
   },
   {
     "library": "Quandl",
-    "downloads": 416470
+    "downloads": 0
   },
   {
     "library": "quantable",
-    "downloads": 14443
+    "downloads": 0
   },
   {
     "library": "quanteda",
-    "downloads": 395279
+    "downloads": 0
   },
   {
     "library": "quantification",
-    "downloads": 14026
+    "downloads": 0
   },
   {
     "library": "QuantifQuantile",
-    "downloads": 16823
+    "downloads": 0
   },
   {
     "library": "quantileDA",
-    "downloads": 10560
+    "downloads": 0
   },
   {
     "library": "QuantileGradeR",
-    "downloads": 7343
+    "downloads": 0
   },
   {
     "library": "QuantileNPCI",
-    "downloads": 1437
+    "downloads": 0
   },
   {
     "library": "quantities",
-    "downloads": 4463
+    "downloads": 0
   },
   {
     "library": "quantmod",
-    "downloads": 4782348
+    "downloads": 0
   },
   {
     "library": "QuantNorm",
-    "downloads": 4818
+    "downloads": 0
   },
   {
     "library": "quantoptr",
-    "downloads": 6941
+    "downloads": 0
   },
   {
     "library": "QuantPsyc",
-    "downloads": 200132
+    "downloads": 0
   },
   {
     "library": "quantreg",
-    "downloads": 7456597
+    "downloads": 0
   },
   {
     "library": "quantreg.nonpar",
-    "downloads": 9046
+    "downloads": 0
   },
   {
     "library": "quantregForest",
-    "downloads": 58898
+    "downloads": 0
   },
   {
     "library": "quantregGrowth",
-    "downloads": 24205
+    "downloads": 0
   },
   {
     "library": "quantregRanger",
-    "downloads": 5489
+    "downloads": 0
   },
   {
     "library": "quantspec",
-    "downloads": 28475
+    "downloads": 0
   },
   {
     "library": "QuantTools",
-    "downloads": 51055
+    "downloads": 0
   },
   {
     "library": "QuantumClone",
-    "downloads": 12756
+    "downloads": 0
   },
   {
     "library": "QuantumOps",
-    "downloads": 6628
+    "downloads": 0
   },
   {
     "library": "quarrint",
-    "downloads": 6492
+    "downloads": 0
   },
   {
     "library": "Quartet",
-    "downloads": 3639
+    "downloads": 0
   },
   {
     "library": "QuasiSeq",
-    "downloads": 21664
+    "downloads": 0
   },
   {
     "library": "QuClu",
-    "downloads": 4326
+    "downloads": 0
   },
   {
     "library": "queryparser",
-    "downloads": 1569
+    "downloads": 0
   },
   {
     "library": "questionr",
-    "downloads": 864342
+    "downloads": 0
   },
   {
     "library": "queuecomputer",
-    "downloads": 9825
+    "downloads": 0
   },
   {
     "library": "queueing",
-    "downloads": 35773
+    "downloads": 0
   },
   {
     "library": "quhomology",
-    "downloads": 9025
+    "downloads": 0
   },
   {
     "library": "QUIC",
-    "downloads": 67404
+    "downloads": 0
   },
   {
     "library": "quickblock",
-    "downloads": 6723
+    "downloads": 0
   },
   {
     "library": "quickmapr",
-    "downloads": 16406
+    "downloads": 0
   },
   {
     "library": "quickmatch",
-    "downloads": 7345
+    "downloads": 0
   },
   {
     "library": "quickPlot",
-    "downloads": 32542
+    "downloads": 0
   },
   {
     "library": "quickpsy",
-    "downloads": 18871
+    "downloads": 0
   },
   {
     "library": "quickReg",
-    "downloads": 10180
+    "downloads": 0
   },
   {
     "library": "quickregression",
-    "downloads": 5524
+    "downloads": 0
   },
   {
     "library": "quiddich",
-    "downloads": 2549
+    "downloads": 0
   },
   {
     "library": "quietR",
-    "downloads": 1760
+    "downloads": 0
   },
   {
     "library": "quint",
-    "downloads": 17960
+    "downloads": 0
   },
   {
     "library": "quokar",
-    "downloads": 5580
+    "downloads": 0
   },
   {
     "library": "quotedargs",
-    "downloads": 6839
+    "downloads": 0
   },
   {
     "library": "quRan",
-    "downloads": 3086
+    "downloads": 0
   },
   {
     "library": "qut",
-    "downloads": 10861
+    "downloads": 0
   },
   {
     "library": "qVarSel",
-    "downloads": 13943
+    "downloads": 0
   },
   {
     "library": "qvcalc",
-    "downloads": 336865
+    "downloads": 0
   },
   {
     "library": "QVM",
-    "downloads": 8213
+    "downloads": 0
   },
   {
     "library": "qwraps2",
-    "downloads": 50187
+    "downloads": 0
   },
   {
     "library": "QZ",
-    "downloads": 21856
+    "downloads": 0
   },
   {
     "library": "r.blip",
-    "downloads": 2921
+    "downloads": 0
   },
   {
     "library": "R.cache",
-    "downloads": 293697
+    "downloads": 0
   },
   {
     "library": "R.devices",
-    "downloads": 155673
+    "downloads": 0
   },
   {
     "library": "R.filesets",
-    "downloads": 75381
+    "downloads": 0
   },
   {
     "library": "R.huge",
-    "downloads": 48960
+    "downloads": 0
   },
   {
     "library": "r.jive",
-    "downloads": 10554
+    "downloads": 0
   },
   {
     "library": "R.matlab",
-    "downloads": 326250
+    "downloads": 0
   },
   {
     "library": "R.methodsS3",
-    "downloads": 2236451
+    "downloads": 0
   },
   {
     "library": "R.oo",
-    "downloads": 2050770
+    "downloads": 0
   },
   {
     "library": "R.rsp",
-    "downloads": 355306
+    "downloads": 0
   },
   {
     "library": "R.SamBada",
-    "downloads": 2840
+    "downloads": 0
   },
   {
     "library": "R.temis",
-    "downloads": 4896
+    "downloads": 0
   },
   {
     "library": "R.utils",
-    "downloads": 2026398
+    "downloads": 0
   },
   {
     "library": "R0",
-    "downloads": 23359
+    "downloads": 0
   },
   {
     "library": "R1magic",
-    "downloads": 19606
+    "downloads": 0
   },
   {
     "library": "R2admb",
-    "downloads": 77986
+    "downloads": 0
   },
   {
     "library": "R2BayesX",
-    "downloads": 69907
+    "downloads": 0
   },
   {
     "library": "R2BEAT",
-    "downloads": 1822
+    "downloads": 0
   },
   {
     "library": "r2d2",
-    "downloads": 14695
+    "downloads": 0
   },
   {
     "library": "r2d3",
-    "downloads": 1242100
+    "downloads": 0
   },
   {
     "library": "R2DGC",
-    "downloads": 5702
+    "downloads": 0
   },
   {
     "library": "r2dRue",
-    "downloads": 18514
+    "downloads": 0
   },
   {
     "library": "R2DT",
-    "downloads": 4976
+    "downloads": 0
   },
   {
     "library": "r2glmm",
-    "downloads": 15245
+    "downloads": 0
   },
   {
     "library": "R2GUESS",
-    "downloads": 17122
+    "downloads": 0
   },
   {
     "library": "R2HTML",
-    "downloads": 334864
+    "downloads": 0
   },
   {
     "library": "R2jags",
-    "downloads": 244497
+    "downloads": 0
   },
   {
     "library": "R2MLwiN",
-    "downloads": 26056
+    "downloads": 0
   },
   {
     "library": "R2OpenBUGS",
-    "downloads": 132417
+    "downloads": 0
   },
   {
     "library": "r2pmml",
-    "downloads": 3340
+    "downloads": 0
   },
   {
     "library": "R2PPT",
-    "downloads": 22376
+    "downloads": 0
   },
   {
     "library": "r2stl",
-    "downloads": 17111
+    "downloads": 0
   },
   {
     "library": "r2sundials",
-    "downloads": 73
+    "downloads": 0
   },
   {
     "library": "R2SWF",
-    "downloads": 27854
+    "downloads": 0
   },
   {
     "library": "R2ucare",
-    "downloads": 7302
+    "downloads": 0
   },
   {
     "library": "R2wd",
-    "downloads": 71653
+    "downloads": 0
   },
   {
     "library": "R2WinBUGS",
-    "downloads": 290061
+    "downloads": 0
   },
   {
     "library": "R330",
-    "downloads": 26784
+    "downloads": 0
   },
   {
     "library": "R3port",
-    "downloads": 5092
+    "downloads": 0
   },
   {
     "library": "R4CouchDB",
-    "downloads": 19072
+    "downloads": 0
   },
   {
     "library": "R4dfp",
-    "downloads": 6918
+    "downloads": 0
   },
   {
     "library": "r4lineups",
-    "downloads": 4215
+    "downloads": 0
   },
   {
     "library": "r4ss",
-    "downloads": 29512
+    "downloads": 0
   },
   {
     "library": "r511",
-    "downloads": 4198
+    "downloads": 0
   },
   {
     "library": "R6",
