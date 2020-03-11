@@ -2404,8 +2404,16 @@
     "downloads": 27679972
   },
   {
+    "library": "aws.polly",
+    "downloads": 21031
+  },
+  {
     "library": "aws.signature",
     "downloads": 1683105
+  },
+  {
+    "library": "aws.transcribe",
+    "downloads": 6795
   },
   {
     "library": "awsjavasdk",
@@ -10618,6 +10626,10 @@
   {
     "library": "datapack",
     "downloads": 22517
+  },
+  {
+    "library": "datapackage.r",
+    "downloads": 4006
   },
   {
     "library": "DataPackageR",
