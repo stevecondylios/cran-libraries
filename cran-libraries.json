@@ -2400,6 +2400,10 @@
     "downloads": 22846
   },
   {
+    "library": "aws.comprehend",
+    "downloads": 7453
+  },
+  {
     "library": "aws.ec2metadata",
     "downloads": 28581173
   },
@@ -6730,6 +6734,10 @@
   {
     "library": "CFC",
     "downloads": 78215
+  },
+  {
+    "library": "cfdecomp",
+    "downloads": 0
   },
   {
     "library": "CfEstimateQuantiles",
@@ -19566,10 +19574,6 @@
   {
     "library": "GeoRange",
     "downloads": 8767
-  },
-  {
-    "library": "geoRglm",
-    "downloads": 148160
   },
   {
     "library": "georob",
@@ -35914,6 +35918,10 @@
   {
     "library": "occ",
     "downloads": 20791
+  },
+  {
+    "library": "ocd",
+    "downloads": 0
   },
   {
     "library": "oce",
