@@ -4136,10 +4136,6 @@
     "downloads": 27271
   },
   {
-    "library": "BiasCorrector",
-    "downloads": 5
-  },
-  {
     "library": "BiasedUrn",
     "downloads": 310688
   },
@@ -9624,6 +9620,10 @@
     "downloads": 21921
   },
   {
+    "library": "corrarray",
+    "downloads": 0
+  },
+  {
     "library": "CorrBin",
     "downloads": 29830
   },
@@ -9890,10 +9890,6 @@
   {
     "library": "covid19nytimes",
     "downloads": 1729
-  },
-  {
-    "library": "covid19us",
-    "downloads": 4357
   },
   {
     "library": "covidregionaldata",
@@ -20138,10 +20134,6 @@
   {
     "library": "GDAdata",
     "downloads": 22608
-  },
-  {
-    "library": "gdalcubes",
-    "downloads": 9299
   },
   {
     "library": "gdalUtilities",
@@ -30868,10 +30860,6 @@
     "downloads": 67070604
   },
   {
-    "library": "maGUI",
-    "downloads": 11991
-  },
-  {
     "library": "maic",
     "downloads": 1613
   },
@@ -32338,10 +32326,6 @@
   {
     "library": "MetabolAnalyze",
     "downloads": 32737
-  },
-  {
-    "library": "MetabolicSurv",
-    "downloads": 6884
   },
   {
     "library": "metabolighteR",
@@ -42924,10 +42908,6 @@
     "downloads": 12987
   },
   {
-    "library": "PRIMsrc",
-    "downloads": 22667
-  },
-  {
     "library": "princurve",
     "downloads": 115524
   },
@@ -45600,10 +45580,6 @@
     "downloads": 4726
   },
   {
-    "library": "rBiasCorrection",
-    "downloads": 417
-  },
-  {
     "library": "rbibutils",
     "downloads": 593
   },
@@ -46996,14 +46972,6 @@
     "downloads": 8794
   },
   {
-    "library": "refund",
-    "downloads": 77285
-  },
-  {
-    "library": "refund.shiny",
-    "downloads": 16458
-  },
-  {
     "library": "regclass",
     "downloads": 35440
   },
@@ -47130,10 +47098,6 @@
   {
     "library": "rehydratoR",
     "downloads": 6376
-  },
-  {
-    "library": "reinforcedPred",
-    "downloads": 6449
   },
   {
     "library": "reinforcelearn",
@@ -55646,10 +55610,6 @@
   {
     "library": "SparseFactorAnalysis",
     "downloads": 16935
-  },
-  {
-    "library": "sparseFLMM",
-    "downloads": 13108
   },
   {
     "library": "SparseGrid",
