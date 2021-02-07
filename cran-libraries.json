@@ -4068,6 +4068,10 @@
     "downloads": 11872
   },
   {
+    "library": "benford",
+    "downloads": 0
+  },
+  {
     "library": "benford.analysis",
     "downloads": 51053
   },
@@ -7254,6 +7258,10 @@
   {
     "library": "ced",
     "downloads": 6728
+  },
+  {
+    "library": "CEDARS",
+    "downloads": 0
   },
   {
     "library": "ceg",
@@ -10822,6 +10830,10 @@
   {
     "library": "crone",
     "downloads": 8083
+  },
+  {
+    "library": "cronologia",
+    "downloads": 0
   },
   {
     "library": "cronR",
@@ -35728,6 +35740,10 @@
     "downloads": 7259
   },
   {
+    "library": "mlsbm",
+    "downloads": 0
+  },
+  {
     "library": "mlsjunkgen",
     "downloads": 17845
   },
@@ -41036,6 +41052,10 @@
     "downloads": 152983
   },
   {
+    "library": "osmgeosample",
+    "downloads": 0
+  },
+  {
     "library": "osmose",
     "downloads": 13280
   },
@@ -42401,783 +42421,783 @@
   },
   {
     "library": "PCPS",
-    "downloads": 0
+    "downloads": 36006
   },
   {
     "library": "pcr",
-    "downloads": 0
+    "downloads": 30422
   },
   {
     "library": "PCS",
-    "downloads": 0
+    "downloads": 26136
   },
   {
     "library": "pcse",
-    "downloads": 0
+    "downloads": 131781
   },
   {
     "library": "PCSinR",
-    "downloads": 0
+    "downloads": 13106
   },
   {
     "library": "pcSteiner",
-    "downloads": 0
+    "downloads": 1930
   },
   {
     "library": "pct",
-    "downloads": 0
+    "downloads": 14899
   },
   {
     "library": "pcts",
-    "downloads": 0
+    "downloads": 7046
   },
   {
     "library": "pda",
-    "downloads": 0
+    "downloads": 1027
   },
   {
     "library": "pdc",
-    "downloads": 0
+    "downloads": 76695
   },
   {
     "library": "PDE",
-    "downloads": 0
+    "downloads": 1475
   },
   {
     "library": "pder",
-    "downloads": 0
+    "downloads": 79558
   },
   {
     "library": "pdfCluster",
-    "downloads": 0
+    "downloads": 122289
   },
   {
     "library": "PDFEstimator",
-    "downloads": 0
+    "downloads": 11711
   },
   {
     "library": "pdfetch",
-    "downloads": 0
+    "downloads": 87512
   },
   {
     "library": "pdfminer",
-    "downloads": 0
+    "downloads": 2569
   },
   {
     "library": "pdfsearch",
-    "downloads": 0
+    "downloads": 19958
   },
   {
     "library": "pdftables",
-    "downloads": 0
+    "downloads": 32303
   },
   {
     "library": "pdftools",
-    "downloads": 0
+    "downloads": 972041
   },
   {
     "library": "pdi",
-    "downloads": 0
+    "downloads": 2107
   },
   {
     "library": "pdist",
-    "downloads": 0
+    "downloads": 105298
   },
   {
     "library": "PDM",
-    "downloads": 0
+    "downloads": 15158
   },
   {
     "library": "pdmod",
-    "downloads": 0
+    "downloads": 21339
   },
   {
     "library": "PDN",
-    "downloads": 0
+    "downloads": 12291
   },
   {
     "library": "pdp",
-    "downloads": 0
+    "downloads": 178115
   },
   {
     "library": "PdPDB",
-    "downloads": 0
+    "downloads": 13996
   },
   {
     "library": "pdqr",
-    "downloads": 0
+    "downloads": 6124
   },
   {
     "library": "PDQutils",
-    "downloads": 0
+    "downloads": 35888
   },
   {
     "library": "pdR",
-    "downloads": 0
+    "downloads": 42025
   },
   {
     "library": "pds3",
-    "downloads": 0
+    "downloads": 8573
   },
   {
     "library": "PDSCE",
-    "downloads": 0
+    "downloads": 28620
   },
   {
     "library": "PDShiny",
-    "downloads": 0
+    "downloads": 8983
   },
   {
     "library": "pdSpecEst",
-    "downloads": 0
+    "downloads": 17703
   },
   {
     "library": "pdxTrees",
-    "downloads": 0
+    "downloads": 2163
   },
   {
     "library": "pdynmc",
-    "downloads": 0
+    "downloads": 5652
   },
   {
     "library": "peacesciencer",
-    "downloads": 0
+    "downloads": 627
   },
   {
     "library": "PEACH",
-    "downloads": 0
+    "downloads": 401
   },
   {
     "library": "Peacock.test",
-    "downloads": 0
+    "downloads": 18051
   },
   {
     "library": "peacots",
-    "downloads": 0
+    "downloads": 24360
   },
   {
     "library": "PeakError",
-    "downloads": 0
+    "downloads": 13765
   },
   {
     "library": "peakPick",
-    "downloads": 0
+    "downloads": 19555
   },
   {
     "library": "peakRAM",
-    "downloads": 0
+    "downloads": 21894
   },
   {
     "library": "PeakSegDisk",
-    "downloads": 0
+    "downloads": 10690
   },
   {
     "library": "PeakSegDP",
-    "downloads": 0
+    "downloads": 12863
   },
   {
     "library": "PeakSegJoint",
-    "downloads": 0
+    "downloads": 13939
   },
   {
     "library": "PeakSegOptimal",
-    "downloads": 0
+    "downloads": 13732
   },
   {
     "library": "pearson7",
-    "downloads": 0
+    "downloads": 28342
   },
   {
     "library": "PearsonDS",
-    "downloads": 0
+    "downloads": 62856
   },
   {
     "library": "PearsonICA",
-    "downloads": 0
+    "downloads": 34915
   },
   {
     "library": "pec",
-    "downloads": 0
+    "downloads": 196100
   },
   {
     "library": "PedCNV",
-    "downloads": 0
+    "downloads": 22611
   },
   {
     "library": "pedgene",
-    "downloads": 0
+    "downloads": 27632
   },
   {
     "library": "pedigree",
-    "downloads": 0
+    "downloads": 52123
   },
   {
     "library": "pedigreemm",
-    "downloads": 0
+    "downloads": 52598
   },
   {
     "library": "pedigreeTools",
-    "downloads": 0
+    "downloads": 8955
   },
   {
     "library": "pedmut",
-    "downloads": 0
+    "downloads": 6922
   },
   {
     "library": "pedometrics",
-    "downloads": 0
+    "downloads": 32166
   },
   {
     "library": "pedprobr",
-    "downloads": 0
+    "downloads": 6873
   },
   {
     "library": "pedquant",
-    "downloads": 0
+    "downloads": 11846
   },
   {
     "library": "pedSimulate",
-    "downloads": 0
+    "downloads": 6401
   },
   {
     "library": "pedtools",
-    "downloads": 0
+    "downloads": 8824
   },
   {
     "library": "PeerPerformance",
-    "downloads": 0
+    "downloads": 20144
   },
   {
     "library": "pegas",
-    "downloads": 0
+    "downloads": 220237
   },
   {
     "library": "PEGroupTesting",
-    "downloads": 0
+    "downloads": 16042
   },
   {
     "library": "PEIP",
-    "downloads": 0
+    "downloads": 31042
   },
   {
     "library": "PELVIS",
-    "downloads": 0
+    "downloads": 11469
   },
   {
     "library": "PEMM",
-    "downloads": 0
+    "downloads": 24542
   },
   {
     "library": "pems.utils",
-    "downloads": 0
+    "downloads": 16072
   },
   {
     "library": "penalized",
-    "downloads": 0
+    "downloads": 269679
   },
   {
     "library": "penalizedLDA",
-    "downloads": 0
+    "downloads": 48502
   },
   {
     "library": "penalizedSVM",
-    "downloads": 0
+    "downloads": 47528
   },
   {
     "library": "penaltyLearning",
-    "downloads": 0
+    "downloads": 17642
   },
   {
     "library": "pencal",
-    "downloads": 0
+    "downloads": 509
   },
   {
     "library": "pencopulaCond",
-    "downloads": 0
+    "downloads": 12347
   },
   {
     "library": "PenCoxFrail",
-    "downloads": 0
+    "downloads": 17094
   },
   {
     "library": "pendensity",
-    "downloads": 0
+    "downloads": 30543
   },
   {
     "library": "penDvine",
-    "downloads": 0
+    "downloads": 26211
   },
   {
     "library": "PenIC",
-    "downloads": 0
+    "downloads": 5017
   },
   {
     "library": "penMSM",
-    "downloads": 0
+    "downloads": 22551
   },
   {
     "library": "penPHcure",
-    "downloads": 0
+    "downloads": 5489
   },
   {
     "library": "pense",
-    "downloads": 0
+    "downloads": 15821
   },
   {
     "library": "pensim",
-    "downloads": 0
+    "downloads": 28295
   },
   {
     "library": "peopleanalyticsdata",
-    "downloads": 0
+    "downloads": 638
   },
   {
     "library": "peperr",
-    "downloads": 0
+    "downloads": 41044
   },
   {
     "library": "peppm",
-    "downloads": 0
+    "downloads": 2228
   },
   {
     "library": "pepr",
-    "downloads": 0
+    "downloads": 3064
   },
   {
     "library": "PepSAVIms",
-    "downloads": 0
+    "downloads": 14300
   },
   {
     "library": "peptider",
-    "downloads": 0
+    "downloads": 25931
   },
   {
     "library": "Peptides",
-    "downloads": 0
+    "downloads": 52451
   },
   {
     "library": "pequod",
-    "downloads": 0
+    "downloads": 47368
   },
   {
     "library": "perARMA",
-    "downloads": 0
+    "downloads": 34243
   },
   {
     "library": "Perc",
-    "downloads": 0
+    "downloads": 19415
   },
   {
     "library": "perccal",
-    "downloads": 0
+    "downloads": 14476
   },
   {
     "library": "perccalc",
-    "downloads": 0
+    "downloads": 12307
   },
   {
     "library": "perfectphyloR",
-    "downloads": 0
+    "downloads": 6755
   },
   {
     "library": "PerFit",
-    "downloads": 0
+    "downloads": 26822
   },
   {
     "library": "PerfMeas",
-    "downloads": 0
+    "downloads": 34358
   },
   {
     "library": "performance",
-    "downloads": 0
+    "downloads": 469085
   },
   {
     "library": "PerformanceAnalytics",
-    "downloads": 0
+    "downloads": 1432661
   },
   {
     "library": "performanceEstimation",
-    "downloads": 0
+    "downloads": 33696
   },
   {
     "library": "pergola",
-    "downloads": 0
+    "downloads": 14808
   },
   {
     "library": "peRiodiCS",
-    "downloads": 0
+    "downloads": 9242
   },
   {
     "library": "PeriodicTable",
-    "downloads": 0
+    "downloads": 17991
   },
   {
     "library": "periscope",
-    "downloads": 0
+    "downloads": 13811
   },
   {
     "library": "perm",
-    "downloads": 0
+    "downloads": 172764
   },
   {
     "library": "PermAlgo",
-    "downloads": 0
+    "downloads": 35160
   },
   {
     "library": "PerMallows",
-    "downloads": 0
+    "downloads": 28107
   },
   {
     "library": "permGPU",
-    "downloads": 0
+    "downloads": 8323
   },
   {
     "library": "permGS",
-    "downloads": 0
+    "downloads": 13875
   },
   {
     "library": "permimp",
-    "downloads": 0
+    "downloads": 2340
   },
   {
     "library": "permPATH",
-    "downloads": 0
+    "downloads": 17693
   },
   {
     "library": "permubiome",
-    "downloads": 0
+    "downloads": 17155
   },
   {
     "library": "permuco",
-    "downloads": 0
+    "downloads": 13385
   },
   {
     "library": "permutations",
-    "downloads": 0
+    "downloads": 28020
   },
   {
     "library": "permute",
-    "downloads": 0
+    "downloads": 1692625
   },
   {
     "library": "permutes",
-    "downloads": 0
+    "downloads": 10834
   },
   {
     "library": "perry",
-    "downloads": 0
+    "downloads": 70415
   },
   {
     "library": "PerseusR",
-    "downloads": 0
+    "downloads": 9733
   },
   {
     "library": "persiandictionary",
-    "downloads": 0
+    "downloads": 24013
   },
   {
     "library": "PersianStemmer",
-    "downloads": 0
+    "downloads": 10385
   },
   {
     "library": "PersomicsArray",
-    "downloads": 0
+    "downloads": 13688
   },
   {
     "library": "personalized",
-    "downloads": 0
+    "downloads": 20432
   },
   {
     "library": "personalized2part",
-    "downloads": 0
+    "downloads": 1766
   },
   {
     "library": "personalr",
-    "downloads": 0
+    "downloads": 832
   },
   {
     "library": "personograph",
-    "downloads": 0
+    "downloads": 17511
   },
   {
     "library": "personr",
-    "downloads": 0
+    "downloads": 2253
   },
   {
     "library": "perspectev",
-    "downloads": 0
+    "downloads": 19595
   },
   {
     "library": "peRspective",
-    "downloads": 0
+    "downloads": 7261
   },
   {
     "library": "perturbR",
-    "downloads": 0
+    "downloads": 13598
   },
   {
     "library": "peruse",
-    "downloads": 0
+    "downloads": 751
   },
   {
     "library": "pesel",
-    "downloads": 0
+    "downloads": 11972
   },
   {
     "library": "pestr",
-    "downloads": 0
+    "downloads": 245
   },
   {
     "library": "PetfindeR",
-    "downloads": 0
+    "downloads": 8341
   },
   {
     "library": "petitr",
-    "downloads": 0
+    "downloads": 12162
   },
   {
     "library": "petrinetR",
-    "downloads": 0
+    "downloads": 24614
   },
   {
     "library": "pewdata",
-    "downloads": 0
+    "downloads": 16544
   },
   {
     "library": "pexm",
-    "downloads": 0
+    "downloads": 2284
   },
   {
     "library": "pez",
-    "downloads": 0
+    "downloads": 26321
   },
   {
     "library": "pfa",
-    "downloads": 0
+    "downloads": 18115
   },
   {
     "library": "pfica",
-    "downloads": 0
+    "downloads": 1788
   },
   {
     "library": "pflamelet",
-    "downloads": 0
+    "downloads": 591
   },
   {
     "library": "pgam",
-    "downloads": 0
+    "downloads": 32318
   },
   {
     "library": "pgdraw",
-    "downloads": 0
+    "downloads": 11268
   },
   {
     "library": "PGEE",
-    "downloads": 0
+    "downloads": 18254
   },
   {
     "library": "pgee.mixed",
-    "downloads": 0
+    "downloads": 13160
   },
   {
     "library": "pgirmess",
-    "downloads": 0
+    "downloads": 257175
   },
   {
     "library": "pglm",
-    "downloads": 0
+    "downloads": 154116
   },
   {
     "library": "pGLS",
-    "downloads": 0
+    "downloads": 25499
   },
   {
     "library": "PGM2",
-    "downloads": 0
+    "downloads": 26911
   },
   {
     "library": "pGMGM",
-    "downloads": 0
+    "downloads": 14277
   },
   {
     "library": "pgmm",
-    "downloads": 0
+    "downloads": 75043
   },
   {
     "library": "pgnorm",
-    "downloads": 0
+    "downloads": 25295
   },
   {
     "library": "pGPx",
-    "downloads": 0
+    "downloads": 9378
   },
   {
     "library": "pgraph",
-    "downloads": 0
+    "downloads": 16082
   },
   {
     "library": "pgsc",
-    "downloads": 0
+    "downloads": 8541
   },
   {
     "library": "pgTools",
-    "downloads": 0
+    "downloads": 211
   },
   {
     "library": "ph2bayes",
-    "downloads": 0
+    "downloads": 17463
   },
   {
     "library": "ph2bye",
-    "downloads": 0
+    "downloads": 16342
   },
   {
     "library": "ph2mult",
-    "downloads": 0
+    "downloads": 14436
   },
   {
     "library": "phangorn",
-    "downloads": 0
+    "downloads": 540129
   },
   {
     "library": "pharmaRTF",
-    "downloads": 0
+    "downloads": 4238
   },
   {
     "library": "PharmPow",
-    "downloads": 0
+    "downloads": 24509
   },
   {
     "library": "Phase123",
-    "downloads": 0
+    "downloads": 12337
   },
   {
     "library": "Phase12Compare",
-    "downloads": 0
+    "downloads": 7145
   },
   {
     "library": "phase1PRMD",
-    "downloads": 0
+    "downloads": 8534
   },
   {
     "library": "phase1RMD",
-    "downloads": 0
+    "downloads": 14187
   },
   {
     "library": "phaseR",
-    "downloads": 0
+    "downloads": 39498
   },
   {
     "library": "phateR",
-    "downloads": 0
+    "downloads": 21937
   },
   {
     "library": "phd",
-    "downloads": 0
+    "downloads": 6475
   },
   {
     "library": "pheatmap",
-    "downloads": 0
+    "downloads": 878940
   },
   {
     "library": "PheCAP",
-    "downloads": 0
+    "downloads": 2281
   },
   {
     "library": "PHEindicatormethods",
-    "downloads": 0
+    "downloads": 15816
   },
   {
     "library": "phenability",
-    "downloads": 0
+    "downloads": 21132
   },
   {
     "library": "phenesse",
-    "downloads": 0
+    "downloads": 6310
   },
   {
     "library": "phenex",
-    "downloads": 0
+    "downloads": 25941
   },
   {
     "library": "PHENIX",
-    "downloads": 0
+    "downloads": 23372
   },
   {
     "library": "phenmod",
-    "downloads": 0
+    "downloads": 22189
   },
   {
     "library": "phenModel",
-    "downloads": 0
+    "downloads": 6441
   },
   {
     "library": "pheno",
-    "downloads": 0
+    "downloads": 28423
   },
   {
     "library": "phenocamr",
-    "downloads": 0
+    "downloads": 12166
   },
   {
     "library": "phenoCDM",
-    "downloads": 0
+    "downloads": 10475
   },
   {
     "library": "phenofit",
-    "downloads": 0
+    "downloads": 9747
   },
   {
     "library": "phenology",
-    "downloads": 0
+    "downloads": 44157
   },
   {
     "library": "phenomap",
-    "downloads": 0
+    "downloads": 11406
   },
   {
     "library": "phenopix",
-    "downloads": 0
+    "downloads": 108186
   },
   {
     "library": "PheNorm",
-    "downloads": 0
+    "downloads": 396
   },
   {
     "library": "Phenotype",
-    "downloads": 0
+    "downloads": 2261
   },
   {
     "library": "PhenotypeSimulator",
-    "downloads": 0
+    "downloads": 17346
   },
   {
     "library": "PHeval",
-    "downloads": 0
+    "downloads": 25561
   },
   {
     "library": "phia",
-    "downloads": 0
+    "downloads": 113819
   },
   {
     "library": "phiDelta",
-    "downloads": 0
+    "downloads": 11859
   },
   {
     "library": "philentropy",
-    "downloads": 0
+    "downloads": 74361
   },
   {
     "library": "phillydaodata",
-    "downloads": 0
+    "downloads": 1011
   },
   {
     "library": "PHInfiniteEstimates",
-    "downloads": 0
+    "downloads": 6023
   },
   {
     "library": "phm",
-    "downloads": 0
+    "downloads": 2325
   },
   {
     "library": "phonenumber",
@@ -53985,6 +54005,10 @@
   },
   {
     "library": "rwt",
+    "downloads": 0
+  },
+  {
+    "library": "Rwtss",
     "downloads": 0
   },
   {
