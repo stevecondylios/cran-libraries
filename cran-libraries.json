@@ -12628,6 +12628,10 @@
     "downloads": 16841
   },
   {
+    "library": "decorators",
+    "downloads": 0
+  },
+  {
     "library": "Deducer",
     "downloads": 228960
   },
@@ -13706,6 +13710,10 @@
   {
     "library": "dipw",
     "downloads": 1431
+  },
+  {
+    "library": "Dire",
+    "downloads": 0
   },
   {
     "library": "DIRECT",
@@ -14798,6 +14806,10 @@
   {
     "library": "DrillR",
     "downloads": 18627
+  },
+  {
+    "library": "drimmR",
+    "downloads": 0
   },
   {
     "library": "DrImpute",
@@ -17914,6 +17926,10 @@
   {
     "library": "explor",
     "downloads": 55751
+  },
+  {
+    "library": "exploratory",
+    "downloads": 0
   },
   {
     "library": "explore",
@@ -28884,6 +28900,10 @@
     "downloads": 2840
   },
   {
+    "library": "isodistrreg",
+    "downloads": 0
+  },
+  {
     "library": "IsoGene",
     "downloads": 31106
   },
@@ -29554,6 +29574,10 @@
   {
     "library": "jsonstat",
     "downloads": 11848
+  },
+  {
+    "library": "jsontools",
+    "downloads": 0
   },
   {
     "library": "jsonvalidate",
@@ -30801,379 +30825,379 @@
   },
   {
     "library": "lawstat",
-    "downloads": 0
+    "downloads": 249703
   },
   {
     "library": "lax",
-    "downloads": 0
+    "downloads": 8178
   },
   {
     "library": "lazy",
-    "downloads": 0
+    "downloads": 39528
   },
   {
     "library": "lazyarray",
-    "downloads": 0
+    "downloads": 3930
   },
   {
     "library": "lazybar",
-    "downloads": 0
+    "downloads": 3447
   },
   {
     "library": "lazyData",
-    "downloads": 0
+    "downloads": 30404
   },
   {
     "library": "lazyeval",
-    "downloads": 0
+    "downloads": 21477742
   },
   {
     "library": "lazygreedy",
-    "downloads": 0
+    "downloads": 2143
   },
   {
     "library": "lazyraster",
-    "downloads": 0
+    "downloads": 7627
   },
   {
     "library": "lazysf",
-    "downloads": 0
+    "downloads": 1566
   },
   {
     "library": "lazysql",
-    "downloads": 0
+    "downloads": 17270
   },
   {
     "library": "lazytrade",
-    "downloads": 0
+    "downloads": 12875
   },
   {
     "library": "lazyWeave",
-    "downloads": 0
+    "downloads": 37437
   },
   {
     "library": "lba",
-    "downloads": 0
+    "downloads": 26578
   },
   {
     "library": "lbfgs",
-    "downloads": 0
+    "downloads": 81975
   },
   {
     "library": "lbfgsb3c",
-    "downloads": 0
+    "downloads": 38846
   },
   {
     "library": "lbiassurv",
-    "downloads": 0
+    "downloads": 28423
   },
   {
     "library": "lbreg",
-    "downloads": 0
+    "downloads": 16270
   },
   {
     "library": "LBSPR",
-    "downloads": 0
+    "downloads": 21761
   },
   {
     "library": "LCA",
-    "downloads": 0
+    "downloads": 38898
   },
   {
     "library": "LCAextend",
-    "downloads": 0
+    "downloads": 29583
   },
   {
     "library": "lcars",
-    "downloads": 0
+    "downloads": 6946
   },
   {
     "library": "LCAvarsel",
-    "downloads": 0
+    "downloads": 16898
   },
   {
     "library": "lcc",
-    "downloads": 0
+    "downloads": 14232
   },
   {
     "library": "lcda",
-    "downloads": 0
+    "downloads": 32246
   },
   {
     "library": "LCF",
-    "downloads": 0
+    "downloads": 18460
   },
   {
     "library": "LCFdata",
-    "downloads": 0
+    "downloads": 49920
   },
   {
     "library": "lchemix",
-    "downloads": 0
+    "downloads": 5993
   },
   {
     "library": "lclGWAS",
-    "downloads": 0
+    "downloads": 16444
   },
   {
     "library": "LCMCR",
-    "downloads": 0
+    "downloads": 23476
   },
   {
     "library": "lcmm",
-    "downloads": 0
+    "downloads": 81680
   },
   {
     "library": "lconnect",
-    "downloads": 0
+    "downloads": 9960
   },
   {
     "library": "lcopula",
-    "downloads": 0
+    "downloads": 68860
   },
   {
     "library": "LCox",
-    "downloads": 0
+    "downloads": 12259
   },
   {
     "library": "lcpm",
-    "downloads": 0
+    "downloads": 10282
   },
   {
     "library": "lcra",
-    "downloads": 0
+    "downloads": 2986
   },
   {
     "library": "lcsm",
-    "downloads": 0
+    "downloads": 4639
   },
   {
     "library": "lctools",
-    "downloads": 0
+    "downloads": 38188
   },
   {
     "library": "lcyanalysis",
-    "downloads": 0
+    "downloads": 16237
   },
   {
     "library": "lda",
-    "downloads": 0
+    "downloads": 292158
   },
   {
     "library": "ldamatch",
-    "downloads": 0
+    "downloads": 20166
   },
   {
     "library": "ldaPrototype",
-    "downloads": 0
+    "downloads": 7798
   },
   {
     "library": "ldat",
-    "downloads": 0
+    "downloads": 16292
   },
   {
     "library": "LDATS",
-    "downloads": 0
+    "downloads": 8813
   },
   {
     "library": "ldatuning",
-    "downloads": 0
+    "downloads": 58598
   },
   {
     "library": "LDAvis",
-    "downloads": 0
+    "downloads": 115091
   },
   {
     "library": "ldbod",
-    "downloads": 0
+    "downloads": 23641
   },
   {
     "library": "ldbounds",
-    "downloads": 0
+    "downloads": 42561
   },
   {
     "library": "LDcorSV",
-    "downloads": 0
+    "downloads": 35303
   },
   {
     "library": "LDheatmap",
-    "downloads": 0
+    "downloads": 120436
   },
   {
     "library": "ldhmm",
-    "downloads": 0
+    "downloads": 18613
   },
   {
     "library": "LDlinkR",
-    "downloads": 0
+    "downloads": 11173
   },
   {
     "library": "LDNN",
-    "downloads": 0
+    "downloads": 1325
   },
   {
     "library": "LDOD",
-    "downloads": 0
+    "downloads": 28291
   },
   {
     "library": "LDPD",
-    "downloads": 0
+    "downloads": 24983
   },
   {
     "library": "ldr",
-    "downloads": 0
+    "downloads": 30615
   },
   {
     "library": "LDRTools",
-    "downloads": 0
+    "downloads": 31412
   },
   {
     "library": "ldsep",
-    "downloads": 0
+    "downloads": 3618
   },
   {
     "library": "ldsr",
-    "downloads": 0
+    "downloads": 3323
   },
   {
     "library": "leabRa",
-    "downloads": 0
+    "downloads": 14124
   },
   {
     "library": "leaderCluster",
-    "downloads": 0
+    "downloads": 25792
   },
   {
     "library": "LeafArea",
-    "downloads": 0
+    "downloads": 28840
   },
   {
     "library": "leafem",
-    "downloads": 0
+    "downloads": 619136
   },
   {
     "library": "leafgl",
-    "downloads": 0
+    "downloads": 9154
   },
   {
     "library": "leaflegend",
-    "downloads": 0
+    "downloads": 992
   },
   {
     "library": "leaflet",
-    "downloads": 0
+    "downloads": 2365691
   },
   {
     "library": "leaflet.esri",
-    "downloads": 0
+    "downloads": 22099
   },
   {
     "library": "leaflet.extras",
-    "downloads": 0
+    "downloads": 196718
   },
   {
     "library": "leaflet.extras2",
-    "downloads": 0
+    "downloads": 24437
   },
   {
     "library": "leaflet.minicharts",
-    "downloads": 0
+    "downloads": 48463
   },
   {
     "library": "leaflet.multiopacity",
-    "downloads": 0
+    "downloads": 1589
   },
   {
     "library": "leaflet.opacity",
-    "downloads": 0
+    "downloads": 11850
   },
   {
     "library": "leaflet.providers",
-    "downloads": 0
+    "downloads": 836165
   },
   {
     "library": "leafletCN",
-    "downloads": 0
+    "downloads": 24750
   },
   {
     "library": "leafletR",
-    "downloads": 0
+    "downloads": 76139
   },
   {
     "library": "leafpm",
-    "downloads": 0
+    "downloads": 110246
   },
   {
     "library": "leafpop",
-    "downloads": 0
+    "downloads": 489545
   },
   {
     "library": "leafSTAR",
-    "downloads": 0
+    "downloads": 16183
   },
   {
     "library": "leafsync",
-    "downloads": 0
+    "downloads": 246564
   },
   {
     "library": "leaftime",
-    "downloads": 0
+    "downloads": 12524
   },
   {
     "library": "leanpubr",
-    "downloads": 0
+    "downloads": 11043
   },
   {
     "library": "LEANR",
-    "downloads": 0
+    "downloads": 16100
   },
   {
     "library": "LEAP",
-    "downloads": 0
+    "downloads": 22928
   },
   {
     "library": "LEAPFrOG",
-    "downloads": 0
+    "downloads": 30484
   },
   {
     "library": "leapp",
-    "downloads": 0
+    "downloads": 30220
   },
   {
     "library": "leaps",
-    "downloads": 0
+    "downloads": 4548407
   },
   {
     "library": "LeArEst",
-    "downloads": 0
+    "downloads": 17263
   },
   {
     "library": "LearnBayes",
-    "downloads": 0
+    "downloads": 1296378
   },
   {
     "library": "LearnClust",
-    "downloads": 0
+    "downloads": 2531
   },
   {
     "library": "LearnGeom",
-    "downloads": 0
+    "downloads": 19632
   },
   {
     "library": "learningr",
-    "downloads": 0
+    "downloads": 40089
   },
   {
     "library": "LearningRlab",
-    "downloads": 0
+    "downloads": 11091
   },
   {
     "library": "learNN",
-    "downloads": 0
+    "downloads": 19456
   },
   {
     "library": "learnPopGen",
-    "downloads": 0
+    "downloads": 17332
   },
   {
     "library": "learnr",
@@ -41216,6 +41240,10 @@
     "downloads": 0
   },
   {
+    "library": "opentriviadb",
+    "downloads": 0
+  },
+  {
     "library": "openVA",
     "downloads": 0
   },
@@ -44773,6 +44801,10 @@
   },
   {
     "library": "plumber",
+    "downloads": 0
+  },
+  {
+    "library": "plumberDeploy",
     "downloads": 0
   },
   {
@@ -50741,6 +50773,10 @@
   },
   {
     "library": "repmis",
+    "downloads": 0
+  },
+  {
+    "library": "repmod",
     "downloads": 0
   },
   {
@@ -67985,6 +68021,10 @@
   },
   {
     "library": "WEE",
+    "downloads": 0
+  },
+  {
+    "library": "weed",
     "downloads": 0
   },
   {
