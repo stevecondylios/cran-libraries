@@ -312,10 +312,6 @@
     "downloads": 11498
   },
   {
-    "library": "activpalProcessing",
-    "downloads": 27295
-  },
-  {
     "library": "actogrammr",
     "downloads": 20197
   },
@@ -13352,10 +13348,6 @@
     "downloads": 9858
   },
   {
-    "library": "dgodata",
-    "downloads": 20838
-  },
-  {
     "library": "dgof",
     "downloads": 63104
   },
@@ -25302,10 +25294,6 @@
   {
     "library": "haploR",
     "downloads": 33592
-  },
-  {
-    "library": "haploReconstruct",
-    "downloads": 16100
   },
   {
     "library": "HaploSim",
@@ -39212,10 +39200,6 @@
     "downloads": 25669
   },
   {
-    "library": "netgsa",
-    "downloads": 24048
-  },
-  {
     "library": "netgwas",
     "downloads": 19982
   },
@@ -39492,10 +39476,6 @@
     "downloads": 2047
   },
   {
-    "library": "NFP",
-    "downloads": 15874
-  },
-  {
     "library": "NFWdist",
     "downloads": 10141
   },
@@ -39538,10 +39518,6 @@
   {
     "library": "nhdR",
     "downloads": 11962
-  },
-  {
-    "library": "nhds",
-    "downloads": 8943
   },
   {
     "library": "nhlapi",
@@ -44592,6 +44568,10 @@
     "downloads": 6596
   },
   {
+    "library": "places",
+    "downloads": 0
+  },
+  {
     "library": "PlackettLuce",
     "downloads": 20455
   },
@@ -48250,6 +48230,10 @@
   {
     "library": "RAC",
     "downloads": 15926
+  },
+  {
+    "library": "RaceID",
+    "downloads": 19926
   },
   {
     "library": "raceland",
@@ -62116,10 +62100,6 @@
     "downloads": 1528
   },
   {
-    "library": "SunsVoc",
-    "downloads": 3344
-  },
-  {
     "library": "SunterSampling",
     "downloads": 27343
   },
@@ -63464,6 +63444,10 @@
     "downloads": 17188
   },
   {
+    "library": "TeachHist",
+    "downloads": 0
+  },
+  {
     "library": "teachingApps",
     "downloads": 16116
   },
@@ -64178,6 +64162,10 @@
   {
     "library": "tidybayes",
     "downloads": 73871
+  },
+  {
+    "library": "tidyBdE",
+    "downloads": 0
   },
   {
     "library": "tidyBF",
@@ -67386,6 +67374,10 @@
   {
     "library": "VetResearchLMM",
     "downloads": 16245
+  },
+  {
+    "library": "VEwaning",
+    "downloads": 0
   },
   {
     "library": "vfcp",
