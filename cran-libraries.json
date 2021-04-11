@@ -1,5203 +1,5203 @@
 [
   {
     "library": "A3",
-    "downloads": 71593
+    "downloads": 71645
   },
   {
     "library": "aaSEA",
-    "downloads": 13848
+    "downloads": 13869
   },
   {
     "library": "AATtools",
-    "downloads": 4862
+    "downloads": 4882
   },
   {
     "library": "ABACUS",
-    "downloads": 12558
+    "downloads": 12581
   },
   {
     "library": "abbyyR",
-    "downloads": 49091
+    "downloads": 49125
   },
   {
     "library": "abc",
-    "downloads": 200176
+    "downloads": 200220
   },
   {
     "library": "abc.data",
-    "downloads": 180900
+    "downloads": 180951
   },
   {
     "library": "ABC.RAP",
-    "downloads": 25967
+    "downloads": 25997
   },
   {
     "library": "abcADM",
-    "downloads": 10073
+    "downloads": 10097
   },
   {
     "library": "ABCanalysis",
-    "downloads": 46543
+    "downloads": 46576
   },
   {
     "library": "abcdeFBA",
-    "downloads": 42889
+    "downloads": 42922
   },
   {
     "library": "ABCoptim",
-    "downloads": 48274
+    "downloads": 48304
   },
   {
     "library": "ABCp2",
-    "downloads": 40585
+    "downloads": 40615
   },
   {
     "library": "abcrf",
-    "downloads": 52142
+    "downloads": 52173
   },
   {
     "library": "abcrlda",
-    "downloads": 15145
+    "downloads": 15187
   },
   {
     "library": "abctools",
-    "downloads": 153334
+    "downloads": 153366
   },
   {
     "library": "abd",
-    "downloads": 113567
+    "downloads": 113614
   },
   {
     "library": "abdiv",
-    "downloads": 9877
+    "downloads": 9902
   },
   {
     "library": "abe",
-    "downloads": 26605
+    "downloads": 26640
   },
   {
     "library": "abf2",
-    "downloads": 41086
+    "downloads": 41122
   },
   {
     "library": "ABHgenotypeR",
-    "downloads": 30036
+    "downloads": 30070
   },
   {
     "library": "abind",
-    "downloads": 8358195
+    "downloads": 8364794
   },
   {
     "library": "abjutils",
-    "downloads": 50077
+    "downloads": 50111
   },
   {
     "library": "abnormality",
-    "downloads": 18197
+    "downloads": 18222
   },
   {
     "library": "abodOutlier",
-    "downloads": 29477
+    "downloads": 29507
   },
   {
     "library": "ABPS",
-    "downloads": 24447
+    "downloads": 24475
   },
   {
     "library": "abstractr",
-    "downloads": 15064
+    "downloads": 15089
   },
   {
     "library": "abtest",
-    "downloads": 15732
+    "downloads": 15757
   },
   {
     "library": "Ac3net",
-    "downloads": 18355
+    "downloads": 18381
   },
   {
     "library": "ACA",
-    "downloads": 31396
+    "downloads": 31434
   },
   {
     "library": "acc",
-    "downloads": 35557
+    "downloads": 35588
   },
   {
     "library": "accelerometry",
-    "downloads": 55532
+    "downloads": 55565
   },
   {
     "library": "accelmissing",
-    "downloads": 29091
+    "downloads": 29120
   },
   {
     "library": "accept",
-    "downloads": 11682
-  },
-  {
-    "library": "AcceptanceSampling",
-    "downloads": 60418
-  },
-  {
-    "library": "accrual",
-    "downloads": 39583
-  },
-  {
-    "library": "accSDA",
-    "downloads": 21218
-  },
-  {
-    "library": "ACD",
-    "downloads": 51806
-  },
-  {
-    "library": "ACDm",
-    "downloads": 33916
-  },
-  {
-    "library": "ace2fastq",
-    "downloads": 12401
-  },
-  {
-    "library": "acebayes",
-    "downloads": 40236
-  },
-  {
-    "library": "aceEditor",
-    "downloads": 3049
-  },
-  {
-    "library": "acepack",
-    "downloads": 5939008
-  },
-  {
-    "library": "ACEsearch",
-    "downloads": 3073
-  },
-  {
-    "library": "ACEt",
-    "downloads": 33589
-  },
-  {
-    "library": "acfMPeriod",
-    "downloads": 11809
-  },
-  {
-    "library": "acid",
-    "downloads": 108077
-  },
-  {
-    "library": "acled.api",
-    "downloads": 3559
-  },
-  {
-    "library": "acmeR",
-    "downloads": 28477
-  },
-  {
-    "library": "ACNE",
-    "downloads": 44655
-  },
-  {
-    "library": "acnr",
-    "downloads": 34836
-  },
-  {
-    "library": "acopula",
-    "downloads": 38515
-  },
-  {
-    "library": "AcousticNDLCodeR",
-    "downloads": 25630
-  },
-  {
-    "library": "acp",
-    "downloads": 45703
-  },
-  {
-    "library": "aCRM",
-    "downloads": 39391
-  },
-  {
-    "library": "acroname",
-    "downloads": 1269
-  },
-  {
-    "library": "AcrossTic",
-    "downloads": 25375
-  },
-  {
-    "library": "acrt",
-    "downloads": 24398
-  },
-  {
-    "library": "acs",
-    "downloads": 203217
-  },
-  {
-    "library": "ACSNMineR",
-    "downloads": 30182
-  },
-  {
-    "library": "acss",
-    "downloads": 35713
-  },
-  {
-    "library": "acss.data",
-    "downloads": 40996
-  },
-  {
-    "library": "ACSWR",
-    "downloads": 34236
-  },
-  {
-    "library": "act",
-    "downloads": 2651
-  },
-  {
-    "library": "ACTCD",
-    "downloads": 40791
-  },
-  {
-    "library": "ActCR",
-    "downloads": 4418
-  },
-  {
-    "library": "actel",
-    "downloads": 8103
-  },
-  {
-    "library": "ActFrag",
-    "downloads": 12249
-  },
-  {
-    "library": "activatr",
-    "downloads": 975
-  },
-  {
-    "library": "ActiveDriver",
-    "downloads": 21015
-  },
-  {
-    "library": "ActiveDriverWGS",
-    "downloads": 11130
-  },
-  {
-    "library": "activegp",
-    "downloads": 7311
-  },
-  {
-    "library": "ActivePathways",
-    "downloads": 10454
-  },
-  {
-    "library": "activity",
-    "downloads": 39802
-  },
-  {
-    "library": "activityCounts",
-    "downloads": 11452
-  },
-  {
-    "library": "activityGCMM",
-    "downloads": 459
-  },
-  {
-    "library": "ActivityIndex",
-    "downloads": 7165
-  },
-  {
-    "library": "activPAL",
-    "downloads": 11558
-  },
-  {
-    "library": "actogrammr",
-    "downloads": 20265
-  },
-  {
-    "library": "actuar",
-    "downloads": 462270
-  },
-  {
-    "library": "actuaryr",
-    "downloads": 9982
-  },
-  {
-    "library": "AcuityView",
-    "downloads": 22415
-  },
-  {
-    "library": "acumos",
-    "downloads": 2956
-  },
-  {
-    "library": "ada",
-    "downloads": 544101
-  },
-  {
-    "library": "adabag",
-    "downloads": 381777
-  },
-  {
-    "library": "adagio",
-    "downloads": 64673
-  },
-  {
-    "library": "adamethods",
-    "downloads": 33591
-  },
-  {
-    "library": "AdapEnetClass",
-    "downloads": 35331
-  },
-  {
-    "library": "AdapSamp",
-    "downloads": 22123
-  },
-  {
-    "library": "adapt4pv",
-    "downloads": 3953
-  },
-  {
-    "library": "adaptalint",
-    "downloads": 17625
-  },
-  {
-    "library": "AdaptFit",
-    "downloads": 42800
-  },
-  {
-    "library": "AdaptFitOS",
-    "downloads": 45600
-  },
-  {
-    "library": "AdaptGauss",
-    "downloads": 38889
-  },
-  {
-    "library": "adaptiveGPCA",
-    "downloads": 25099
-  },
-  {
-    "library": "AdaptiveSparsity",
-    "downloads": 38719
-  },
-  {
-    "library": "adaptivetau",
-    "downloads": 59442
-  },
-  {
-    "library": "adaptMCMC",
-    "downloads": 54615
-  },
-  {
-    "library": "adaptMT",
-    "downloads": 15938
-  },
-  {
-    "library": "ADAPTS",
-    "downloads": 10809
-  },
-  {
-    "library": "adaptsmoFMRI",
-    "downloads": 36944
-  },
-  {
-    "library": "adaptTest",
-    "downloads": 39357
-  },
-  {
-    "library": "AdaSampling",
-    "downloads": 18276
-  },
-  {
-    "library": "ADCT",
-    "downloads": 23463
-  },
-  {
-    "library": "add2ggplot",
-    "downloads": 8967
-  },
-  {
-    "library": "addhaz",
-    "downloads": 27407
-  },
-  {
-    "library": "addhazard",
-    "downloads": 29252
-  },
-  {
-    "library": "addinsJoaoMelo",
-    "downloads": 4144
-  },
-  {
-    "library": "addinslist",
-    "downloads": 56637
-  },
-  {
-    "library": "addinsOutline",
-    "downloads": 9412
-  },
-  {
-    "library": "additiveDEA",
-    "downloads": 21525
-  },
-  {
-    "library": "additivityTests",
-    "downloads": 126425
-  },
-  {
-    "library": "addreg",
-    "downloads": 40801
-  },
-  {
-    "library": "addScales",
-    "downloads": 5167
-  },
-  {
-    "library": "ADDT",
-    "downloads": 34462
-  },
-  {
-    "library": "ade4",
-    "downloads": 1980710
-  },
-  {
-    "library": "ade4TkGUI",
-    "downloads": 118166
-  },
-  {
-    "library": "adegenet",
-    "downloads": 422937
-  },
-  {
-    "library": "adegraphics",
-    "downloads": 172019
-  },
-  {
-    "library": "adehabitatHR",
-    "downloads": 194312
-  },
-  {
-    "library": "adehabitatHS",
-    "downloads": 83034
-  },
-  {
-    "library": "adehabitatLT",
-    "downloads": 259026
-  },
-  {
-    "library": "adehabitatMA",
-    "downloads": 273840
-  },
-  {
-    "library": "adephylo",
-    "downloads": 163252
-  },
-  {
-    "library": "adepro",
-    "downloads": 21848
-  },
-  {
-    "library": "adept",
-    "downloads": 12186
-  },
-  {
-    "library": "adeptdata",
-    "downloads": 12965
-  },
-  {
-    "library": "AdequacyModel",
-    "downloads": 55821
-  },
-  {
-    "library": "adespatial",
-    "downloads": 90397
-  },
-  {
-    "library": "adfExplorer",
-    "downloads": 25336
-  },
-  {
-    "library": "ADGofTest",
-    "downloads": 278694
-  },
-  {
-    "library": "adheRenceRX",
-    "downloads": 2082
-  },
-  {
-    "library": "AdhereR",
-    "downloads": 29309
-  },
-  {
-    "library": "AdhereRViz",
-    "downloads": 4972
-  },
-  {
-    "library": "adhoc",
-    "downloads": 44380
-  },
-  {
-    "library": "adimpro",
-    "downloads": 69072
-  },
-  {
-    "library": "adiv",
-    "downloads": 27875
-  },
-  {
-    "library": "AdjBQR",
-    "downloads": 22413
-  },
-  {
-    "library": "adjclust",
-    "downloads": 22066
-  },
-  {
-    "library": "adjustedcranlogs",
-    "downloads": 19391
-  },
-  {
-    "library": "adklakedata",
-    "downloads": 18329
-  },
-  {
-    "library": "adlift",
-    "downloads": 70173
-  },
-  {
-    "library": "admisc",
-    "downloads": 49169
-  },
-  {
-    "library": "AdMit",
-    "downloads": 65253
-  },
-  {
-    "library": "admixr",
-    "downloads": 4283
-  },
-  {
-    "library": "admixturegraph",
-    "downloads": 25690
-  },
-  {
-    "library": "ADMM",
-    "downloads": 33373
-  },
-  {
-    "library": "admmDensestSubmatrix",
-    "downloads": 9270
-  },
-  {
-    "library": "ADMMnet",
-    "downloads": 27427
-  },
-  {
-    "library": "ADMMsigma",
-    "downloads": 19399
-  },
-  {
-    "library": "ADMUR",
-    "downloads": 1476
-  },
-  {
-    "library": "adnuts",
-    "downloads": 17809
-  },
-  {
-    "library": "adobeanalyticsr",
-    "downloads": 698
-  },
-  {
-    "library": "adoption",
-    "downloads": 15248
-  },
-  {
-    "library": "adoptr",
-    "downloads": 16419
-  },
-  {
-    "library": "ADPclust",
-    "downloads": 35592
-  },
-  {
-    "library": "ADPF",
-    "downloads": 24217
-  },
-  {
-    "library": "adpss",
-    "downloads": 15077
-  },
-  {
-    "library": "ads",
-    "downloads": 61999
-  },
-  {
-    "library": "adsDataHubR",
-    "downloads": 1077
-  },
-  {
-    "library": "ADtools",
-    "downloads": 2123
-  },
-  {
-    "library": "AdvancedBasketballStats",
-    "downloads": 875
-  },
-  {
-    "library": "AdvBinomApps",
-    "downloads": 24837
-  },
-  {
-    "library": "advclust",
-    "downloads": 24360
-  },
-  {
-    "library": "AdvDif4",
-    "downloads": 24446
-  },
-  {
-    "library": "adventr",
-    "downloads": 6329
-  },
-  {
-    "library": "adwave",
-    "downloads": 33304
-  },
-  {
-    "library": "adwordsR",
-    "downloads": 16144
-  },
-  {
-    "library": "AEDForecasting",
-    "downloads": 31149
-  },
-  {
-    "library": "AEenrich",
-    "downloads": 3911
-  },
-  {
-    "library": "aemo",
-    "downloads": 31913
-  },
-  {
-    "library": "AEP",
-    "downloads": 5150
-  },
-  {
-    "library": "AER",
-    "downloads": 1696870
-  },
-  {
-    "library": "AeRobiology",
-    "downloads": 18162
-  },
-  {
-    "library": "AF",
-    "downloads": 32641
-  },
-  {
-    "library": "afc",
-    "downloads": 25612
-  },
-  {
-    "library": "afCEC",
-    "downloads": 20219
-  },
-  {
-    "library": "afex",
-    "downloads": 342262
-  },
-  {
-    "library": "affinitymatrix",
-    "downloads": 2123
-  },
-  {
-    "library": "affluenceIndex",
-    "downloads": 25142
-  },
-  {
-    "library": "AFheritability",
-    "downloads": 11531
-  },
-  {
-    "library": "AFM",
-    "downloads": 33440
-  },
-  {
-    "library": "afmToolkit",
-    "downloads": 20913
-  },
-  {
-    "library": "afpt",
-    "downloads": 20438
-  },
-  {
-    "library": "aftgee",
-    "downloads": 49747
-  },
-  {
-    "library": "AGD",
-    "downloads": 135193
-  },
-  {
-    "library": "aGE",
-    "downloads": 14315
-  },
-  {
-    "library": "AggregateR",
-    "downloads": 35452
-  },
-  {
-    "library": "aggregation",
-    "downloads": 36145
-  },
-  {
-    "library": "AGHmatrix",
-    "downloads": 20558
-  },
-  {
-    "library": "aghq",
-    "downloads": 1295
-  },
-  {
-    "library": "agop",
-    "downloads": 39401
-  },
-  {
-    "library": "AGPRIS",
-    "downloads": 3088
-  },
-  {
-    "library": "AGread",
-    "downloads": 20623
-  },
-  {
-    "library": "agRee",
-    "downloads": 44919
-  },
-  {
-    "library": "AgreementInterval",
-    "downloads": 15705
-  },
-  {
-    "library": "agricolae",
-    "downloads": 1053313
-  },
-  {
-    "library": "agridat",
-    "downloads": 85411
-  },
-  {
-    "library": "agriTutorial",
-    "downloads": 25213
-  },
-  {
-    "library": "agriwater",
-    "downloads": 14236
-  },
-  {
-    "library": "agrmt",
-    "downloads": 44647
-  },
-  {
-    "library": "agroclim",
-    "downloads": 7833
-  },
-  {
-    "library": "agrostab",
-    "downloads": 9792
-  },
-  {
-    "library": "AGSDest",
-    "downloads": 44356
-  },
-  {
-    "library": "agsemisc",
-    "downloads": 33348
-  },
-  {
-    "library": "agtboost",
-    "downloads": 3310
-  },
-  {
-    "library": "ahaz",
-    "downloads": 57265
-  },
-  {
-    "library": "AHM",
-    "downloads": 11272
-  },
-  {
-    "library": "AHMbook",
-    "downloads": 28041
-  },
-  {
-    "library": "ahnr",
-    "downloads": 22288
-  },
-  {
-    "library": "AhoCorasickTrie",
-    "downloads": 27221
-  },
-  {
-    "library": "AHPhybrid",
-    "downloads": 1561
-  },
-  {
-    "library": "ahpsurvey",
-    "downloads": 19848
-  },
-  {
-    "library": "ahptopsis2n",
-    "downloads": 3260
-  },
-  {
-    "library": "aibd",
-    "downloads": 8029
-  },
-  {
-    "library": "AICcmodavg",
-    "downloads": 387866
-  },
-  {
-    "library": "AID",
-    "downloads": 75421
-  },
-  {
-    "library": "aidar",
-    "downloads": 33829
-  },
-  {
-    "library": "aif360",
-    "downloads": 4121
-  },
-  {
-    "library": "AIG",
-    "downloads": 31714
-  },
-  {
-    "library": "aimPlot",
-    "downloads": 23150
-  },
-  {
-    "library": "aimsir17",
-    "downloads": 9959
-  },
-  {
-    "library": "aire.zmvm",
-    "downloads": 24878
-  },
-  {
-    "library": "airGR",
-    "downloads": 50099
-  },
-  {
-    "library": "airGRdatassim",
-    "downloads": 1703
-  },
-  {
-    "library": "airGRteaching",
-    "downloads": 28055
-  },
-  {
-    "library": "aiRly",
-    "downloads": 7360
-  },
-  {
-    "library": "airportr",
-    "downloads": 16672
-  },
-  {
-    "library": "airports",
-    "downloads": 53453
-  },
-  {
-    "library": "airqualityES",
-    "downloads": 8756
-  },
-  {
-    "library": "airr",
-    "downloads": 21790
-  },
-  {
-    "library": "AirSensor",
-    "downloads": 3349
-  },
-  {
-    "library": "airt",
-    "downloads": 5185
-  },
-  {
-    "library": "aiRthermo",
-    "downloads": 26077
-  },
-  {
-    "library": "ajv",
-    "downloads": 21794
-  },
-  {
-    "library": "akc",
-    "downloads": 10338
-  },
-  {
-    "library": "Ake",
-    "downloads": 32278
-  },
-  {
-    "library": "akiFlagger",
-    "downloads": 1974
-  },
-  {
-    "library": "akima",
-    "downloads": 628556
-  },
-  {
-    "library": "akmbiclust",
-    "downloads": 3872
-  },
-  {
-    "library": "akmeans",
-    "downloads": 41504
-  },
-  {
-    "library": "akmedoids",
-    "downloads": 16170
-  },
-  {
-    "library": "ALA4R",
-    "downloads": 31535
-  },
-  {
-    "library": "alabama",
-    "downloads": 152853
-  },
-  {
-    "library": "alakazam",
-    "downloads": 48400
-  },
-  {
-    "library": "ALassoSurvIC",
-    "downloads": 9337
-  },
-  {
-    "library": "albatross",
-    "downloads": 3556
-  },
-  {
-    "library": "albopictus",
-    "downloads": 23790
-  },
-  {
-    "library": "ald",
-    "downloads": 47071
-  },
-  {
-    "library": "ALDqr",
-    "downloads": 39102
-  },
-  {
-    "library": "ALEPlot",
-    "downloads": 37399
-  },
-  {
-    "library": "aLFQ",
-    "downloads": 40723
-  },
-  {
-    "library": "alfr",
-    "downloads": 11198
-  },
-  {
-    "library": "alfred",
-    "downloads": 35334
-  },
-  {
-    "library": "algaeClassify",
-    "downloads": 11708
-  },
-  {
-    "library": "AlgDesign",
-    "downloads": 1129994
-  },
-  {
-    "library": "AlgebraicHaploPackage",
-    "downloads": 28722
-  },
-  {
-    "library": "algo",
-    "downloads": 3849
-  },
-  {
-    "library": "algorithmia",
-    "downloads": 26911
-  },
-  {
-    "library": "aliases2entrez",
-    "downloads": 9561
-  },
-  {
-    "library": "alignfigR",
-    "downloads": 15806
-  },
-  {
-    "library": "alineR",
-    "downloads": 34349
-  },
-  {
-    "library": "allcontributors",
-    "downloads": 1870
-  },
-  {
-    "library": "alleHap",
-    "downloads": 33438
-  },
-  {
-    "library": "allelematch",
-    "downloads": 35867
-  },
-  {
-    "library": "AlleleRetain",
-    "downloads": 40203
-  },
-  {
-    "library": "AlleleShift",
-    "downloads": 1400
-  },
-  {
-    "library": "allelic",
-    "downloads": 39256
-  },
-  {
-    "library": "allestimates",
-    "downloads": 9658
-  },
-  {
-    "library": "AllPossibleSpellings",
-    "downloads": 40514
-  },
-  {
-    "library": "alluvial",
-    "downloads": 78081
-  },
-  {
-    "library": "almanac",
-    "downloads": 4686
-  },
-  {
-    "library": "alookr",
-    "downloads": 8315
-  },
-  {
-    "library": "alpaca",
-    "downloads": 48148
-  },
-  {
-    "library": "alphabetr",
-    "downloads": 21266
-  },
-  {
-    "library": "alphahull",
-    "downloads": 180460
-  },
-  {
-    "library": "alphaOutlier",
-    "downloads": 29247
-  },
-  {
-    "library": "AlphaPart",
-    "downloads": 12882
-  },
-  {
-    "library": "alphashape3d",
-    "downloads": 151281
-  },
-  {
-    "library": "AlphaSimR",
-    "downloads": 24143
-  },
-  {
-    "library": "alphastable",
-    "downloads": 16306
-  },
-  {
-    "library": "AlphaVantageClient",
-    "downloads": 20580
-  },
-  {
-    "library": "alphavantager",
-    "downloads": 287087
-  },
-  {
-    "library": "alr4",
-    "downloads": 451251
-  },
-  {
-    "library": "ALS",
-    "downloads": 50756
-  },
-  {
-    "library": "ALSCPC",
-    "downloads": 37831
-  },
-  {
-    "library": "ALSM",
-    "downloads": 39417
-  },
-  {
-    "library": "altadata",
-    "downloads": 1758
-  },
-  {
-    "library": "altair",
-    "downloads": 12462
-  },
-  {
-    "library": "altfuelr",
-    "downloads": 2170
-  },
-  {
-    "library": "altmeta",
-    "downloads": 29801
-  },
-  {
-    "library": "ALTopt",
-    "downloads": 33392
-  },
-  {
-    "library": "altR2",
-    "downloads": 9888
-  },
-  {
-    "library": "amap",
-    "downloads": 414621
-  },
-  {
-    "library": "AMAP.Seq",
-    "downloads": 41047
-  },
-  {
-    "library": "amapGeocode",
-    "downloads": 3193
-  },
-  {
-    "library": "amber",
-    "downloads": 7635
-  },
-  {
-    "library": "ambhasGW",
-    "downloads": 20467
-  },
-  {
-    "library": "ambient",
-    "downloads": 17625
-  },
-  {
-    "library": "ambiorix",
-    "downloads": 1236
-  },
-  {
-    "library": "AMCP",
-    "downloads": 35922
-  },
-  {
-    "library": "AMCTestmakeR",
-    "downloads": 21828
-  },
-  {
-    "library": "Amelia",
-    "downloads": 611395
-  },
-  {
-    "library": "amelie",
-    "downloads": 18025
-  },
-  {
-    "library": "amen",
-    "downloads": 43677
-  },
-  {
-    "library": "AmericanCallOpt",
-    "downloads": 49950
-  },
-  {
-    "library": "amerika",
-    "downloads": 16802
-  },
-  {
-    "library": "AmesHousing",
-    "downloads": 106933
-  },
-  {
-    "library": "AMGET",
-    "downloads": 37563
-  },
-  {
-    "library": "AmigaFFH",
-    "downloads": 17434
-  },
-  {
-    "library": "aml",
-    "downloads": 33080
-  },
-  {
-    "library": "ammistability",
-    "downloads": 15848
-  },
-  {
-    "library": "AMModels",
-    "downloads": 27795
-  },
-  {
-    "library": "AmmoniaConcentration",
-    "downloads": 24379
-  },
-  {
-    "library": "AMOEBA",
-    "downloads": 47321
-  },
-  {
-    "library": "AMORE",
-    "downloads": 80093
-  },
-  {
-    "library": "ampd",
-    "downloads": 25097
-  },
-  {
-    "library": "AmpGram",
-    "downloads": 4314
-  },
-  {
-    "library": "ampir",
-    "downloads": 9399
-  },
-  {
-    "library": "AMPLE",
-    "downloads": 11037
-  },
-  {
-    "library": "AmpliconDuo",
-    "downloads": 30118
-  },
-  {
-    "library": "AMR",
-    "downloads": 47202
-  },
-  {
-    "library": "amt",
-    "downloads": 31627
-  },
-  {
-    "library": "AmyloGram",
-    "downloads": 23453
-  },
-  {
-    "library": "AnaCoDa",
-    "downloads": 21184
-  },
-  {
-    "library": "anacor",
-    "downloads": 57076
-  },
-  {
-    "library": "analogsea",
-    "downloads": 96928
-  },
-  {
-    "library": "analogue",
-    "downloads": 86518
-  },
-  {
-    "library": "analogueExtra",
-    "downloads": 29639
-  },
-  {
-    "library": "analysisPipelines",
-    "downloads": 15829
-  },
-  {
-    "library": "analyz",
-    "downloads": 31713
-  },
-  {
-    "library": "AnalyzeFMRI",
-    "downloads": 74009
-  },
-  {
-    "library": "analyzer",
-    "downloads": 4532
-  },
-  {
-    "library": "anapuce",
-    "downloads": 35462
-  },
-  {
-    "library": "AncestryMapper",
-    "downloads": 36770
-  },
-  {
-    "library": "AnchorRegression",
-    "downloads": 2176
-  },
-  {
-    "library": "anchors",
-    "downloads": 51904
-  },
-  {
-    "library": "AnDE",
-    "downloads": 35217
-  },
-  {
-    "library": "andrews",
-    "downloads": 50915
-  },
-  {
-    "library": "Andromeda",
-    "downloads": 15500
-  },
-  {
-    "library": "andurinha",
-    "downloads": 3692
-  },
-  {
-    "library": "anesrake",
-    "downloads": 75853
-  },
-  {
-    "library": "AnglerCreelSurveySimulation",
-    "downloads": 31718
-  },
-  {
-    "library": "angstroms",
-    "downloads": 19613
-  },
-  {
-    "library": "aniDom",
-    "downloads": 25595
-  },
-  {
-    "library": "anim.plots",
-    "downloads": 33794
-  },
-  {
-    "library": "AnimalAPD",
-    "downloads": 344
-  },
-  {
-    "library": "animalEKF",
-    "downloads": 2778
-  },
-  {
-    "library": "AnimalHabitatNetwork",
-    "downloads": 8816
-  },
-  {
-    "library": "animalTrack",
-    "downloads": 36291
-  },
-  {
-    "library": "animaltracker",
-    "downloads": 6811
-  },
-  {
-    "library": "animation",
-    "downloads": 817817
-  },
-  {
-    "library": "animint2",
-    "downloads": 6844
-  },
-  {
-    "library": "anipaths",
-    "downloads": 24167
-  },
-  {
-    "library": "aniview",
-    "downloads": 6056
-  },
-  {
-    "library": "anMC",
-    "downloads": 30536
-  },
-  {
-    "library": "ANN2",
-    "downloads": 40650
-  },
-  {
-    "library": "anndata",
-    "downloads": 3738
-  },
-  {
-    "library": "AnnotationBustR",
-    "downloads": 24249
-  },
-  {
-    "library": "AnnotLists",
-    "downloads": 42845
-  },
-  {
-    "library": "AnnuityRIR",
-    "downloads": 19226
-  },
-  {
-    "library": "anocva",
-    "downloads": 26040
-  },
-  {
-    "library": "ANOM",
-    "downloads": 31971
-  },
-  {
-    "library": "anomalize",
-    "downloads": 154873
-  },
-  {
-    "library": "anomaly",
-    "downloads": 22509
-  },
-  {
-    "library": "anominate",
-    "downloads": 32569
-  },
-  {
-    "library": "ANOVAIREVA",
-    "downloads": 10255
-  },
-  {
-    "library": "ANOVAreplication",
-    "downloads": 32187
-  },
-  {
-    "library": "ANOVAShiny",
-    "downloads": 13194
-  },
-  {
-    "library": "ANOVAShiny2",
-    "downloads": 2726
-  },
-  {
-    "library": "anovir",
-    "downloads": 2472
-  },
-  {
-    "library": "anscombiser",
-    "downloads": 2700
-  },
-  {
-    "library": "AntAngioCOOL",
-    "downloads": 22324
-  },
-  {
-    "library": "antaresEditObject",
-    "downloads": 17154
-  },
-  {
-    "library": "antaresProcessing",
-    "downloads": 37732
-  },
-  {
-    "library": "antaresRead",
-    "downloads": 47449
-  },
-  {
-    "library": "antaresViz",
-    "downloads": 30527
-  },
-  {
-    "library": "anthro",
-    "downloads": 17960
-  },
-  {
-    "library": "AnthropMMD",
-    "downloads": 72459
-  },
-  {
-    "library": "Anthropometry",
-    "downloads": 66141
-  },
-  {
-    "library": "anticlust",
-    "downloads": 4718
-  },
-  {
-    "library": "antitrust",
-    "downloads": 47808
-  },
-  {
-    "library": "antiword",
-    "downloads": 304648
-  },
-  {
-    "library": "AntWeb",
-    "downloads": 41348
-  },
-  {
-    "library": "anybadger",
-    "downloads": 1139
-  },
-  {
-    "library": "anyflights",
-    "downloads": 8541
-  },
-  {
-    "library": "anyLib",
-    "downloads": 21932
-  },
-  {
-    "library": "anytime",
-    "downloads": 1617626
-  },
-  {
-    "library": "aod",
-    "downloads": 415339
-  },
-  {
-    "library": "aods3",
-    "downloads": 47967
-  },
-  {
-    "library": "aof",
-    "downloads": 7271
-  },
-  {
-    "library": "aoos",
-    "downloads": 42095
-  },
-  {
-    "library": "aopdata",
-    "downloads": 682
-  },
-  {
-    "library": "Aoptbdtvc",
-    "downloads": 16647
-  },
-  {
-    "library": "aoristic",
-    "downloads": 35308
-  },
-  {
-    "library": "aos",
-    "downloads": 4714
-  },
-  {
-    "library": "AOV1R",
-    "downloads": 2614
-  },
-  {
-    "library": "apa",
-    "downloads": 37928
-  },
-  {
-    "library": "ApacheLogProcessor",
-    "downloads": 32359
-  },
-  {
-    "library": "apaTables",
-    "downloads": 122721
-  },
-  {
-    "library": "apaText",
-    "downloads": 16311
-  },
-  {
-    "library": "apc",
-    "downloads": 36719
-  },
-  {
-    "library": "APCanalysis",
-    "downloads": 23480
-  },
-  {
-    "library": "apcf",
-    "downloads": 14901
-  },
-  {
-    "library": "APCI",
-    "downloads": 1413
-  },
-  {
-    "library": "apcluster",
-    "downloads": 130721
-  },
-  {
-    "library": "aPCoA",
-    "downloads": 7318
-  },
-  {
-    "library": "apdesign",
-    "downloads": 20663
-  },
-  {
-    "library": "ape",
-    "downloads": 2707673
-  },
-  {
-    "library": "apercu",
-    "downloads": 42695
-  },
-  {
-    "library": "apex",
-    "downloads": 49365
-  },
-  {
-    "library": "apexcharter",
-    "downloads": 19850
-  },
-  {
-    "library": "APFr",
-    "downloads": 14802
-  },
-  {
-    "library": "APfun",
-    "downloads": 32098
-  },
-  {
-    "library": "aphid",
-    "downloads": 31913
-  },
-  {
-    "library": "APIS",
-    "downloads": 11439
-  },
-  {
-    "library": "apisensr",
-    "downloads": 536
-  },
-  {
-    "library": "aplore3",
-    "downloads": 36319
-  },
-  {
-    "library": "aplot",
-    "downloads": 31178
-  },
-  {
-    "library": "aplpack",
-    "downloads": 972198
-  },
-  {
-    "library": "APML0",
-    "downloads": 28649
-  },
-  {
-    "library": "apng",
-    "downloads": 23811
-  },
-  {
-    "library": "apollo",
-    "downloads": 29482
-  },
-  {
-    "library": "APPEstimation",
-    "downloads": 18679
-  },
-  {
-    "library": "appler",
-    "downloads": 594
-  },
-  {
-    "library": "applicable",
-    "downloads": 5840
-  },
-  {
-    "library": "AppliedPredictiveModeling",
-    "downloads": 198870
-  },
-  {
-    "library": "appnn",
-    "downloads": 28194
-  },
-  {
-    "library": "approximator",
-    "downloads": 45956
-  },
-  {
-    "library": "approxmatch",
-    "downloads": 19125
-  },
-  {
-    "library": "aprean3",
-    "downloads": 32115
-  },
-  {
-    "library": "apricom",
-    "downloads": 25451
-  },
-  {
-    "library": "aprof",
-    "downloads": 43802
-  },
-  {
-    "library": "APSIMBatch",
-    "downloads": 41662
-  },
-  {
-    "library": "apsimx",
-    "downloads": 8092
-  },
-  {
-    "library": "apsrtable",
-    "downloads": 66836
-  },
-  {
-    "library": "apt",
-    "downloads": 59213
-  },
-  {
-    "library": "aptg",
-    "downloads": 14219
-  },
-  {
-    "library": "APtools",
-    "downloads": 28032
-  },
-  {
-    "library": "apTreeshape",
-    "downloads": 66111
-  },
-  {
-    "library": "apyramid",
-    "downloads": 9729
-  },
-  {
-    "library": "AQLSchemes",
-    "downloads": 6200
-  },
-  {
-    "library": "aqp",
-    "downloads": 204804
-  },
-  {
-    "library": "AQuadtree",
-    "downloads": 8572
-  },
-  {
-    "library": "AquaEnv",
-    "downloads": 42770
-  },
-  {
-    "library": "AR",
-    "downloads": 26685
-  },
-  {
-    "library": "ar.matrix",
-    "downloads": 13697
-  },
-  {
-    "library": "arabic2kansuji",
-    "downloads": 2196
-  },
-  {
-    "library": "arabicStemR",
-    "downloads": 28883
-  },
-  {
-    "library": "ArArRedux",
-    "downloads": 31876
-  },
-  {
-    "library": "arc",
-    "downloads": 28577
-  },
-  {
-    "library": "ARCensReg",
-    "downloads": 26399
-  },
-  {
-    "library": "ArchaeoChron",
-    "downloads": 19123
-  },
-  {
-    "library": "ArchaeoPhases",
-    "downloads": 29233
-  },
-  {
-    "library": "ArchaeoPhases.dataset",
-    "downloads": 6156
-  },
-  {
-    "library": "archdata",
-    "downloads": 1473505
-  },
-  {
-    "library": "archeofrag",
-    "downloads": 1899
-  },
-  {
-    "library": "archetyper",
-    "downloads": 382
-  },
-  {
-    "library": "archetypes",
-    "downloads": 68029
-  },
-  {
-    "library": "aRchi",
-    "downloads": 8
-  },
-  {
-    "library": "archiDART",
-    "downloads": 37789
-  },
-  {
-    "library": "archiveRetriever",
-    "downloads": 511
-  },
-  {
-    "library": "archivist",
-    "downloads": 117822
-  },
-  {
-    "library": "archivist.github",
-    "downloads": 27055
-  },
-  {
-    "library": "ArCo",
-    "downloads": 23542
-  },
-  {
-    "library": "ARCokrig",
-    "downloads": 3481
-  },
-  {
-    "library": "arcos",
-    "downloads": 9463
-  },
-  {
-    "library": "arcpullr",
-    "downloads": 1031
-  },
-  {
-    "library": "arctools",
-    "downloads": 2128
-  },
-  {
-    "library": "ArDec",
-    "downloads": 53280
-  },
-  {
-    "library": "ARDL",
-    "downloads": 9687
-  },
-  {
-    "library": "areabiplot",
-    "downloads": 522
-  },
-  {
-    "library": "areal",
-    "downloads": 19842
-  },
-  {
-    "library": "arealDB",
-    "downloads": 3699
-  },
-  {
-    "library": "areaplot",
-    "downloads": 22411
-  },
-  {
-    "library": "arena2r",
-    "downloads": 14602
-  },
-  {
-    "library": "arenar",
-    "downloads": 4221
-  },
-  {
-    "library": "arfima",
-    "downloads": 84596
-  },
-  {
-    "library": "argo",
-    "downloads": 9181
-  },
-  {
-    "library": "argon2",
-    "downloads": 59009
-  },
-  {
-    "library": "argonDash",
-    "downloads": 69994
-  },
-  {
-    "library": "argonR",
-    "downloads": 71716
-  },
-  {
-    "library": "argosfilter",
-    "downloads": 54433
-  },
-  {
-    "library": "argparse",
-    "downloads": 626622
-  },
-  {
-    "library": "argparser",
-    "downloads": 70416
-  },
-  {
-    "library": "ArgumentCheck",
-    "downloads": 36587
-  },
-  {
-    "library": "ARHT",
-    "downloads": 16140
-  },
-  {
-    "library": "ari",
-    "downloads": 22785
-  },
-  {
-    "library": "ARIbrain",
-    "downloads": 15326
-  },
-  {
-    "library": "aricode",
-    "downloads": 22008
-  },
-  {
-    "library": "ariExtra",
-    "downloads": 4708
-  },
-  {
-    "library": "arkdb",
-    "downloads": 28289
-  },
-  {
-    "library": "arkhe",
-    "downloads": 10323
-  },
-  {
-    "library": "arm",
-    "downloads": 2248046
-  },
-  {
-    "library": "armada",
-    "downloads": 11996
-  },
-  {
-    "library": "armspp",
-    "downloads": 12856
-  },
-  {
-    "library": "arnie",
-    "downloads": 31522
-  },
-  {
-    "library": "AROC",
-    "downloads": 16872
-  },
-  {
-    "library": "aroma.affymetrix",
-    "downloads": 97233
-  },
-  {
-    "library": "aroma.apd",
-    "downloads": 67573
-  },
-  {
-    "library": "aroma.cn",
-    "downloads": 42542
-  },
-  {
-    "library": "aroma.core",
-    "downloads": 114176
-  },
-  {
-    "library": "Arothron",
-    "downloads": 19961
-  },
-  {
-    "library": "ARpLMEC",
-    "downloads": 13321
-  },
-  {
-    "library": "ARPobservation",
-    "downloads": 33716
-  },
-  {
-    "library": "arpr",
-    "downloads": 19317
-  },
-  {
-    "library": "aRpsDCA",
-    "downloads": 45990
-  },
-  {
-    "library": "arrangements",
-    "downloads": 82191
-  },
-  {
-    "library": "arrApply",
-    "downloads": 25676
-  },
-  {
-    "library": "arrayhelpers",
-    "downloads": 92899
-  },
-  {
-    "library": "arrow",
-    "downloads": 463029
-  },
-  {
-    "library": "ars",
-    "downloads": 49118
-  },
-  {
-    "library": "arse",
-    "downloads": 10936
-  },
-  {
-    "library": "arsenal",
-    "downloads": 134313
-  },
-  {
-    "library": "ART",
-    "downloads": 27879
-  },
-  {
-    "library": "artfima",
-    "downloads": 30727
-  },
-  {
-    "library": "ARTool",
-    "downloads": 53437
-  },
-  {
-    "library": "ARTP2",
-    "downloads": 27380
-  },
-  {
-    "library": "arules",
-    "downloads": 2233556
-  },
-  {
-    "library": "arulesCBA",
-    "downloads": 53380
-  },
-  {
-    "library": "arulesNBMiner",
-    "downloads": 48447
-  },
-  {
-    "library": "arulesSequences",
-    "downloads": 175737
-  },
-  {
-    "library": "arulesViz",
-    "downloads": 942807
-  },
-  {
-    "library": "aRxiv",
-    "downloads": 53276
-  },
-  {
-    "library": "asaur",
-    "downloads": 38877
-  },
-  {
-    "library": "asbio",
-    "downloads": 201569
-  },
-  {
-    "library": "ascii",
-    "downloads": 101448
-  },
-  {
-    "library": "asciicast",
-    "downloads": 10017
-  },
-  {
-    "library": "asciichartr",
-    "downloads": 5871
-  },
-  {
-    "library": "asciiruler",
-    "downloads": 15811
-  },
-  {
-    "library": "asciiSetupReader",
-    "downloads": 25779
-  },
-  {
-    "library": "asd",
-    "downloads": 41807
-  },
-  {
-    "library": "asdreader",
-    "downloads": 31182
-  },
-  {
-    "library": "ASGS.foyer",
-    "downloads": 19916
-  },
-  {
-    "library": "ash",
-    "downloads": 402678
-  },
-  {
-    "library": "ashr",
-    "downloads": 64617
-  },
-  {
-    "library": "asht",
-    "downloads": 47409
-  },
-  {
-    "library": "AsioHeaders",
-    "downloads": 180134
-  },
-  {
-    "library": "ASIP",
-    "downloads": 20946
-  },
-  {
-    "library": "askpass",
-    "downloads": 11199850
-  },
-  {
-    "library": "aslib",
-    "downloads": 18891
-  },
-  {
-    "library": "ASMap",
-    "downloads": 50955
-  },
-  {
-    "library": "asnipe",
-    "downloads": 59991
-  },
-  {
-    "library": "aspace",
-    "downloads": 68591
-  },
-  {
-    "library": "ASPBay",
-    "downloads": 30606
-  },
-  {
-    "library": "aSPC",
-    "downloads": 18936
-  },
-  {
-    "library": "aspect",
-    "downloads": 43790
-  },
-  {
-    "library": "aspi",
-    "downloads": 20616
-  },
-  {
-    "library": "aSPU",
-    "downloads": 38279
-  },
-  {
-    "library": "asremlPlus",
-    "downloads": 55530
-  },
-  {
-    "library": "ASSA",
-    "downloads": 22325
-  },
-  {
-    "library": "assert",
-    "downloads": 3937
-  },
-  {
-    "library": "assertable",
-    "downloads": 35474
-  },
-  {
-    "library": "assertive",
-    "downloads": 236228
-  },
-  {
-    "library": "assertive.base",
-    "downloads": 344237
-  },
-  {
-    "library": "assertive.code",
-    "downloads": 205724
-  },
-  {
-    "library": "assertive.data",
-    "downloads": 206785
-  },
-  {
-    "library": "assertive.data.uk",
-    "downloads": 207215
-  },
-  {
-    "library": "assertive.data.us",
-    "downloads": 205533
-  },
-  {
-    "library": "assertive.datetimes",
-    "downloads": 206416
-  },
-  {
-    "library": "assertive.files",
-    "downloads": 213695
-  },
-  {
-    "library": "assertive.matrices",
-    "downloads": 204185
-  },
-  {
-    "library": "assertive.models",
-    "downloads": 204136
-  },
-  {
-    "library": "assertive.numbers",
-    "downloads": 215424
-  },
-  {
-    "library": "assertive.properties",
-    "downloads": 225570
-  },
-  {
-    "library": "assertive.reflection",
-    "downloads": 310530
-  },
-  {
-    "library": "assertive.sets",
-    "downloads": 206996
-  },
-  {
-    "library": "assertive.strings",
-    "downloads": 213353
-  },
-  {
-    "library": "assertive.types",
-    "downloads": 224922
-  },
-  {
-    "library": "assertr",
-    "downloads": 82702
-  },
-  {
-    "library": "assertthat",
-    "downloads": 26260182
-  },
-  {
-    "library": "AssetCorr",
-    "downloads": 18243
-  },
-  {
-    "library": "AssetPricing",
-    "downloads": 40282
-  },
-  {
-    "library": "assignPOP",
-    "downloads": 28534
-  },
-  {
-    "library": "assignR",
-    "downloads": 11243
-  },
-  {
-    "library": "assist",
-    "downloads": 42051
-  },
-  {
-    "library": "ASSISTant",
-    "downloads": 24011
-  },
-  {
-    "library": "AssocAFC",
-    "downloads": 19834
-  },
-  {
-    "library": "assocInd",
-    "downloads": 18865
-  },
-  {
-    "library": "ASSOCShiny",
     "downloads": 11706
   },
   {
-    "library": "AssocTests",
-    "downloads": 31514
+    "library": "AcceptanceSampling",
+    "downloads": 60456
   },
   {
-    "library": "assortnet",
-    "downloads": 29803
+    "library": "accrual",
+    "downloads": 39613
   },
   {
-    "library": "AssotesteR",
-    "downloads": 37596
+    "library": "accSDA",
+    "downloads": 21247
   },
   {
-    "library": "AST",
-    "downloads": 18312
+    "library": "ACD",
+    "downloads": 51846
   },
   {
-    "library": "aster",
-    "downloads": 75236
+    "library": "ACDm",
+    "downloads": 33950
   },
   {
-    "library": "aster2",
-    "downloads": 38676
+    "library": "ace2fastq",
+    "downloads": 12421
   },
   {
-    "library": "asteRisk",
-    "downloads": 301
+    "library": "acebayes",
+    "downloads": 40270
   },
   {
-    "library": "astrochron",
-    "downloads": 59103
+    "library": "aceEditor",
+    "downloads": 3071
   },
   {
-    "library": "astrodatR",
-    "downloads": 32864
+    "library": "acepack",
+    "downloads": 5939173
   },
   {
-    "library": "astroFns",
-    "downloads": 39672
+    "library": "ACEsearch",
+    "downloads": 3096
   },
   {
-    "library": "astrolibR",
-    "downloads": 33267
+    "library": "ACEt",
+    "downloads": 33621
   },
   {
-    "library": "astsa",
-    "downloads": 435721
+    "library": "acfMPeriod",
+    "downloads": 11829
   },
   {
-    "library": "asus",
-    "downloads": 15368
+    "library": "acid",
+    "downloads": 110115
   },
   {
-    "library": "asVPC",
-    "downloads": 26003
+    "library": "acled.api",
+    "downloads": 3583
   },
   {
-    "library": "AsyK",
-    "downloads": 12232
-  },
-  {
-    "library": "asymLD",
-    "downloads": 22648
-  },
-  {
-    "library": "asymmetry",
-    "downloads": 41638
-  },
-  {
-    "library": "asymmetry.measures",
-    "downloads": 4491
-  },
-  {
-    "library": "asympTest",
-    "downloads": 40968
-  },
-  {
-    "library": "asymptor",
-    "downloads": 2554
-  },
-  {
-    "library": "AsynchLong",
-    "downloads": 33096
-  },
-  {
-    "library": "asypow",
-    "downloads": 43417
-  },
-  {
-    "library": "ata",
-    "downloads": 7430
-  },
-  {
-    "library": "atable",
-    "downloads": 19441
-  },
-  {
-    "library": "ATAforecasting",
-    "downloads": 390
-  },
-  {
-    "library": "atakrig",
-    "downloads": 5791
-  },
-  {
-    "library": "ATE",
-    "downloads": 37111
-  },
-  {
-    "library": "atlas",
-    "downloads": 16839
-  },
-  {
-    "library": "atmcmc",
-    "downloads": 31430
-  },
-  {
-    "library": "ATmet",
-    "downloads": 32954
-  },
-  {
-    "library": "atmopt",
-    "downloads": 13773
-  },
-  {
-    "library": "AtmRay",
-    "downloads": 37570
-  },
-  {
-    "library": "ATR",
-    "downloads": 49567
-  },
-  {
-    "library": "aTSA",
-    "downloads": 117872
-  },
-  {
-    "library": "atsd",
-    "downloads": 27564
-  },
-  {
-    "library": "attachment",
-    "downloads": 37799
-  },
-  {
-    "library": "attempt",
-    "downloads": 101011
-  },
-  {
-    "library": "attenuation",
-    "downloads": 8717
-  },
-  {
-    "library": "attrib",
-    "downloads": 262
-  },
-  {
-    "library": "AUC",
-    "downloads": 284616
-  },
-  {
-    "library": "aucm",
-    "downloads": 26538
-  },
-  {
-    "library": "AUCRF",
-    "downloads": 42039
-  },
-  {
-    "library": "auctestr",
-    "downloads": 17928
-  },
-  {
-    "library": "auctionr",
-    "downloads": 3579
-  },
-  {
-    "library": "audio",
-    "downloads": 215571
-  },
-  {
-    "library": "audiolyzR",
-    "downloads": 33919
-  },
-  {
-    "library": "audiometry",
-    "downloads": 4433
-  },
-  {
-    "library": "audit",
-    "downloads": 36670
-  },
-  {
-    "library": "auditor",
-    "downloads": 27141
-  },
-  {
-    "library": "augmentedRCBD",
-    "downloads": 18361
-  },
-  {
-    "library": "AugmenterR",
-    "downloads": 332
-  },
-  {
-    "library": "augSIMEX",
-    "downloads": 26239
-  },
-  {
-    "library": "auk",
-    "downloads": 35881
-  },
-  {
-    "library": "aurelius",
-    "downloads": 19429
-  },
-  {
-    "library": "AurieLSHGaussian",
-    "downloads": 19573
-  },
-  {
-    "library": "auRoc",
-    "downloads": 25662
-  },
-  {
-    "library": "AUtests",
-    "downloads": 24821
-  },
-  {
-    "library": "auth0",
-    "downloads": 19421
-  },
-  {
-    "library": "auto.pca",
-    "downloads": 19549
-  },
-  {
-    "library": "autoBagging",
-    "downloads": 18851
-  },
-  {
-    "library": "autocogs",
-    "downloads": 29775
-  },
-  {
-    "library": "autoCovariateSelection",
-    "downloads": 1636
-  },
-  {
-    "library": "AutoDeskR",
-    "downloads": 22994
-  },
-  {
-    "library": "autoencoder",
-    "downloads": 41321
-  },
-  {
-    "library": "autoFRK",
-    "downloads": 18666
-  },
-  {
-    "library": "autoimage",
-    "downloads": 36465
-  },
-  {
-    "library": "autokeras",
-    "downloads": 8601
-  },
-  {
-    "library": "automagic",
-    "downloads": 23558
-  },
-  {
-    "library": "automap",
-    "downloads": 247845
-  },
-  {
-    "library": "automl",
-    "downloads": 27665
-  },
-  {
-    "library": "autoMrP",
-    "downloads": 1213
-  },
-  {
-    "library": "automultinomial",
-    "downloads": 21912
-  },
-  {
-    "library": "AutoPipe",
-    "downloads": 8112
-  },
-  {
-    "library": "autoplotly",
-    "downloads": 24519
-  },
-  {
-    "library": "Autoplotprotein",
-    "downloads": 19123
-  },
-  {
-    "library": "AutoregressionMDE",
-    "downloads": 27152
-  },
-  {
-    "library": "AutoSEARCH",
-    "downloads": 43849
-  },
-  {
-    "library": "Autoseed",
-    "downloads": 7043
-  },
-  {
-    "library": "autoshiny",
-    "downloads": 15542
-  },
-  {
-    "library": "AutoStepwiseGLM",
-    "downloads": 13197
-  },
-  {
-    "library": "autostsm",
-    "downloads": 1715
-  },
-  {
-    "library": "autota",
-    "downloads": 7196
-  },
-  {
-    "library": "autothresholdr",
-    "downloads": 40914
-  },
-  {
-    "library": "autoTS",
-    "downloads": 4488
-  },
-  {
-    "library": "av",
-    "downloads": 334721
-  },
-  {
-    "library": "available",
-    "downloads": 31826
-  },
-  {
-    "library": "avar",
-    "downloads": 10273
-  },
-  {
-    "library": "averisk",
-    "downloads": 25566
-  },
-  {
-    "library": "aVirtualTwins",
-    "downloads": 19500
-  },
-  {
-    "library": "avocado",
-    "downloads": 1633
-  },
-  {
-    "library": "AWAPer",
-    "downloads": 8105
-  },
-  {
-    "library": "aweek",
-    "downloads": 79660
-  },
-  {
-    "library": "aweSOM",
-    "downloads": 1594
-  },
-  {
-    "library": "AWR",
-    "downloads": 28459
-  },
-  {
-    "library": "AWR.Athena",
-    "downloads": 28566
-  },
-  {
-    "library": "AWR.Kinesis",
-    "downloads": 23539
-  },
-  {
-    "library": "AWR.KMS",
-    "downloads": 23701
-  },
-  {
-    "library": "aws",
-    "downloads": 77334
-  },
-  {
-    "library": "aws.alexa",
-    "downloads": 33227
-  },
-  {
-    "library": "aws.comprehend",
-    "downloads": 15383
-  },
-  {
-    "library": "aws.ec2metadata",
-    "downloads": 50708778
-  },
-  {
-    "library": "aws.ecx",
-    "downloads": 380
-  },
-  {
-    "library": "aws.iam",
-    "downloads": 32991
-  },
-  {
-    "library": "aws.kms",
-    "downloads": 12345
-  },
-  {
-    "library": "aws.lambda",
-    "downloads": 25696
-  },
-  {
-    "library": "aws.polly",
-    "downloads": 31276
-  },
-  {
-    "library": "aws.s3",
-    "downloads": 47146303
-  },
-  {
-    "library": "aws.signature",
-    "downloads": 2623367
-  },
-  {
-    "library": "aws.transcribe",
-    "downloads": 14669
-  },
-  {
-    "library": "aws.translate",
-    "downloads": 14698
-  },
-  {
-    "library": "awsMethods",
-    "downloads": 78203
-  },
-  {
-    "library": "aziztest",
-    "downloads": 9819
-  },
-  {
-    "library": "AzureAuth",
-    "downloads": 432754
-  },
-  {
-    "library": "AzureCognitive",
-    "downloads": 10386
-  },
-  {
-    "library": "AzureContainers",
-    "downloads": 20386
-  },
-  {
-    "library": "AzureCosmosR",
-    "downloads": 1550
-  },
-  {
-    "library": "AzureGraph",
-    "downloads": 409603
-  },
-  {
-    "library": "AzureKeyVault",
-    "downloads": 54126
-  },
-  {
-    "library": "AzureKusto",
-    "downloads": 38884
-  },
-  {
-    "library": "azuremlsdk",
-    "downloads": 29755
-  },
-  {
-    "library": "AzureQstor",
-    "downloads": 4934
-  },
-  {
-    "library": "AzureRMR",
-    "downloads": 465374
-  },
-  {
-    "library": "AzureStor",
-    "downloads": 448245
-  },
-  {
-    "library": "AzureTableStor",
-    "downloads": 3467
-  },
-  {
-    "library": "AzureVision",
-    "downloads": 11066
-  },
-  {
-    "library": "AzureVM",
-    "downloads": 21623
-  },
-  {
-    "library": "AzureVMmetadata",
-    "downloads": 11602
-  },
-  {
-    "library": "b6e6rl",
-    "downloads": 34520
-  },
-  {
-    "library": "babar",
-    "downloads": 27564
-  },
-  {
-    "library": "babel",
-    "downloads": 36327
-  },
-  {
-    "library": "babelwhale",
-    "downloads": 17236
-  },
-  {
-    "library": "babette",
-    "downloads": 9307
-  },
-  {
-    "library": "BaBooN",
-    "downloads": 61616
-  },
-  {
-    "library": "babsim.hospital",
-    "downloads": 1640
-  },
-  {
-    "library": "babynames",
-    "downloads": 217279
-  },
-  {
-    "library": "BacArena",
-    "downloads": 29079
-  },
-  {
-    "library": "BACCO",
-    "downloads": 48699
-  },
-  {
-    "library": "BACCT",
-    "downloads": 22092
-  },
-  {
-    "library": "bacistool",
-    "downloads": 18251
-  },
-  {
-    "library": "backbone",
-    "downloads": 12400
-  },
-  {
-    "library": "backpipe",
-    "downloads": 27066
-  },
-  {
-    "library": "backports",
-    "downloads": 23744757
-  },
-  {
-    "library": "backShift",
-    "downloads": 29418
-  },
-  {
-    "library": "backtest",
-    "downloads": 57228
-  },
-  {
-    "library": "bacondecomp",
-    "downloads": 9062
-  },
-  {
-    "library": "BACprior",
-    "downloads": 35695
-  },
-  {
-    "library": "bacr",
-    "downloads": 25088
-  },
-  {
-    "library": "badgecreatr",
-    "downloads": 22338
-  },
-  {
-    "library": "badger",
-    "downloads": 26076
-  },
-  {
-    "library": "BAEssd",
-    "downloads": 34240
-  },
-  {
-    "library": "baggedcv",
-    "downloads": 9908
-  },
-  {
-    "library": "baggr",
-    "downloads": 11489
-  },
-  {
-    "library": "BAGofT",
-    "downloads": 6649
-  },
-  {
-    "library": "baguette",
-    "downloads": 8518
-  },
-  {
-    "library": "bahc",
-    "downloads": 8071
-  },
-  {
-    "library": "bain",
-    "downloads": 24728
-  },
-  {
-    "library": "baitmet",
-    "downloads": 21037
-  },
-  {
-    "library": "balance",
-    "downloads": 16158
-  },
-  {
-    "library": "BalanceCheck",
-    "downloads": 21352
-  },
-  {
-    "library": "BalancedSampling",
-    "downloads": 41362
-  },
-  {
-    "library": "BALCONY",
-    "downloads": 25438
-  },
-  {
-    "library": "BALD",
-    "downloads": 12532
-  },
-  {
-    "library": "Ball",
-    "downloads": 30822
-  },
-  {
-    "library": "BALLI",
-    "downloads": 11275
-  },
-  {
-    "library": "BallMapper",
-    "downloads": 10593
-  },
-  {
-    "library": "BaM",
-    "downloads": 48473
-  },
-  {
-    "library": "bama",
-    "downloads": 10141
-  },
-  {
-    "library": "BAMBI",
-    "downloads": 30756
-  },
-  {
-    "library": "bamboo",
-    "downloads": 28395
-  },
-  {
-    "library": "bamdit",
-    "downloads": 46548
-  },
-  {
-    "library": "bamlss",
-    "downloads": 31803
-  },
-  {
-    "library": "BAMMtools",
-    "downloads": 76389
-  },
-  {
-    "library": "BaMORC",
-    "downloads": 13219
-  },
-  {
-    "library": "bamp",
-    "downloads": 14713
-  },
-  {
-    "library": "bandit",
-    "downloads": 38179
-  },
-  {
-    "library": "bang",
-    "downloads": 23002
-  },
-  {
-    "library": "bannerCommenter",
-    "downloads": 23660
-  },
-  {
-    "library": "BANOVA",
-    "downloads": 52132
-  },
-  {
-    "library": "banter",
-    "downloads": 14370
-  },
-  {
-    "library": "banxicoR",
-    "downloads": 21341
-  },
-  {
-    "library": "bapred",
-    "downloads": 26073
-  },
-  {
-    "library": "BaPreStoPro",
-    "downloads": 24625
-  },
-  {
-    "library": "BarBorGradient",
-    "downloads": 21768
-  },
-  {
-    "library": "barcode",
-    "downloads": 86521
-  },
-  {
-    "library": "baRcodeR",
-    "downloads": 18487
-  },
-  {
-    "library": "BarcodingR",
-    "downloads": 24143
-  },
-  {
-    "library": "bardr",
-    "downloads": 285
-  },
-  {
-    "library": "BARIS",
-    "downloads": 7998
-  },
-  {
-    "library": "Barnard",
-    "downloads": 40106
-  },
-  {
-    "library": "barplot3d",
-    "downloads": 12943
-  },
-  {
-    "library": "barsurf",
-    "downloads": 26700
-  },
-  {
-    "library": "BART",
-    "downloads": 59216
-  },
-  {
-    "library": "bartBMA",
-    "downloads": 7084
-  },
-  {
-    "library": "bartCause",
-    "downloads": 7277
-  },
-  {
-    "library": "bartMachine",
-    "downloads": 158516
-  },
-  {
-    "library": "bartMachineJARs",
-    "downloads": 120139
-  },
-  {
-    "library": "baRulho",
-    "downloads": 8001
-  },
-  {
-    "library": "Barycenter",
-    "downloads": 23605
-  },
-  {
-    "library": "BAS",
-    "downloads": 119482
-  },
-  {
-    "library": "basad",
-    "downloads": 18261
-  },
-  {
-    "library": "base.rms",
-    "downloads": 6277
-  },
-  {
-    "library": "base2grob",
-    "downloads": 20040
-  },
-  {
-    "library": "base64",
-    "downloads": 403198
-  },
-  {
-    "library": "base64enc",
-    "downloads": 19688761
-  },
-  {
-    "library": "base64url",
-    "downloads": 127643
-  },
-  {
-    "library": "baseballDBR",
-    "downloads": 18414
-  },
-  {
-    "library": "basecamb",
-    "downloads": 0
-  },
-  {
-    "library": "baseflow",
-    "downloads": 8076
-  },
-  {
-    "library": "basefun",
-    "downloads": 96557
-  },
-  {
-    "library": "baseline",
-    "downloads": 75021
-  },
-  {
-    "library": "BaseSet",
-    "downloads": 1685
-  },
-  {
-    "library": "basetheme",
-    "downloads": 16400
-  },
-  {
-    "library": "basf",
-    "downloads": 6211
-  },
-  {
-    "library": "basicMCMCplots",
-    "downloads": 25266
-  },
-  {
-    "library": "basicspace",
-    "downloads": 41531
-  },
-  {
-    "library": "basictabler",
-    "downloads": 26237
-  },
-  {
-    "library": "basicTrendline",
-    "downloads": 35580
-  },
-  {
-    "library": "basifoR",
-    "downloads": 583
-  },
-  {
-    "library": "BASiNET",
-    "downloads": 16721
-  },
-  {
-    "library": "BASIX",
-    "downloads": 49191
-  },
-  {
-    "library": "BasketballAnalyzeR",
-    "downloads": 4567
-  },
-  {
-    "library": "BASS",
-    "downloads": 24513
-  },
-  {
-    "library": "BaSTA",
-    "downloads": 49137
-  },
-  {
-    "library": "bastah",
-    "downloads": 21935
-  },
-  {
-    "library": "BAT",
-    "downloads": 104429
-  },
-  {
-    "library": "batata",
-    "downloads": 4514
-  },
-  {
-    "library": "batch",
-    "downloads": 51138
-  },
-  {
-    "library": "BatchExperiments",
-    "downloads": 53672
-  },
-  {
-    "library": "BatchGetSymbols",
-    "downloads": 81593
-  },
-  {
-    "library": "BatchJobs",
-    "downloads": 218441
-  },
-  {
-    "library": "batchmeans",
-    "downloads": 54903
-  },
-  {
-    "library": "batchr",
-    "downloads": 543
-  },
-  {
-    "library": "batchscr",
-    "downloads": 13519
-  },
-  {
-    "library": "batchtools",
-    "downloads": 142885
-  },
-  {
-    "library": "BaTFLED3D",
-    "downloads": 21505
-  },
-  {
-    "library": "batman",
-    "downloads": 24692
-  },
-  {
-    "library": "batteryreduction",
-    "downloads": 23563
-  },
-  {
-    "library": "BAwiR",
-    "downloads": 23519
-  },
-  {
-    "library": "baycn",
-    "downloads": 8741
-  },
-  {
-    "library": "bayefdr",
-    "downloads": 3758
-  },
-  {
-    "library": "bayes4psy",
-    "downloads": 12704
-  },
-  {
-    "library": "bayesAB",
-    "downloads": 45524
-  },
-  {
-    "library": "bayesammi",
-    "downloads": 15075
-  },
-  {
-    "library": "bayesanova",
-    "downloads": 9418
-  },
-  {
-    "library": "BayesARIMAX",
-    "downloads": 8188
-  },
-  {
-    "library": "BayesBEKK",
-    "downloads": 8999
-  },
-  {
-    "library": "BayesBinMix",
-    "downloads": 26238
-  },
-  {
-    "library": "bayesbio",
-    "downloads": 22730
-  },
-  {
-    "library": "bayesboot",
-    "downloads": 28260
-  },
-  {
-    "library": "BayesBP",
-    "downloads": 9898
-  },
-  {
-    "library": "bayesbr",
-    "downloads": 3615
-  },
-  {
-    "library": "BayesCombo",
-    "downloads": 20427
-  },
-  {
-    "library": "BayesComm",
-    "downloads": 34153
-  },
-  {
-    "library": "bayescopulareg",
-    "downloads": 5217
-  },
-  {
-    "library": "bayescount",
-    "downloads": 39285
-  },
-  {
-    "library": "BayesCR",
-    "downloads": 33654
-  },
-  {
-    "library": "bayesCT",
-    "downloads": 15676
-  },
-  {
-    "library": "BayesCTDesign",
-    "downloads": 13433
-  },
-  {
-    "library": "BayesDA",
-    "downloads": 43504
-  },
-  {
-    "library": "bayesDccGarch",
-    "downloads": 22632
-  },
-  {
-    "library": "bayesdfa",
-    "downloads": 18252
-  },
-  {
-    "library": "bayesdistreg",
-    "downloads": 12179
-  },
-  {
-    "library": "bayesDP",
-    "downloads": 30782
-  },
-  {
-    "library": "BayesESS",
-    "downloads": 15725
-  },
-  {
-    "library": "BayesFactor",
-    "downloads": 392932
-  },
-  {
-    "library": "BayesFM",
-    "downloads": 45906
-  },
-  {
-    "library": "bayesforecast",
-    "downloads": 1118
-  },
-  {
-    "library": "bayesGAM",
-    "downloads": 1536
-  },
-  {
-    "library": "bayesGARCH",
-    "downloads": 65854
-  },
-  {
-    "library": "BayesGESM",
-    "downloads": 31812
-  },
-  {
-    "library": "BayesGOF",
-    "downloads": 28268
-  },
-  {
-    "library": "BayesGPfit",
-    "downloads": 7615
-  },
-  {
-    "library": "BayesGWQS",
-    "downloads": 3858
-  },
-  {
-    "library": "bayesian",
-    "downloads": 1423
-  },
-  {
-    "library": "BayesianAnimalTracker",
-    "downloads": 30860
-  },
-  {
-    "library": "bayesianETAS",
-    "downloads": 23626
-  },
-  {
-    "library": "BayesianFROC",
-    "downloads": 13167
-  },
-  {
-    "library": "Bayesiangammareg",
-    "downloads": 8321
-  },
-  {
-    "library": "BayesianGLasso",
-    "downloads": 18603
-  },
-  {
-    "library": "BayesianLaterality",
-    "downloads": 2985
-  },
-  {
-    "library": "BayesianNetwork",
-    "downloads": 27949
-  },
-  {
-    "library": "BayesianPower",
-    "downloads": 11114
-  },
-  {
-    "library": "BayesianReasoning",
-    "downloads": 3562
-  },
-  {
-    "library": "BayesianTools",
-    "downloads": 44139
-  },
-  {
-    "library": "bayesImageS",
-    "downloads": 34189
-  },
-  {
-    "library": "BayesLCA",
-    "downloads": 51592
-  },
-  {
-    "library": "bayesLife",
-    "downloads": 67348
-  },
-  {
-    "library": "bayeslincom",
-    "downloads": 2758
-  },
-  {
-    "library": "BayesLN",
-    "downloads": 8207
-  },
-  {
-    "library": "BayesLogit",
-    "downloads": 48344
-  },
-  {
-    "library": "bayesloglin",
-    "downloads": 20410
-  },
-  {
-    "library": "bayeslongitudinal",
-    "downloads": 17897
-  },
-  {
-    "library": "bayesm",
-    "downloads": 637762
-  },
-  {
-    "library": "BayesMallows",
-    "downloads": 20157
-  },
-  {
-    "library": "BayesMassBal",
-    "downloads": 3936
-  },
-  {
-    "library": "bayesmeta",
-    "downloads": 52812
-  },
-  {
-    "library": "BayesMFSurv",
-    "downloads": 8179
-  },
-  {
-    "library": "bayesmix",
-    "downloads": 55783
-  },
-  {
-    "library": "BayesMixSurv",
-    "downloads": 29464
-  },
-  {
-    "library": "bayesmove",
-    "downloads": 2432
-  },
-  {
-    "library": "BayesMRA",
-    "downloads": 3404
-  },
-  {
-    "library": "BayesNetBP",
-    "downloads": 23243
-  },
-  {
-    "library": "BayesNI",
-    "downloads": 36257
-  },
-  {
-    "library": "BayesNSGP",
-    "downloads": 9730
-  },
-  {
-    "library": "BayesPieceHazSelect",
-    "downloads": 19823
-  },
-  {
-    "library": "BayesPiecewiseICAR",
-    "downloads": 24712
-  },
-  {
-    "library": "bayesplot",
-    "downloads": 801787
-  },
-  {
-    "library": "bayesPop",
-    "downloads": 76488
-  },
-  {
-    "library": "BayesPostEst",
-    "downloads": 11254
-  },
-  {
-    "library": "bayespref",
-    "downloads": 33786
-  },
-  {
-    "library": "BayesProject",
-    "downloads": 2632
-  },
-  {
-    "library": "bayesQR",
-    "downloads": 59450
-  },
-  {
-    "library": "bayesreg",
-    "downloads": 14566
-  },
-  {
-    "library": "Bayesrel",
-    "downloads": 14289
-  },
-  {
-    "library": "BayesReversePLLH",
-    "downloads": 8537
-  },
-  {
-    "library": "BayesRGMM",
-    "downloads": 175
-  },
-  {
-    "library": "BayesRS",
-    "downloads": 19199
-  },
-  {
-    "library": "bayess",
-    "downloads": 38011
-  },
-  {
-    "library": "BayesS5",
-    "downloads": 24266
-  },
-  {
-    "library": "BayesSAE",
-    "downloads": 34680
-  },
-  {
-    "library": "BayesSampling",
-    "downloads": 4306
-  },
-  {
-    "library": "BayesSenMC",
-    "downloads": 9469
-  },
-  {
-    "library": "BayesSpec",
-    "downloads": 19844
-  },
-  {
-    "library": "BayesSPsurv",
-    "downloads": 3046
-  },
-  {
-    "library": "BayesSUR",
-    "downloads": 12207
-  },
-  {
-    "library": "bayesSurv",
-    "downloads": 67579
-  },
-  {
-    "library": "BayesSurvival",
-    "downloads": 4236
-  },
-  {
-    "library": "bayest",
-    "downloads": 11135
-  },
-  {
-    "library": "bayestestR",
-    "downloads": 599620
-  },
-  {
-    "library": "bayesTFR",
-    "downloads": 81844
-  },
-  {
-    "library": "BayesTree",
-    "downloads": 76806
-  },
-  {
-    "library": "BayesTreePrior",
-    "downloads": 22181
-  },
-  {
-    "library": "BayesTwin",
-    "downloads": 16188
-  },
-  {
-    "library": "BayesValidate",
-    "downloads": 43879
-  },
-  {
-    "library": "BayesVarSel",
-    "downloads": 49445
-  },
-  {
-    "library": "bayesvl",
-    "downloads": 10611
-  },
-  {
-    "library": "BayesX",
-    "downloads": 165858
-  },
-  {
-    "library": "BayesXsrc",
-    "downloads": 108400
-  },
-  {
-    "library": "bayfoxr",
-    "downloads": 11593
-  },
-  {
-    "library": "BayHaz",
-    "downloads": 809613
-  },
-  {
-    "library": "BayLum",
-    "downloads": 21350
-  },
-  {
-    "library": "baymedr",
-    "downloads": 8912
-  },
-  {
-    "library": "BaySIC",
-    "downloads": 33127
-  },
-  {
-    "library": "baystability",
-    "downloads": 15069
-  },
-  {
-    "library": "BAYSTAR",
-    "downloads": 48317
-  },
-  {
-    "library": "baytrends",
-    "downloads": 15995
-  },
-  {
-    "library": "bazar",
-    "downloads": 93269
-  },
-  {
-    "library": "BB",
-    "downloads": 328635
-  },
-  {
-    "library": "BBcor",
-    "downloads": 2622
-  },
-  {
-    "library": "bbdetection",
-    "downloads": 101
-  },
-  {
-    "library": "bbefkr",
-    "downloads": 33104
-  },
-  {
-    "library": "bbemkr",
-    "downloads": 42636
-  },
-  {
-    "library": "BBEST",
-    "downloads": 31033
-  },
-  {
-    "library": "BBI",
-    "downloads": 15666
-  },
-  {
-    "library": "bbl",
-    "downloads": 8734
-  },
-  {
-    "library": "BBmisc",
-    "downloads": 890374
-  },
-  {
-    "library": "bbmle",
-    "downloads": 552752
-  },
-  {
-    "library": "BBMM",
-    "downloads": 48608
-  },
-  {
-    "library": "BBMV",
-    "downloads": 20141
-  },
-  {
-    "library": "bbo",
-    "downloads": 34497
-  },
-  {
-    "library": "bbotk",
-    "downloads": 20445
-  },
-  {
-    "library": "BBRecapture",
-    "downloads": 31426
-  },
-  {
-    "library": "bbreg",
-    "downloads": 7496
-  },
-  {
-    "library": "bbricks",
-    "downloads": 7718
-  },
-  {
-    "library": "bbsBayes",
-    "downloads": 6212
-  },
-  {
-    "library": "bbw",
-    "downloads": 16243
-  },
-  {
-    "library": "bc3net",
-    "downloads": 39919
-  },
-  {
-    "library": "BCA",
-    "downloads": 61437
-  },
-  {
-    "library": "BCA1SG",
-    "downloads": 8052
-  },
-  {
-    "library": "bcaboot",
-    "downloads": 14305
-  },
-  {
-    "library": "BCBCSF",
-    "downloads": 44643
-  },
-  {
-    "library": "bcc",
-    "downloads": 4245
-  },
-  {
-    "library": "BCC1997",
-    "downloads": 28170
-  },
-  {
-    "library": "bccp",
-    "downloads": 2389
-  },
-  {
-    "library": "bcdata",
-    "downloads": 11976
-  },
-  {
-    "library": "BCDating",
-    "downloads": 39817
-  },
-  {
-    "library": "BcDiag",
-    "downloads": 49218
-  },
-  {
-    "library": "BCE",
-    "downloads": 41826
-  },
-  {
-    "library": "BCEA",
-    "downloads": 53535
-  },
-  {
-    "library": "BCEE",
-    "downloads": 27841
-  },
-  {
-    "library": "BCellMA",
-    "downloads": 21265
-  },
-  {
-    "library": "bcf",
-    "downloads": 15655
-  },
-  {
-    "library": "bcfrailph",
-    "downloads": 3475
-  },
-  {
-    "library": "bcfrailphdv",
-    "downloads": 1735
-  },
-  {
-    "library": "bcgam",
-    "downloads": 14517
-  },
-  {
-    "library": "BCgee",
-    "downloads": 18419
-  },
-  {
-    "library": "BCHM",
-    "downloads": 9181
-  },
-  {
-    "library": "Bchron",
-    "downloads": 73253
-  },
-  {
-    "library": "BClustLonG",
-    "downloads": 16114
-  },
-  {
-    "library": "bcmaps",
-    "downloads": 21450
-  },
-  {
-    "library": "bcmixed",
-    "downloads": 7422
-  },
-  {
-    "library": "bcp",
-    "downloads": 363838
-  },
-  {
-    "library": "bcpa",
-    "downloads": 39593
-  },
-  {
-    "library": "bcpmeta",
-    "downloads": 28468
-  },
-  {
-    "library": "BCRA",
-    "downloads": 35598
-  },
-  {
-    "library": "bcrm",
-    "downloads": 47566
-  },
-  {
-    "library": "bcROCsurface",
-    "downloads": 23240
-  },
-  {
-    "library": "bcrypt",
-    "downloads": 41117
-  },
-  {
-    "library": "BCSub",
-    "downloads": 21557
-  },
-  {
-    "library": "BCT",
-    "downloads": 1876
-  },
-  {
-    "library": "bcTSNE",
-    "downloads": 4251
-  },
-  {
-    "library": "bcv",
-    "downloads": 53369
-  },
-  {
-    "library": "bda",
-    "downloads": 60266
-  },
-  {
-    "library": "bdchecks",
-    "downloads": 12773
-  },
-  {
-    "library": "bdclean",
-    "downloads": 11745
-  },
-  {
-    "library": "bdDwC",
-    "downloads": 14612
-  },
-  {
-    "library": "bde",
-    "downloads": 28990
-  },
-  {
-    "library": "BDEsize",
-    "downloads": 12108
-  },
-  {
-    "library": "BDgraph",
-    "downloads": 574079
-  },
-  {
-    "library": "bdl",
-    "downloads": 7492
-  },
-  {
-    "library": "bdlp",
-    "downloads": 6422
-  },
-  {
-    "library": "bdots",
-    "downloads": 29106
-  },
-  {
-    "library": "BDP2",
-    "downloads": 13888
-  },
-  {
-    "library": "bdpar",
-    "downloads": 11202
-  },
-  {
-    "library": "bdpopt",
-    "downloads": 21848
-  },
-  {
-    "library": "bdpv",
-    "downloads": 40125
-  },
-  {
-    "library": "bdribs",
-    "downloads": 14048
-  },
-  {
-    "library": "bdscale",
-    "downloads": 32109
-  },
-  {
-    "library": "bdsmatrix",
-    "downloads": 1388364
-  },
-  {
-    "library": "bdvis",
-    "downloads": 41892
-  },
-  {
-    "library": "BDWreg",
-    "downloads": 24135
-  },
-  {
-    "library": "bdynsys",
-    "downloads": 32829
-  },
-  {
-    "library": "BE",
-    "downloads": 16274
-  },
-  {
-    "library": "bea.R",
-    "downloads": 28434
-  },
-  {
-    "library": "BEACH",
-    "downloads": 20279
-  },
-  {
-    "library": "beadarrayFilter",
-    "downloads": 32233
-  },
-  {
-    "library": "beadplexr",
-    "downloads": 16459
-  },
-  {
-    "library": "beakr",
-    "downloads": 8008
-  },
-  {
-    "library": "beam",
-    "downloads": 17668
-  },
-  {
-    "library": "beanplot",
-    "downloads": 216348
-  },
-  {
-    "library": "beanz",
-    "downloads": 28078
-  },
-  {
-    "library": "beast",
-    "downloads": 21571
-  },
-  {
-    "library": "beastier",
-    "downloads": 15267
-  },
-  {
-    "library": "BeastJar",
-    "downloads": 2615
-  },
-  {
-    "library": "beautier",
-    "downloads": 18934
-  },
-  {
-    "library": "BED",
-    "downloads": 1574
-  },
-  {
-    "library": "BEDASSLE",
-    "downloads": 36270
-  },
-  {
-    "library": "BEDMatrix",
-    "downloads": 36818
-  },
-  {
-    "library": "bedr",
-    "downloads": 43941
-  },
-  {
-    "library": "beepr",
-    "downloads": 187349
-  },
-  {
-    "library": "beeswarm",
-    "downloads": 405558
-  },
-  {
-    "library": "beezdemand",
-    "downloads": 14144
-  },
-  {
-    "library": "befproj",
-    "downloads": 2743
-  },
-  {
-    "library": "beginr",
-    "downloads": 26259
-  },
-  {
-    "library": "behaviorchange",
-    "downloads": 17979
-  },
-  {
-    "library": "behavr",
-    "downloads": 19286
-  },
-  {
-    "library": "belex",
-    "downloads": 20234
-  },
-  {
-    "library": "belg",
-    "downloads": 18947
-  },
-  {
-    "library": "bellreg",
-    "downloads": 3579
-  },
-  {
-    "library": "bench",
-    "downloads": 218974
-  },
-  {
-    "library": "benchden",
-    "downloads": 42658
-  },
-  {
-    "library": "Benchmarking",
-    "downloads": 115760
-  },
-  {
-    "library": "benchmarkme",
-    "downloads": 85097
-  },
-  {
-    "library": "benchmarkmeData",
-    "downloads": 78883
-  },
-  {
-    "library": "benchr",
-    "downloads": 91069
-  },
-  {
-    "library": "bender",
-    "downloads": 12923
-  },
-  {
-    "library": "benford",
-    "downloads": 1361
-  },
-  {
-    "library": "benford.analysis",
-    "downloads": 53252
-  },
-  {
-    "library": "BenfordTests",
-    "downloads": 50811
-  },
-  {
-    "library": "BENMMI",
-    "downloads": 12786
-  },
-  {
-    "library": "bentcableAR",
-    "downloads": 46296
-  },
-  {
-    "library": "benthos",
-    "downloads": 19595
-  },
-  {
-    "library": "Bergm",
-    "downloads": 57671
-  },
-  {
-    "library": "berryFunctions",
-    "downloads": 88559
-  },
-  {
-    "library": "BeSS",
-    "downloads": 26827
-  },
-  {
-    "library": "Bessel",
-    "downloads": 345361
-  },
-  {
-    "library": "BEST",
-    "downloads": 73494
-  },
-  {
-    "library": "bestglm",
-    "downloads": 501811
-  },
-  {
-    "library": "Bestie",
-    "downloads": 5952
-  },
-  {
-    "library": "bestNormalize",
-    "downloads": 122340
-  },
-  {
-    "library": "BESTree",
-    "downloads": 9703
-  },
-  {
-    "library": "bestridge",
-    "downloads": 968
-  },
-  {
-    "library": "bestSDP",
-    "downloads": 8203
-  },
-  {
-    "library": "BET",
-    "downloads": 3236
-  },
-  {
-    "library": "BetaBit",
-    "downloads": 23631
-  },
-  {
-    "library": "betaboost",
-    "downloads": 15213
-  },
-  {
-    "library": "betacal",
-    "downloads": 23483
-  },
-  {
-    "library": "betafam",
-    "downloads": 34563
-  },
-  {
-    "library": "betafunctions",
-    "downloads": 20548
-  },
-  {
-    "library": "betalink",
-    "downloads": 26613
-  },
-  {
-    "library": "betapart",
-    "downloads": 95134
-  },
-  {
-    "library": "BetaPASS",
-    "downloads": 9573
-  },
-  {
-    "library": "betaper",
-    "downloads": 28634
-  },
-  {
-    "library": "betareg",
-    "downloads": 463363
-  },
-  {
-    "library": "betategarch",
-    "downloads": 49446
-  },
-  {
-    "library": "bethel",
-    "downloads": 35984
-  },
-  {
-    "library": "BETS",
-    "downloads": 61626
-  },
-  {
-    "library": "bets.covid19",
-    "downloads": 6394
-  },
-  {
-    "library": "bettermc",
-    "downloads": 175
-  },
-  {
-    "library": "BeviMed",
-    "downloads": 28197
-  },
-  {
-    "library": "BeyondBenford",
-    "downloads": 17089
-  },
-  {
-    "library": "beyondWhittle",
-    "downloads": 23801
-  },
-  {
-    "library": "bezier",
-    "downloads": 59495
-  },
-  {
-    "library": "bfast",
-    "downloads": 69493
-  },
-  {
-    "library": "bfp",
-    "downloads": 49244
-  },
-  {
-    "library": "BFpack",
-    "downloads": 19884
-  },
-  {
-    "library": "BFS",
-    "downloads": 9977
-  },
-  {
-    "library": "bfsl",
-    "downloads": 11671
-  },
-  {
-    "library": "bfsMaps",
-    "downloads": 6511
-  },
-  {
-    "library": "bfw",
-    "downloads": 17313
-  },
-  {
-    "library": "BGData",
-    "downloads": 22738
-  },
-  {
-    "library": "bgeva",
-    "downloads": 33715
-  },
-  {
-    "library": "bggAnalytics",
-    "downloads": 1590
-  },
-  {
-    "library": "BGGE",
-    "downloads": 21343
-  },
-  {
-    "library": "BGGM",
-    "downloads": 18854
-  },
-  {
-    "library": "bggum",
-    "downloads": 8179
-  },
-  {
-    "library": "BGLR",
-    "downloads": 72427
-  },
-  {
-    "library": "bgmfiles",
-    "downloads": 20932
-  },
-  {
-    "library": "BGmisc",
-    "downloads": 1659
-  },
-  {
-    "library": "bgmm",
-    "downloads": 49147
-  },
-  {
-    "library": "BGPhazard",
-    "downloads": 37847
-  },
-  {
-    "library": "BGSIMD",
-    "downloads": 37097
-  },
-  {
-    "library": "bgsmtr",
-    "downloads": 24016
-  },
-  {
-    "library": "bgumbel",
-    "downloads": 755
-  },
-  {
-    "library": "BGVAR",
-    "downloads": 6528
-  },
-  {
-    "library": "BH",
-    "downloads": 26377513
-  },
-  {
-    "library": "BHAI",
-    "downloads": 6999
-  },
-  {
-    "library": "Bhat",
-    "downloads": 42045
-  },
-  {
-    "library": "BHH2",
-    "downloads": 100083
-  },
-  {
-    "library": "bhm",
-    "downloads": 23013
-  },
-  {
-    "library": "bhmbasket",
-    "downloads": 911
-  },
-  {
-    "library": "BHMSMAfMRI",
-    "downloads": 25601
-  },
-  {
-    "library": "bhpm",
-    "downloads": 5500
-  },
-  {
-    "library": "BHSBVAR",
-    "downloads": 18922
-  },
-  {
-    "library": "BHTSpack",
-    "downloads": 17929
-  },
-  {
-    "library": "biasbetareg",
-    "downloads": 32182
-  },
-  {
-    "library": "BiasCorrector",
-    "downloads": 3291
-  },
-  {
-    "library": "BiasedUrn",
-    "downloads": 383564
-  },
-  {
-    "library": "bib2df",
-    "downloads": 25664
-  },
-  {
-    "library": "BiBitR",
-    "downloads": 38507
-  },
-  {
-    "library": "bibliometrix",
-    "downloads": 248641
-  },
-  {
-    "library": "bibliometrixData",
-    "downloads": 10583
-  },
-  {
-    "library": "biblionetwork",
-    "downloads": 16
-  },
-  {
-    "library": "BibPlots",
-    "downloads": 25254
-  },
-  {
-    "library": "bibtex",
-    "downloads": 1463687
-  },
-  {
-    "library": "biclique",
-    "downloads": 19422
-  },
-  {
-    "library": "biclust",
-    "downloads": 341680
-  },
-  {
-    "library": "biclustermd",
-    "downloads": 11394
-  },
-  {
-    "library": "BICORN",
-    "downloads": 14006
-  },
-  {
-    "library": "BiDAG",
-    "downloads": 28879
-  },
-  {
-    "library": "BiDimRegression",
-    "downloads": 35645
-  },
-  {
-    "library": "BIEN",
-    "downloads": 31985
-  },
-  {
-    "library": "bife",
-    "downloads": 59209
-  },
-  {
-    "library": "BIFIEsurvey",
-    "downloads": 153980
-  },
-  {
-    "library": "bifurcatingr",
-    "downloads": 590
-  },
-  {
-    "library": "biganalytics",
-    "downloads": 86306
-  },
-  {
-    "library": "bigassertr",
-    "downloads": 47709
-  },
-  {
-    "library": "bigchess",
-    "downloads": 19488
-  },
-  {
-    "library": "bigdatadist",
-    "downloads": 15028
-  },
-  {
-    "library": "BIGDAWG",
-    "downloads": 38894
-  },
-  {
-    "library": "bigdist",
-    "downloads": 11448
-  },
-  {
-    "library": "bigGP",
-    "downloads": 8723
-  },
-  {
-    "library": "BIGL",
-    "downloads": 32291
-  },
-  {
-    "library": "biglasso",
-    "downloads": 69675
-  },
-  {
-    "library": "bigleaf",
-    "downloads": 23097
-  },
-  {
-    "library": "biglm",
-    "downloads": 434085
-  },
-  {
-    "library": "biglmm",
-    "downloads": 15533
-  },
-  {
-    "library": "bigMap",
-    "downloads": 12197
-  },
-  {
-    "library": "bigmatch",
-    "downloads": 21728
-  },
-  {
-    "library": "bigmds",
-    "downloads": 1281
-  },
-  {
-    "library": "bigmemory",
-    "downloads": 558515
-  },
-  {
-    "library": "bigmemory.sri",
-    "downloads": 455369
-  },
-  {
-    "library": "bigparallelr",
-    "downloads": 43117
-  },
-  {
-    "library": "bigQueryR",
-    "downloads": 65741
-  },
-  {
-    "library": "BigQuic",
-    "downloads": 26531
-  },
-  {
-    "library": "bigreadr",
-    "downloads": 40759
-  },
-  {
-    "library": "bigReg",
-    "downloads": 10029
-  },
-  {
-    "library": "bigrquery",
-    "downloads": 558467
-  },
-  {
-    "library": "bigsnpr",
-    "downloads": 13233
-  },
-  {
-    "library": "bigsparser",
-    "downloads": 10760
-  },
-  {
-    "library": "bigsplines",
-    "downloads": 59300
-  },
-  {
-    "library": "bigstatsr",
-    "downloads": 44436
-  },
-  {
-    "library": "bigstep",
-    "downloads": 24027
-  },
-  {
-    "library": "bigSurvSGD",
-    "downloads": 2618
-  },
-  {
-    "library": "bigtabulate",
-    "downloads": 43264
-  },
-  {
-    "library": "bigtcr",
-    "downloads": 22028
-  },
-  {
-    "library": "bigtime",
-    "downloads": 21249
-  },
-  {
-    "library": "BigTSP",
-    "downloads": 33333
-  },
-  {
-    "library": "bigutilsr",
-    "downloads": 33487
-  },
-  {
-    "library": "BigVAR",
-    "downloads": 34574
-  },
-  {
-    "library": "bikeshare14",
-    "downloads": 20403
-  },
-  {
-    "library": "bikm1",
-    "downloads": 9864
-  },
-  {
-    "library": "bild",
-    "downloads": 41636
-  },
-  {
-    "library": "billboard",
-    "downloads": 19148
-  },
-  {
-    "library": "billboarder",
-    "downloads": 83126
-  },
-  {
-    "library": "bimetallic",
-    "downloads": 34674
-  },
-  {
-    "library": "bimets",
-    "downloads": 17784
-  },
-  {
-    "library": "bimixt",
-    "downloads": 23896
-  },
-  {
-    "library": "BimodalIndex",
-    "downloads": 20648
-  },
-  {
-    "library": "Binarize",
-    "downloads": 33073
-  },
-  {
-    "library": "BinarybalancedCut",
-    "downloads": 18015
-  },
-  {
-    "library": "BinaryDosage",
-    "downloads": 7847
-  },
-  {
-    "library": "BinaryEMVS",
-    "downloads": 24954
-  },
-  {
-    "library": "BinaryEPPM",
+    "library": "acmeR",
     "downloads": 28506
   },
   {
+    "library": "ACNE",
+    "downloads": 44688
+  },
+  {
+    "library": "acnr",
+    "downloads": 34866
+  },
+  {
+    "library": "acopula",
+    "downloads": 38547
+  },
+  {
+    "library": "AcousticNDLCodeR",
+    "downloads": 25660
+  },
+  {
+    "library": "acp",
+    "downloads": 45733
+  },
+  {
+    "library": "aCRM",
+    "downloads": 39421
+  },
+  {
+    "library": "acroname",
+    "downloads": 1290
+  },
+  {
+    "library": "AcrossTic",
+    "downloads": 25404
+  },
+  {
+    "library": "acrt",
+    "downloads": 24431
+  },
+  {
+    "library": "acs",
+    "downloads": 203265
+  },
+  {
+    "library": "ACSNMineR",
+    "downloads": 30214
+  },
+  {
+    "library": "acss",
+    "downloads": 35743
+  },
+  {
+    "library": "acss.data",
+    "downloads": 41037
+  },
+  {
+    "library": "ACSWR",
+    "downloads": 34271
+  },
+  {
+    "library": "act",
+    "downloads": 2672
+  },
+  {
+    "library": "ACTCD",
+    "downloads": 40824
+  },
+  {
+    "library": "ActCR",
+    "downloads": 4439
+  },
+  {
+    "library": "actel",
+    "downloads": 8124
+  },
+  {
+    "library": "ActFrag",
+    "downloads": 12270
+  },
+  {
+    "library": "activatr",
+    "downloads": 992
+  },
+  {
+    "library": "ActiveDriver",
+    "downloads": 21043
+  },
+  {
+    "library": "ActiveDriverWGS",
+    "downloads": 11141
+  },
+  {
+    "library": "activegp",
+    "downloads": 7332
+  },
+  {
+    "library": "ActivePathways",
+    "downloads": 10478
+  },
+  {
+    "library": "activity",
+    "downloads": 39835
+  },
+  {
+    "library": "activityCounts",
+    "downloads": 11472
+  },
+  {
+    "library": "activityGCMM",
+    "downloads": 486
+  },
+  {
+    "library": "ActivityIndex",
+    "downloads": 7187
+  },
+  {
+    "library": "activPAL",
+    "downloads": 11578
+  },
+  {
+    "library": "actogrammr",
+    "downloads": 20294
+  },
+  {
+    "library": "actuar",
+    "downloads": 462547
+  },
+  {
+    "library": "actuaryr",
+    "downloads": 10010
+  },
+  {
+    "library": "AcuityView",
+    "downloads": 22444
+  },
+  {
+    "library": "acumos",
+    "downloads": 2978
+  },
+  {
+    "library": "ada",
+    "downloads": 544525
+  },
+  {
+    "library": "adabag",
+    "downloads": 381985
+  },
+  {
+    "library": "adagio",
+    "downloads": 64718
+  },
+  {
+    "library": "adamethods",
+    "downloads": 33629
+  },
+  {
+    "library": "AdapEnetClass",
+    "downloads": 35361
+  },
+  {
+    "library": "AdapSamp",
+    "downloads": 22151
+  },
+  {
+    "library": "adapt4pv",
+    "downloads": 3971
+  },
+  {
+    "library": "adaptalint",
+    "downloads": 17646
+  },
+  {
+    "library": "AdaptFit",
+    "downloads": 42831
+  },
+  {
+    "library": "AdaptFitOS",
+    "downloads": 45641
+  },
+  {
+    "library": "AdaptGauss",
+    "downloads": 38916
+  },
+  {
+    "library": "adaptiveGPCA",
+    "downloads": 25129
+  },
+  {
+    "library": "AdaptiveSparsity",
+    "downloads": 38745
+  },
+  {
+    "library": "adaptivetau",
+    "downloads": 59486
+  },
+  {
+    "library": "adaptMCMC",
+    "downloads": 54655
+  },
+  {
+    "library": "adaptMT",
+    "downloads": 15962
+  },
+  {
+    "library": "ADAPTS",
+    "downloads": 10815
+  },
+  {
+    "library": "adaptsmoFMRI",
+    "downloads": 36974
+  },
+  {
+    "library": "adaptTest",
+    "downloads": 39386
+  },
+  {
+    "library": "AdaSampling",
+    "downloads": 18297
+  },
+  {
+    "library": "ADCT",
+    "downloads": 23493
+  },
+  {
+    "library": "add2ggplot",
+    "downloads": 8987
+  },
+  {
+    "library": "addhaz",
+    "downloads": 27439
+  },
+  {
+    "library": "addhazard",
+    "downloads": 29284
+  },
+  {
+    "library": "addinsJoaoMelo",
+    "downloads": 4163
+  },
+  {
+    "library": "addinslist",
+    "downloads": 56678
+  },
+  {
+    "library": "addinsOutline",
+    "downloads": 9435
+  },
+  {
+    "library": "additiveDEA",
+    "downloads": 21557
+  },
+  {
+    "library": "additivityTests",
+    "downloads": 126514
+  },
+  {
+    "library": "addreg",
+    "downloads": 40830
+  },
+  {
+    "library": "addScales",
+    "downloads": 5186
+  },
+  {
+    "library": "ADDT",
+    "downloads": 34495
+  },
+  {
+    "library": "ade4",
+    "downloads": 1981444
+  },
+  {
+    "library": "ade4TkGUI",
+    "downloads": 118255
+  },
+  {
+    "library": "adegenet",
+    "downloads": 423115
+  },
+  {
+    "library": "adegraphics",
+    "downloads": 172130
+  },
+  {
+    "library": "adehabitatHR",
+    "downloads": 194379
+  },
+  {
+    "library": "adehabitatHS",
+    "downloads": 83076
+  },
+  {
+    "library": "adehabitatLT",
+    "downloads": 259129
+  },
+  {
+    "library": "adehabitatMA",
+    "downloads": 273954
+  },
+  {
+    "library": "adephylo",
+    "downloads": 163362
+  },
+  {
+    "library": "adepro",
+    "downloads": 21878
+  },
+  {
+    "library": "adept",
+    "downloads": 12209
+  },
+  {
+    "library": "adeptdata",
+    "downloads": 12996
+  },
+  {
+    "library": "AdequacyModel",
+    "downloads": 55861
+  },
+  {
+    "library": "adespatial",
+    "downloads": 90501
+  },
+  {
+    "library": "adfExplorer",
+    "downloads": 25366
+  },
+  {
+    "library": "ADGofTest",
+    "downloads": 278905
+  },
+  {
+    "library": "adheRenceRX",
+    "downloads": 2102
+  },
+  {
+    "library": "AdhereR",
+    "downloads": 29336
+  },
+  {
+    "library": "AdhereRViz",
+    "downloads": 4989
+  },
+  {
+    "library": "adhoc",
+    "downloads": 44412
+  },
+  {
+    "library": "adimpro",
+    "downloads": 69113
+  },
+  {
+    "library": "adiv",
+    "downloads": 27908
+  },
+  {
+    "library": "AdjBQR",
+    "downloads": 22441
+  },
+  {
+    "library": "adjclust",
+    "downloads": 22093
+  },
+  {
+    "library": "adjustedcranlogs",
+    "downloads": 19418
+  },
+  {
+    "library": "adklakedata",
+    "downloads": 18356
+  },
+  {
+    "library": "adlift",
+    "downloads": 70255
+  },
+  {
+    "library": "admisc",
+    "downloads": 49252
+  },
+  {
+    "library": "AdMit",
+    "downloads": 65295
+  },
+  {
+    "library": "admixr",
+    "downloads": 4300
+  },
+  {
+    "library": "admixturegraph",
+    "downloads": 25719
+  },
+  {
+    "library": "ADMM",
+    "downloads": 33402
+  },
+  {
+    "library": "admmDensestSubmatrix",
+    "downloads": 9289
+  },
+  {
+    "library": "ADMMnet",
+    "downloads": 27459
+  },
+  {
+    "library": "ADMMsigma",
+    "downloads": 19423
+  },
+  {
+    "library": "ADMUR",
+    "downloads": 1493
+  },
+  {
+    "library": "adnuts",
+    "downloads": 17838
+  },
+  {
+    "library": "adobeanalyticsr",
+    "downloads": 718
+  },
+  {
+    "library": "adoption",
+    "downloads": 15274
+  },
+  {
+    "library": "adoptr",
+    "downloads": 16446
+  },
+  {
+    "library": "ADPclust",
+    "downloads": 35623
+  },
+  {
+    "library": "ADPF",
+    "downloads": 24251
+  },
+  {
+    "library": "adpss",
+    "downloads": 15099
+  },
+  {
+    "library": "ads",
+    "downloads": 62033
+  },
+  {
+    "library": "adsDataHubR",
+    "downloads": 1097
+  },
+  {
+    "library": "ADtools",
+    "downloads": 2143
+  },
+  {
+    "library": "AdvancedBasketballStats",
+    "downloads": 904
+  },
+  {
+    "library": "AdvBinomApps",
+    "downloads": 24868
+  },
+  {
+    "library": "advclust",
+    "downloads": 24392
+  },
+  {
+    "library": "AdvDif4",
+    "downloads": 24475
+  },
+  {
+    "library": "adventr",
+    "downloads": 6346
+  },
+  {
+    "library": "adwave",
+    "downloads": 33333
+  },
+  {
+    "library": "adwordsR",
+    "downloads": 16167
+  },
+  {
+    "library": "AEDForecasting",
+    "downloads": 31181
+  },
+  {
+    "library": "AEenrich",
+    "downloads": 3933
+  },
+  {
+    "library": "aemo",
+    "downloads": 31939
+  },
+  {
+    "library": "AEP",
+    "downloads": 5177
+  },
+  {
+    "library": "AER",
+    "downloads": 1697756
+  },
+  {
+    "library": "AeRobiology",
+    "downloads": 18184
+  },
+  {
+    "library": "AF",
+    "downloads": 32668
+  },
+  {
+    "library": "afc",
+    "downloads": 25647
+  },
+  {
+    "library": "afCEC",
+    "downloads": 20246
+  },
+  {
+    "library": "afex",
+    "downloads": 342500
+  },
+  {
+    "library": "affinitymatrix",
+    "downloads": 2143
+  },
+  {
+    "library": "affluenceIndex",
+    "downloads": 25176
+  },
+  {
+    "library": "AFheritability",
+    "downloads": 11554
+  },
+  {
+    "library": "AFM",
+    "downloads": 33471
+  },
+  {
+    "library": "afmToolkit",
+    "downloads": 20939
+  },
+  {
+    "library": "afpt",
+    "downloads": 20465
+  },
+  {
+    "library": "aftgee",
+    "downloads": 49776
+  },
+  {
+    "library": "AGD",
+    "downloads": 135226
+  },
+  {
+    "library": "aGE",
+    "downloads": 14338
+  },
+  {
+    "library": "AggregateR",
+    "downloads": 35485
+  },
+  {
+    "library": "aggregation",
+    "downloads": 36191
+  },
+  {
+    "library": "AGHmatrix",
+    "downloads": 20584
+  },
+  {
+    "library": "aghq",
+    "downloads": 1317
+  },
+  {
+    "library": "agop",
+    "downloads": 39426
+  },
+  {
+    "library": "AGPRIS",
+    "downloads": 3108
+  },
+  {
+    "library": "AGread",
+    "downloads": 20636
+  },
+  {
+    "library": "agRee",
+    "downloads": 44945
+  },
+  {
+    "library": "AgreementInterval",
+    "downloads": 15727
+  },
+  {
+    "library": "agricolae",
+    "downloads": 1054000
+  },
+  {
+    "library": "agridat",
+    "downloads": 85461
+  },
+  {
+    "library": "agriTutorial",
+    "downloads": 25241
+  },
+  {
+    "library": "agriwater",
+    "downloads": 14262
+  },
+  {
+    "library": "agrmt",
+    "downloads": 44686
+  },
+  {
+    "library": "agroclim",
+    "downloads": 7852
+  },
+  {
+    "library": "agrostab",
+    "downloads": 9811
+  },
+  {
+    "library": "AGSDest",
+    "downloads": 44385
+  },
+  {
+    "library": "agsemisc",
+    "downloads": 33377
+  },
+  {
+    "library": "agtboost",
+    "downloads": 3331
+  },
+  {
+    "library": "ahaz",
+    "downloads": 57297
+  },
+  {
+    "library": "AHM",
+    "downloads": 11292
+  },
+  {
+    "library": "AHMbook",
+    "downloads": 28074
+  },
+  {
+    "library": "ahnr",
+    "downloads": 22318
+  },
+  {
+    "library": "AhoCorasickTrie",
+    "downloads": 27254
+  },
+  {
+    "library": "AHPhybrid",
+    "downloads": 1592
+  },
+  {
+    "library": "ahpsurvey",
+    "downloads": 19875
+  },
+  {
+    "library": "ahptopsis2n",
+    "downloads": 3283
+  },
+  {
+    "library": "aibd",
+    "downloads": 8048
+  },
+  {
+    "library": "AICcmodavg",
+    "downloads": 388065
+  },
+  {
+    "library": "AID",
+    "downloads": 75465
+  },
+  {
+    "library": "aidar",
+    "downloads": 33857
+  },
+  {
+    "library": "aif360",
+    "downloads": 4138
+  },
+  {
+    "library": "AIG",
+    "downloads": 31743
+  },
+  {
+    "library": "aimPlot",
+    "downloads": 23179
+  },
+  {
+    "library": "aimsir17",
+    "downloads": 9981
+  },
+  {
+    "library": "aire.zmvm",
+    "downloads": 24905
+  },
+  {
+    "library": "airGR",
+    "downloads": 50143
+  },
+  {
+    "library": "airGRdatassim",
+    "downloads": 1733
+  },
+  {
+    "library": "airGRteaching",
+    "downloads": 28092
+  },
+  {
+    "library": "aiRly",
+    "downloads": 7382
+  },
+  {
+    "library": "airportr",
+    "downloads": 16696
+  },
+  {
+    "library": "airports",
+    "downloads": 53544
+  },
+  {
+    "library": "airqualityES",
+    "downloads": 8778
+  },
+  {
+    "library": "airr",
+    "downloads": 21843
+  },
+  {
+    "library": "AirSensor",
+    "downloads": 3370
+  },
+  {
+    "library": "airt",
+    "downloads": 5205
+  },
+  {
+    "library": "aiRthermo",
+    "downloads": 26111
+  },
+  {
+    "library": "ajv",
+    "downloads": 21821
+  },
+  {
+    "library": "akc",
+    "downloads": 10361
+  },
+  {
+    "library": "Ake",
+    "downloads": 32312
+  },
+  {
+    "library": "akiFlagger",
+    "downloads": 2003
+  },
+  {
+    "library": "akima",
+    "downloads": 628762
+  },
+  {
+    "library": "akmbiclust",
+    "downloads": 3898
+  },
+  {
+    "library": "akmeans",
+    "downloads": 41538
+  },
+  {
+    "library": "akmedoids",
+    "downloads": 16194
+  },
+  {
+    "library": "ALA4R",
+    "downloads": 31568
+  },
+  {
+    "library": "alabama",
+    "downloads": 152954
+  },
+  {
+    "library": "alakazam",
+    "downloads": 48447
+  },
+  {
+    "library": "ALassoSurvIC",
+    "downloads": 9357
+  },
+  {
+    "library": "albatross",
+    "downloads": 3606
+  },
+  {
+    "library": "albopictus",
+    "downloads": 23820
+  },
+  {
+    "library": "ald",
+    "downloads": 47128
+  },
+  {
+    "library": "ALDqr",
+    "downloads": 39133
+  },
+  {
+    "library": "ALEPlot",
+    "downloads": 37441
+  },
+  {
+    "library": "aLFQ",
+    "downloads": 40749
+  },
+  {
+    "library": "alfr",
+    "downloads": 11217
+  },
+  {
+    "library": "alfred",
+    "downloads": 35366
+  },
+  {
+    "library": "algaeClassify",
+    "downloads": 11727
+  },
+  {
+    "library": "AlgDesign",
+    "downloads": 1130455
+  },
+  {
+    "library": "AlgebraicHaploPackage",
+    "downloads": 28757
+  },
+  {
+    "library": "algo",
+    "downloads": 3868
+  },
+  {
+    "library": "algorithmia",
+    "downloads": 26938
+  },
+  {
+    "library": "aliases2entrez",
+    "downloads": 9572
+  },
+  {
+    "library": "alignfigR",
+    "downloads": 15829
+  },
+  {
+    "library": "alineR",
+    "downloads": 34383
+  },
+  {
+    "library": "allcontributors",
+    "downloads": 1891
+  },
+  {
+    "library": "alleHap",
+    "downloads": 33467
+  },
+  {
+    "library": "allelematch",
+    "downloads": 35892
+  },
+  {
+    "library": "AlleleRetain",
+    "downloads": 40237
+  },
+  {
+    "library": "AlleleShift",
+    "downloads": 1428
+  },
+  {
+    "library": "allelic",
+    "downloads": 39293
+  },
+  {
+    "library": "allestimates",
+    "downloads": 9680
+  },
+  {
+    "library": "AllPossibleSpellings",
+    "downloads": 40548
+  },
+  {
+    "library": "alluvial",
+    "downloads": 78151
+  },
+  {
+    "library": "almanac",
+    "downloads": 4703
+  },
+  {
+    "library": "alookr",
+    "downloads": 8342
+  },
+  {
+    "library": "alpaca",
+    "downloads": 48219
+  },
+  {
+    "library": "alphabetr",
+    "downloads": 21295
+  },
+  {
+    "library": "alphahull",
+    "downloads": 180633
+  },
+  {
+    "library": "alphaOutlier",
+    "downloads": 29276
+  },
+  {
+    "library": "AlphaPart",
+    "downloads": 12904
+  },
+  {
+    "library": "alphashape3d",
+    "downloads": 151477
+  },
+  {
+    "library": "AlphaSimR",
+    "downloads": 24171
+  },
+  {
+    "library": "alphastable",
+    "downloads": 16326
+  },
+  {
+    "library": "AlphaVantageClient",
+    "downloads": 20607
+  },
+  {
+    "library": "alphavantager",
+    "downloads": 287633
+  },
+  {
+    "library": "alr4",
+    "downloads": 451527
+  },
+  {
+    "library": "ALS",
+    "downloads": 50794
+  },
+  {
+    "library": "ALSCPC",
+    "downloads": 37865
+  },
+  {
+    "library": "ALSM",
+    "downloads": 39452
+  },
+  {
+    "library": "altadata",
+    "downloads": 1778
+  },
+  {
+    "library": "altair",
+    "downloads": 12491
+  },
+  {
+    "library": "altfuelr",
+    "downloads": 2190
+  },
+  {
+    "library": "altmeta",
+    "downloads": 29832
+  },
+  {
+    "library": "ALTopt",
+    "downloads": 33422
+  },
+  {
+    "library": "altR2",
+    "downloads": 9907
+  },
+  {
+    "library": "amap",
+    "downloads": 414820
+  },
+  {
+    "library": "AMAP.Seq",
+    "downloads": 41082
+  },
+  {
+    "library": "amapGeocode",
+    "downloads": 3213
+  },
+  {
+    "library": "amber",
+    "downloads": 7657
+  },
+  {
+    "library": "ambhasGW",
+    "downloads": 20496
+  },
+  {
+    "library": "ambient",
+    "downloads": 17657
+  },
+  {
+    "library": "ambiorix",
+    "downloads": 1256
+  },
+  {
+    "library": "AMCP",
+    "downloads": 35965
+  },
+  {
+    "library": "AMCTestmakeR",
+    "downloads": 21856
+  },
+  {
+    "library": "Amelia",
+    "downloads": 611716
+  },
+  {
+    "library": "amelie",
+    "downloads": 18049
+  },
+  {
+    "library": "amen",
+    "downloads": 43712
+  },
+  {
+    "library": "AmericanCallOpt",
+    "downloads": 49985
+  },
+  {
+    "library": "amerika",
+    "downloads": 16830
+  },
+  {
+    "library": "AmesHousing",
+    "downloads": 107049
+  },
+  {
+    "library": "AMGET",
+    "downloads": 37597
+  },
+  {
+    "library": "AmigaFFH",
+    "downloads": 17459
+  },
+  {
+    "library": "aml",
+    "downloads": 33110
+  },
+  {
+    "library": "ammistability",
+    "downloads": 15872
+  },
+  {
+    "library": "AMModels",
+    "downloads": 27824
+  },
+  {
+    "library": "AmmoniaConcentration",
+    "downloads": 24414
+  },
+  {
+    "library": "AMOEBA",
+    "downloads": 47353
+  },
+  {
+    "library": "AMORE",
+    "downloads": 80136
+  },
+  {
+    "library": "ampd",
+    "downloads": 25133
+  },
+  {
+    "library": "AmpGram",
+    "downloads": 4333
+  },
+  {
+    "library": "ampir",
+    "downloads": 9422
+  },
+  {
+    "library": "AMPLE",
+    "downloads": 11056
+  },
+  {
+    "library": "AmpliconDuo",
+    "downloads": 30141
+  },
+  {
+    "library": "AMR",
+    "downloads": 47246
+  },
+  {
+    "library": "amt",
+    "downloads": 31653
+  },
+  {
+    "library": "AmyloGram",
+    "downloads": 23482
+  },
+  {
+    "library": "AnaCoDa",
+    "downloads": 21209
+  },
+  {
+    "library": "anacor",
+    "downloads": 57125
+  },
+  {
+    "library": "analogsea",
+    "downloads": 96999
+  },
+  {
+    "library": "analogue",
+    "downloads": 86554
+  },
+  {
+    "library": "analogueExtra",
+    "downloads": 29671
+  },
+  {
+    "library": "analysisPipelines",
+    "downloads": 15859
+  },
+  {
+    "library": "analyz",
+    "downloads": 31748
+  },
+  {
+    "library": "AnalyzeFMRI",
+    "downloads": 74045
+  },
+  {
+    "library": "analyzer",
+    "downloads": 4549
+  },
+  {
+    "library": "anapuce",
+    "downloads": 35495
+  },
+  {
+    "library": "AncestryMapper",
+    "downloads": 36802
+  },
+  {
+    "library": "AnchorRegression",
+    "downloads": 2197
+  },
+  {
+    "library": "anchors",
+    "downloads": 51939
+  },
+  {
+    "library": "AnDE",
+    "downloads": 35251
+  },
+  {
+    "library": "andrews",
+    "downloads": 50974
+  },
+  {
+    "library": "Andromeda",
+    "downloads": 15521
+  },
+  {
+    "library": "andurinha",
+    "downloads": 3714
+  },
+  {
+    "library": "anesrake",
+    "downloads": 75886
+  },
+  {
+    "library": "AnglerCreelSurveySimulation",
+    "downloads": 31749
+  },
+  {
+    "library": "angstroms",
+    "downloads": 19640
+  },
+  {
+    "library": "aniDom",
+    "downloads": 25628
+  },
+  {
+    "library": "anim.plots",
+    "downloads": 33822
+  },
+  {
+    "library": "AnimalAPD",
+    "downloads": 365
+  },
+  {
+    "library": "animalEKF",
+    "downloads": 2800
+  },
+  {
+    "library": "AnimalHabitatNetwork",
+    "downloads": 8839
+  },
+  {
+    "library": "animalTrack",
+    "downloads": 36321
+  },
+  {
+    "library": "animaltracker",
+    "downloads": 6831
+  },
+  {
+    "library": "animation",
+    "downloads": 818060
+  },
+  {
+    "library": "animint2",
+    "downloads": 6862
+  },
+  {
+    "library": "anipaths",
+    "downloads": 24194
+  },
+  {
+    "library": "aniview",
+    "downloads": 6076
+  },
+  {
+    "library": "anMC",
+    "downloads": 30578
+  },
+  {
+    "library": "ANN2",
+    "downloads": 40684
+  },
+  {
+    "library": "anndata",
+    "downloads": 3793
+  },
+  {
+    "library": "AnnotationBustR",
+    "downloads": 24280
+  },
+  {
+    "library": "AnnotLists",
+    "downloads": 42882
+  },
+  {
+    "library": "AnnuityRIR",
+    "downloads": 19250
+  },
+  {
+    "library": "anocva",
+    "downloads": 26075
+  },
+  {
+    "library": "ANOM",
+    "downloads": 31999
+  },
+  {
+    "library": "anomalize",
+    "downloads": 154954
+  },
+  {
+    "library": "anomaly",
+    "downloads": 22542
+  },
+  {
+    "library": "anominate",
+    "downloads": 32597
+  },
+  {
+    "library": "ANOVAIREVA",
+    "downloads": 10275
+  },
+  {
+    "library": "ANOVAreplication",
+    "downloads": 32223
+  },
+  {
+    "library": "ANOVAShiny",
+    "downloads": 13219
+  },
+  {
+    "library": "ANOVAShiny2",
+    "downloads": 2742
+  },
+  {
+    "library": "anovir",
+    "downloads": 2492
+  },
+  {
+    "library": "anscombiser",
+    "downloads": 2724
+  },
+  {
+    "library": "AntAngioCOOL",
+    "downloads": 22347
+  },
+  {
+    "library": "antaresEditObject",
+    "downloads": 17174
+  },
+  {
+    "library": "antaresProcessing",
+    "downloads": 37754
+  },
+  {
+    "library": "antaresRead",
+    "downloads": 47474
+  },
+  {
+    "library": "antaresViz",
+    "downloads": 30552
+  },
+  {
+    "library": "anthro",
+    "downloads": 17984
+  },
+  {
+    "library": "AnthropMMD",
+    "downloads": 72488
+  },
+  {
+    "library": "Anthropometry",
+    "downloads": 66178
+  },
+  {
+    "library": "anticlust",
+    "downloads": 4738
+  },
+  {
+    "library": "antitrust",
+    "downloads": 47835
+  },
+  {
+    "library": "antiword",
+    "downloads": 304788
+  },
+  {
+    "library": "AntWeb",
+    "downloads": 41376
+  },
+  {
+    "library": "anybadger",
+    "downloads": 1162
+  },
+  {
+    "library": "anyflights",
+    "downloads": 8561
+  },
+  {
+    "library": "anyLib",
+    "downloads": 21961
+  },
+  {
+    "library": "anytime",
+    "downloads": 1621666
+  },
+  {
+    "library": "aod",
+    "downloads": 415639
+  },
+  {
+    "library": "aods3",
+    "downloads": 48006
+  },
+  {
+    "library": "aof",
+    "downloads": 7291
+  },
+  {
+    "library": "aoos",
+    "downloads": 42130
+  },
+  {
+    "library": "aopdata",
+    "downloads": 713
+  },
+  {
+    "library": "Aoptbdtvc",
+    "downloads": 16670
+  },
+  {
+    "library": "aoristic",
+    "downloads": 35339
+  },
+  {
+    "library": "aos",
+    "downloads": 4731
+  },
+  {
+    "library": "AOV1R",
+    "downloads": 2634
+  },
+  {
+    "library": "apa",
+    "downloads": 37966
+  },
+  {
+    "library": "ApacheLogProcessor",
+    "downloads": 32387
+  },
+  {
+    "library": "apaTables",
+    "downloads": 122866
+  },
+  {
+    "library": "apaText",
+    "downloads": 16338
+  },
+  {
+    "library": "apc",
+    "downloads": 36754
+  },
+  {
+    "library": "APCanalysis",
+    "downloads": 23514
+  },
+  {
+    "library": "apcf",
+    "downloads": 14927
+  },
+  {
+    "library": "APCI",
+    "downloads": 1433
+  },
+  {
+    "library": "apcluster",
+    "downloads": 130771
+  },
+  {
+    "library": "aPCoA",
+    "downloads": 7338
+  },
+  {
+    "library": "apdesign",
+    "downloads": 20690
+  },
+  {
+    "library": "ape",
+    "downloads": 2708696
+  },
+  {
+    "library": "apercu",
+    "downloads": 42738
+  },
+  {
+    "library": "apex",
+    "downloads": 49402
+  },
+  {
+    "library": "apexcharter",
+    "downloads": 19902
+  },
+  {
+    "library": "APFr",
+    "downloads": 14830
+  },
+  {
+    "library": "APfun",
+    "downloads": 32127
+  },
+  {
+    "library": "aphid",
+    "downloads": 31940
+  },
+  {
+    "library": "APIS",
+    "downloads": 11466
+  },
+  {
+    "library": "apisensr",
+    "downloads": 556
+  },
+  {
+    "library": "aplore3",
+    "downloads": 36351
+  },
+  {
+    "library": "aplot",
+    "downloads": 31241
+  },
+  {
+    "library": "aplpack",
+    "downloads": 972625
+  },
+  {
+    "library": "APML0",
+    "downloads": 28678
+  },
+  {
+    "library": "apng",
+    "downloads": 23850
+  },
+  {
+    "library": "apollo",
+    "downloads": 29523
+  },
+  {
+    "library": "APPEstimation",
+    "downloads": 18706
+  },
+  {
+    "library": "appler",
+    "downloads": 614
+  },
+  {
+    "library": "applicable",
+    "downloads": 5862
+  },
+  {
+    "library": "AppliedPredictiveModeling",
+    "downloads": 198942
+  },
+  {
+    "library": "appnn",
+    "downloads": 28229
+  },
+  {
+    "library": "approximator",
+    "downloads": 45987
+  },
+  {
+    "library": "approxmatch",
+    "downloads": 19152
+  },
+  {
+    "library": "aprean3",
+    "downloads": 32149
+  },
+  {
+    "library": "apricom",
+    "downloads": 25481
+  },
+  {
+    "library": "aprof",
+    "downloads": 43831
+  },
+  {
+    "library": "APSIMBatch",
+    "downloads": 41700
+  },
+  {
+    "library": "apsimx",
+    "downloads": 8167
+  },
+  {
+    "library": "apsrtable",
+    "downloads": 66876
+  },
+  {
+    "library": "apt",
+    "downloads": 59243
+  },
+  {
+    "library": "aptg",
+    "downloads": 14247
+  },
+  {
+    "library": "APtools",
+    "downloads": 28060
+  },
+  {
+    "library": "apTreeshape",
+    "downloads": 66147
+  },
+  {
+    "library": "apyramid",
+    "downloads": 9748
+  },
+  {
+    "library": "AQLSchemes",
+    "downloads": 6220
+  },
+  {
+    "library": "aqp",
+    "downloads": 204915
+  },
+  {
+    "library": "AQuadtree",
+    "downloads": 8597
+  },
+  {
+    "library": "AquaEnv",
+    "downloads": 42806
+  },
+  {
+    "library": "AR",
+    "downloads": 26722
+  },
+  {
+    "library": "ar.matrix",
+    "downloads": 13721
+  },
+  {
+    "library": "arabic2kansuji",
+    "downloads": 2216
+  },
+  {
+    "library": "arabicStemR",
+    "downloads": 28918
+  },
+  {
+    "library": "ArArRedux",
+    "downloads": 31913
+  },
+  {
+    "library": "arc",
+    "downloads": 28611
+  },
+  {
+    "library": "ARCensReg",
+    "downloads": 26428
+  },
+  {
+    "library": "ArchaeoChron",
+    "downloads": 19150
+  },
+  {
+    "library": "ArchaeoPhases",
+    "downloads": 29264
+  },
+  {
+    "library": "ArchaeoPhases.dataset",
+    "downloads": 6182
+  },
+  {
+    "library": "archdata",
+    "downloads": 1473550
+  },
+  {
+    "library": "archeofrag",
+    "downloads": 1922
+  },
+  {
+    "library": "archetyper",
+    "downloads": 402
+  },
+  {
+    "library": "archetypes",
+    "downloads": 68067
+  },
+  {
+    "library": "aRchi",
+    "downloads": 10
+  },
+  {
+    "library": "archiDART",
+    "downloads": 37819
+  },
+  {
+    "library": "archiveRetriever",
+    "downloads": 531
+  },
+  {
+    "library": "archivist",
+    "downloads": 117856
+  },
+  {
+    "library": "archivist.github",
+    "downloads": 27084
+  },
+  {
+    "library": "ArCo",
+    "downloads": 23570
+  },
+  {
+    "library": "ARCokrig",
+    "downloads": 3501
+  },
+  {
+    "library": "arcos",
+    "downloads": 9491
+  },
+  {
+    "library": "arcpullr",
+    "downloads": 1052
+  },
+  {
+    "library": "arctools",
+    "downloads": 2148
+  },
+  {
+    "library": "ArDec",
+    "downloads": 53316
+  },
+  {
+    "library": "ARDL",
+    "downloads": 9730
+  },
+  {
+    "library": "areabiplot",
+    "downloads": 542
+  },
+  {
+    "library": "areal",
+    "downloads": 19868
+  },
+  {
+    "library": "arealDB",
+    "downloads": 3716
+  },
+  {
+    "library": "areaplot",
+    "downloads": 22441
+  },
+  {
+    "library": "arena2r",
+    "downloads": 14626
+  },
+  {
+    "library": "arenar",
+    "downloads": 4242
+  },
+  {
+    "library": "arfima",
+    "downloads": 84639
+  },
+  {
+    "library": "argo",
+    "downloads": 9202
+  },
+  {
+    "library": "argon2",
+    "downloads": 59082
+  },
+  {
+    "library": "argonDash",
+    "downloads": 70073
+  },
+  {
+    "library": "argonR",
+    "downloads": 71795
+  },
+  {
+    "library": "argosfilter",
+    "downloads": 54468
+  },
+  {
+    "library": "argparse",
+    "downloads": 626689
+  },
+  {
+    "library": "argparser",
+    "downloads": 70467
+  },
+  {
+    "library": "ArgumentCheck",
+    "downloads": 36628
+  },
+  {
+    "library": "ARHT",
+    "downloads": 16166
+  },
+  {
+    "library": "ari",
+    "downloads": 22815
+  },
+  {
+    "library": "ARIbrain",
+    "downloads": 15349
+  },
+  {
+    "library": "aricode",
+    "downloads": 22034
+  },
+  {
+    "library": "ariExtra",
+    "downloads": 4729
+  },
+  {
+    "library": "arkdb",
+    "downloads": 28352
+  },
+  {
+    "library": "arkhe",
+    "downloads": 10348
+  },
+  {
+    "library": "arm",
+    "downloads": 2249708
+  },
+  {
+    "library": "armada",
+    "downloads": 12020
+  },
+  {
+    "library": "armspp",
+    "downloads": 12877
+  },
+  {
+    "library": "arnie",
+    "downloads": 31556
+  },
+  {
+    "library": "AROC",
+    "downloads": 16902
+  },
+  {
+    "library": "aroma.affymetrix",
+    "downloads": 97264
+  },
+  {
+    "library": "aroma.apd",
+    "downloads": 67601
+  },
+  {
+    "library": "aroma.cn",
+    "downloads": 42574
+  },
+  {
+    "library": "aroma.core",
+    "downloads": 114211
+  },
+  {
+    "library": "Arothron",
+    "downloads": 19987
+  },
+  {
+    "library": "ARpLMEC",
+    "downloads": 13344
+  },
+  {
+    "library": "ARPobservation",
+    "downloads": 33748
+  },
+  {
+    "library": "arpr",
+    "downloads": 19342
+  },
+  {
+    "library": "aRpsDCA",
+    "downloads": 46042
+  },
+  {
+    "library": "arrangements",
+    "downloads": 82260
+  },
+  {
+    "library": "arrApply",
+    "downloads": 25707
+  },
+  {
+    "library": "arrayhelpers",
+    "downloads": 92971
+  },
+  {
+    "library": "arrow",
+    "downloads": 463817
+  },
+  {
+    "library": "ars",
+    "downloads": 49162
+  },
+  {
+    "library": "arse",
+    "downloads": 10955
+  },
+  {
+    "library": "arsenal",
+    "downloads": 134444
+  },
+  {
+    "library": "ART",
+    "downloads": 27908
+  },
+  {
+    "library": "artfima",
+    "downloads": 30764
+  },
+  {
+    "library": "ARTool",
+    "downloads": 53474
+  },
+  {
+    "library": "ARTP2",
+    "downloads": 27415
+  },
+  {
+    "library": "arules",
+    "downloads": 2234791
+  },
+  {
+    "library": "arulesCBA",
+    "downloads": 53451
+  },
+  {
+    "library": "arulesNBMiner",
+    "downloads": 48468
+  },
+  {
+    "library": "arulesSequences",
+    "downloads": 175843
+  },
+  {
+    "library": "arulesViz",
+    "downloads": 943178
+  },
+  {
+    "library": "aRxiv",
+    "downloads": 53310
+  },
+  {
+    "library": "asaur",
+    "downloads": 38914
+  },
+  {
+    "library": "asbio",
+    "downloads": 201654
+  },
+  {
+    "library": "ascii",
+    "downloads": 101479
+  },
+  {
+    "library": "asciicast",
+    "downloads": 10039
+  },
+  {
+    "library": "asciichartr",
+    "downloads": 5900
+  },
+  {
+    "library": "asciiruler",
+    "downloads": 15835
+  },
+  {
+    "library": "asciiSetupReader",
+    "downloads": 25809
+  },
+  {
+    "library": "asd",
+    "downloads": 41840
+  },
+  {
+    "library": "asdreader",
+    "downloads": 31218
+  },
+  {
+    "library": "ASGS.foyer",
+    "downloads": 19947
+  },
+  {
+    "library": "ash",
+    "downloads": 403264
+  },
+  {
+    "library": "ashr",
+    "downloads": 64687
+  },
+  {
+    "library": "asht",
+    "downloads": 47476
+  },
+  {
+    "library": "AsioHeaders",
+    "downloads": 180559
+  },
+  {
+    "library": "ASIP",
+    "downloads": 20970
+  },
+  {
+    "library": "askpass",
+    "downloads": 11209163
+  },
+  {
+    "library": "aslib",
+    "downloads": 18909
+  },
+  {
+    "library": "ASMap",
+    "downloads": 50985
+  },
+  {
+    "library": "asnipe",
+    "downloads": 60024
+  },
+  {
+    "library": "aspace",
+    "downloads": 68629
+  },
+  {
+    "library": "ASPBay",
+    "downloads": 30638
+  },
+  {
+    "library": "aSPC",
+    "downloads": 18964
+  },
+  {
+    "library": "aspect",
+    "downloads": 43822
+  },
+  {
+    "library": "aspi",
+    "downloads": 20645
+  },
+  {
+    "library": "aSPU",
+    "downloads": 38311
+  },
+  {
+    "library": "asremlPlus",
+    "downloads": 55568
+  },
+  {
+    "library": "ASSA",
+    "downloads": 22361
+  },
+  {
+    "library": "assert",
+    "downloads": 3969
+  },
+  {
+    "library": "assertable",
+    "downloads": 35505
+  },
+  {
+    "library": "assertive",
+    "downloads": 236400
+  },
+  {
+    "library": "assertive.base",
+    "downloads": 344430
+  },
+  {
+    "library": "assertive.code",
+    "downloads": 205891
+  },
+  {
+    "library": "assertive.data",
+    "downloads": 206952
+  },
+  {
+    "library": "assertive.data.uk",
+    "downloads": 207381
+  },
+  {
+    "library": "assertive.data.us",
+    "downloads": 205699
+  },
+  {
+    "library": "assertive.datetimes",
+    "downloads": 206589
+  },
+  {
+    "library": "assertive.files",
+    "downloads": 213867
+  },
+  {
+    "library": "assertive.matrices",
+    "downloads": 204351
+  },
+  {
+    "library": "assertive.models",
+    "downloads": 204305
+  },
+  {
+    "library": "assertive.numbers",
+    "downloads": 215597
+  },
+  {
+    "library": "assertive.properties",
+    "downloads": 225750
+  },
+  {
+    "library": "assertive.reflection",
+    "downloads": 310708
+  },
+  {
+    "library": "assertive.sets",
+    "downloads": 207164
+  },
+  {
+    "library": "assertive.strings",
+    "downloads": 213521
+  },
+  {
+    "library": "assertive.types",
+    "downloads": 225099
+  },
+  {
+    "library": "assertr",
+    "downloads": 82749
+  },
+  {
+    "library": "assertthat",
+    "downloads": 26264568
+  },
+  {
+    "library": "AssetCorr",
+    "downloads": 18266
+  },
+  {
+    "library": "AssetPricing",
+    "downloads": 40310
+  },
+  {
+    "library": "assignPOP",
+    "downloads": 28575
+  },
+  {
+    "library": "assignR",
+    "downloads": 11269
+  },
+  {
+    "library": "assist",
+    "downloads": 42081
+  },
+  {
+    "library": "ASSISTant",
+    "downloads": 24042
+  },
+  {
+    "library": "AssocAFC",
+    "downloads": 19863
+  },
+  {
+    "library": "assocInd",
+    "downloads": 18895
+  },
+  {
+    "library": "ASSOCShiny",
+    "downloads": 11725
+  },
+  {
+    "library": "AssocTests",
+    "downloads": 31547
+  },
+  {
+    "library": "assortnet",
+    "downloads": 29850
+  },
+  {
+    "library": "AssotesteR",
+    "downloads": 37626
+  },
+  {
+    "library": "AST",
+    "downloads": 18341
+  },
+  {
+    "library": "aster",
+    "downloads": 75269
+  },
+  {
+    "library": "aster2",
+    "downloads": 38706
+  },
+  {
+    "library": "asteRisk",
+    "downloads": 321
+  },
+  {
+    "library": "astrochron",
+    "downloads": 59135
+  },
+  {
+    "library": "astrodatR",
+    "downloads": 32903
+  },
+  {
+    "library": "astroFns",
+    "downloads": 39707
+  },
+  {
+    "library": "astrolibR",
+    "downloads": 33302
+  },
+  {
+    "library": "astsa",
+    "downloads": 436027
+  },
+  {
+    "library": "asus",
+    "downloads": 15392
+  },
+  {
+    "library": "asVPC",
+    "downloads": 26032
+  },
+  {
+    "library": "AsyK",
+    "downloads": 12254
+  },
+  {
+    "library": "asymLD",
+    "downloads": 22676
+  },
+  {
+    "library": "asymmetry",
+    "downloads": 41670
+  },
+  {
+    "library": "asymmetry.measures",
+    "downloads": 4511
+  },
+  {
+    "library": "asympTest",
+    "downloads": 41002
+  },
+  {
+    "library": "asymptor",
+    "downloads": 2574
+  },
+  {
+    "library": "AsynchLong",
+    "downloads": 33133
+  },
+  {
+    "library": "asypow",
+    "downloads": 43452
+  },
+  {
+    "library": "ata",
+    "downloads": 7462
+  },
+  {
+    "library": "atable",
+    "downloads": 19468
+  },
+  {
+    "library": "ATAforecasting",
+    "downloads": 407
+  },
+  {
+    "library": "atakrig",
+    "downloads": 5816
+  },
+  {
+    "library": "ATE",
+    "downloads": 37159
+  },
+  {
+    "library": "atlas",
+    "downloads": 16862
+  },
+  {
+    "library": "atmcmc",
+    "downloads": 31464
+  },
+  {
+    "library": "ATmet",
+    "downloads": 32982
+  },
+  {
+    "library": "atmopt",
+    "downloads": 13796
+  },
+  {
+    "library": "AtmRay",
+    "downloads": 37607
+  },
+  {
+    "library": "ATR",
+    "downloads": 49634
+  },
+  {
+    "library": "aTSA",
+    "downloads": 118006
+  },
+  {
+    "library": "atsd",
+    "downloads": 27593
+  },
+  {
+    "library": "attachment",
+    "downloads": 37861
+  },
+  {
+    "library": "attempt",
+    "downloads": 101170
+  },
+  {
+    "library": "attenuation",
+    "downloads": 8736
+  },
+  {
+    "library": "attrib",
+    "downloads": 312
+  },
+  {
+    "library": "AUC",
+    "downloads": 284728
+  },
+  {
+    "library": "aucm",
+    "downloads": 26567
+  },
+  {
+    "library": "AUCRF",
+    "downloads": 42068
+  },
+  {
+    "library": "auctestr",
+    "downloads": 17955
+  },
+  {
+    "library": "auctionr",
+    "downloads": 3596
+  },
+  {
+    "library": "audio",
+    "downloads": 215715
+  },
+  {
+    "library": "audiolyzR",
+    "downloads": 33953
+  },
+  {
+    "library": "audiometry",
+    "downloads": 4454
+  },
+  {
+    "library": "audit",
+    "downloads": 36704
+  },
+  {
+    "library": "auditor",
+    "downloads": 27166
+  },
+  {
+    "library": "augmentedRCBD",
+    "downloads": 18388
+  },
+  {
+    "library": "AugmenterR",
+    "downloads": 355
+  },
+  {
+    "library": "augSIMEX",
+    "downloads": 26263
+  },
+  {
+    "library": "auk",
+    "downloads": 35913
+  },
+  {
+    "library": "aurelius",
+    "downloads": 19459
+  },
+  {
+    "library": "AurieLSHGaussian",
+    "downloads": 19600
+  },
+  {
+    "library": "auRoc",
+    "downloads": 25690
+  },
+  {
+    "library": "AUtests",
+    "downloads": 24854
+  },
+  {
+    "library": "auth0",
+    "downloads": 19452
+  },
+  {
+    "library": "auto.pca",
+    "downloads": 19577
+  },
+  {
+    "library": "autoBagging",
+    "downloads": 18880
+  },
+  {
+    "library": "autocogs",
+    "downloads": 29804
+  },
+  {
+    "library": "autoCovariateSelection",
+    "downloads": 1660
+  },
+  {
+    "library": "AutoDeskR",
+    "downloads": 23023
+  },
+  {
+    "library": "autoencoder",
+    "downloads": 41358
+  },
+  {
+    "library": "autoFRK",
+    "downloads": 18693
+  },
+  {
+    "library": "autoimage",
+    "downloads": 36500
+  },
+  {
+    "library": "autokeras",
+    "downloads": 8624
+  },
+  {
+    "library": "automagic",
+    "downloads": 23587
+  },
+  {
+    "library": "automap",
+    "downloads": 247965
+  },
+  {
+    "library": "automl",
+    "downloads": 27699
+  },
+  {
+    "library": "autoMrP",
+    "downloads": 1236
+  },
+  {
+    "library": "automultinomial",
+    "downloads": 21940
+  },
+  {
+    "library": "AutoPipe",
+    "downloads": 8117
+  },
+  {
+    "library": "autoplotly",
+    "downloads": 24548
+  },
+  {
+    "library": "Autoplotprotein",
+    "downloads": 19152
+  },
+  {
+    "library": "AutoregressionMDE",
+    "downloads": 27186
+  },
+  {
+    "library": "AutoSEARCH",
+    "downloads": 43884
+  },
+  {
+    "library": "Autoseed",
+    "downloads": 7069
+  },
+  {
+    "library": "autoshiny",
+    "downloads": 15565
+  },
+  {
+    "library": "AutoStepwiseGLM",
+    "downloads": 13221
+  },
+  {
+    "library": "autostsm",
+    "downloads": 1739
+  },
+  {
+    "library": "autota",
+    "downloads": 7218
+  },
+  {
+    "library": "autothresholdr",
+    "downloads": 40944
+  },
+  {
+    "library": "autoTS",
+    "downloads": 4506
+  },
+  {
+    "library": "av",
+    "downloads": 334972
+  },
+  {
+    "library": "available",
+    "downloads": 31869
+  },
+  {
+    "library": "avar",
+    "downloads": 10294
+  },
+  {
+    "library": "averisk",
+    "downloads": 25593
+  },
+  {
+    "library": "aVirtualTwins",
+    "downloads": 19524
+  },
+  {
+    "library": "avocado",
+    "downloads": 1653
+  },
+  {
+    "library": "AWAPer",
+    "downloads": 8128
+  },
+  {
+    "library": "aweek",
+    "downloads": 79754
+  },
+  {
+    "library": "aweSOM",
+    "downloads": 1614
+  },
+  {
+    "library": "AWR",
+    "downloads": 28488
+  },
+  {
+    "library": "AWR.Athena",
+    "downloads": 28585
+  },
+  {
+    "library": "AWR.Kinesis",
+    "downloads": 23565
+  },
+  {
+    "library": "AWR.KMS",
+    "downloads": 23718
+  },
+  {
+    "library": "aws",
+    "downloads": 77386
+  },
+  {
+    "library": "aws.alexa",
+    "downloads": 33254
+  },
+  {
+    "library": "aws.comprehend",
+    "downloads": 15407
+  },
+  {
+    "library": "aws.ec2metadata",
+    "downloads": 50709692
+  },
+  {
+    "library": "aws.ecx",
+    "downloads": 432
+  },
+  {
+    "library": "aws.iam",
+    "downloads": 33020
+  },
+  {
+    "library": "aws.kms",
+    "downloads": 12366
+  },
+  {
+    "library": "aws.lambda",
+    "downloads": 25723
+  },
+  {
+    "library": "aws.polly",
+    "downloads": 31301
+  },
+  {
+    "library": "aws.s3",
+    "downloads": 47148411
+  },
+  {
+    "library": "aws.signature",
+    "downloads": 2624562
+  },
+  {
+    "library": "aws.transcribe",
+    "downloads": 14689
+  },
+  {
+    "library": "aws.translate",
+    "downloads": 14718
+  },
+  {
+    "library": "awsMethods",
+    "downloads": 78247
+  },
+  {
+    "library": "aziztest",
+    "downloads": 9853
+  },
+  {
+    "library": "AzureAuth",
+    "downloads": 433347
+  },
+  {
+    "library": "AzureCognitive",
+    "downloads": 10409
+  },
+  {
+    "library": "AzureContainers",
+    "downloads": 20409
+  },
+  {
+    "library": "AzureCosmosR",
+    "downloads": 1570
+  },
+  {
+    "library": "AzureGraph",
+    "downloads": 410185
+  },
+  {
+    "library": "AzureKeyVault",
+    "downloads": 54159
+  },
+  {
+    "library": "AzureKusto",
+    "downloads": 38956
+  },
+  {
+    "library": "azuremlsdk",
+    "downloads": 29784
+  },
+  {
+    "library": "AzureQstor",
+    "downloads": 4953
+  },
+  {
+    "library": "AzureRMR",
+    "downloads": 465917
+  },
+  {
+    "library": "AzureStor",
+    "downloads": 448784
+  },
+  {
+    "library": "AzureTableStor",
+    "downloads": 3487
+  },
+  {
+    "library": "AzureVision",
+    "downloads": 11095
+  },
+  {
+    "library": "AzureVM",
+    "downloads": 21647
+  },
+  {
+    "library": "AzureVMmetadata",
+    "downloads": 11625
+  },
+  {
+    "library": "b6e6rl",
+    "downloads": 34554
+  },
+  {
+    "library": "babar",
+    "downloads": 27592
+  },
+  {
+    "library": "babel",
+    "downloads": 36360
+  },
+  {
+    "library": "babelwhale",
+    "downloads": 17255
+  },
+  {
+    "library": "babette",
+    "downloads": 9319
+  },
+  {
+    "library": "BaBooN",
+    "downloads": 61645
+  },
+  {
+    "library": "babsim.hospital",
+    "downloads": 1665
+  },
+  {
+    "library": "babynames",
+    "downloads": 217399
+  },
+  {
+    "library": "BacArena",
+    "downloads": 29106
+  },
+  {
+    "library": "BACCO",
+    "downloads": 48731
+  },
+  {
+    "library": "BACCT",
+    "downloads": 22119
+  },
+  {
+    "library": "bacistool",
+    "downloads": 18270
+  },
+  {
+    "library": "backbone",
+    "downloads": 12431
+  },
+  {
+    "library": "backpipe",
+    "downloads": 27093
+  },
+  {
+    "library": "backports",
+    "downloads": 23754200
+  },
+  {
+    "library": "backShift",
+    "downloads": 29446
+  },
+  {
+    "library": "backtest",
+    "downloads": 57258
+  },
+  {
+    "library": "bacondecomp",
+    "downloads": 9087
+  },
+  {
+    "library": "BACprior",
+    "downloads": 35721
+  },
+  {
+    "library": "bacr",
+    "downloads": 25115
+  },
+  {
+    "library": "badgecreatr",
+    "downloads": 22367
+  },
+  {
+    "library": "badger",
+    "downloads": 26106
+  },
+  {
+    "library": "BAEssd",
+    "downloads": 34267
+  },
+  {
+    "library": "baggedcv",
+    "downloads": 9927
+  },
+  {
+    "library": "baggr",
+    "downloads": 11510
+  },
+  {
+    "library": "BAGofT",
+    "downloads": 6665
+  },
+  {
+    "library": "baguette",
+    "downloads": 8571
+  },
+  {
+    "library": "bahc",
+    "downloads": 8095
+  },
+  {
+    "library": "bain",
+    "downloads": 24787
+  },
+  {
+    "library": "baitmet",
+    "downloads": 21064
+  },
+  {
+    "library": "balance",
+    "downloads": 16179
+  },
+  {
+    "library": "BalanceCheck",
+    "downloads": 21382
+  },
+  {
+    "library": "BalancedSampling",
+    "downloads": 41390
+  },
+  {
+    "library": "BALCONY",
+    "downloads": 25464
+  },
+  {
+    "library": "BALD",
+    "downloads": 12550
+  },
+  {
+    "library": "Ball",
+    "downloads": 30853
+  },
+  {
+    "library": "BALLI",
+    "downloads": 11298
+  },
+  {
+    "library": "BallMapper",
+    "downloads": 10611
+  },
+  {
+    "library": "BaM",
+    "downloads": 48504
+  },
+  {
+    "library": "bama",
+    "downloads": 10162
+  },
+  {
+    "library": "BAMBI",
+    "downloads": 30780
+  },
+  {
+    "library": "bamboo",
+    "downloads": 28419
+  },
+  {
+    "library": "bamdit",
+    "downloads": 46572
+  },
+  {
+    "library": "bamlss",
+    "downloads": 31834
+  },
+  {
+    "library": "BAMMtools",
+    "downloads": 76435
+  },
+  {
+    "library": "BaMORC",
+    "downloads": 13242
+  },
+  {
+    "library": "bamp",
+    "downloads": 14736
+  },
+  {
+    "library": "bandit",
+    "downloads": 38206
+  },
+  {
+    "library": "bang",
+    "downloads": 23037
+  },
+  {
+    "library": "bannerCommenter",
+    "downloads": 23692
+  },
+  {
+    "library": "BANOVA",
+    "downloads": 52167
+  },
+  {
+    "library": "banter",
+    "downloads": 14392
+  },
+  {
+    "library": "banxicoR",
+    "downloads": 21368
+  },
+  {
+    "library": "bapred",
+    "downloads": 26101
+  },
+  {
+    "library": "BaPreStoPro",
+    "downloads": 24658
+  },
+  {
+    "library": "BarBorGradient",
+    "downloads": 21801
+  },
+  {
+    "library": "barcode",
+    "downloads": 86556
+  },
+  {
+    "library": "baRcodeR",
+    "downloads": 18506
+  },
+  {
+    "library": "BarcodingR",
+    "downloads": 24173
+  },
+  {
+    "library": "bardr",
+    "downloads": 314
+  },
+  {
+    "library": "BARIS",
+    "downloads": 8018
+  },
+  {
+    "library": "Barnard",
+    "downloads": 40141
+  },
+  {
+    "library": "barplot3d",
+    "downloads": 12967
+  },
+  {
+    "library": "barsurf",
+    "downloads": 26731
+  },
+  {
+    "library": "BART",
+    "downloads": 59268
+  },
+  {
+    "library": "bartBMA",
+    "downloads": 7106
+  },
+  {
+    "library": "bartCause",
+    "downloads": 7297
+  },
+  {
+    "library": "bartMachine",
+    "downloads": 158616
+  },
+  {
+    "library": "bartMachineJARs",
+    "downloads": 120234
+  },
+  {
+    "library": "baRulho",
+    "downloads": 8025
+  },
+  {
+    "library": "Barycenter",
+    "downloads": 23632
+  },
+  {
+    "library": "BAS",
+    "downloads": 119527
+  },
+  {
+    "library": "basad",
+    "downloads": 18289
+  },
+  {
+    "library": "base.rms",
+    "downloads": 6307
+  },
+  {
+    "library": "base2grob",
+    "downloads": 20063
+  },
+  {
+    "library": "base64",
+    "downloads": 403346
+  },
+  {
+    "library": "base64enc",
+    "downloads": 19699547
+  },
+  {
+    "library": "base64url",
+    "downloads": 127728
+  },
+  {
+    "library": "baseballDBR",
+    "downloads": 18438
+  },
+  {
+    "library": "basecamb",
+    "downloads": 6
+  },
+  {
+    "library": "baseflow",
+    "downloads": 8096
+  },
+  {
+    "library": "basefun",
+    "downloads": 96646
+  },
+  {
+    "library": "baseline",
+    "downloads": 75052
+  },
+  {
+    "library": "BaseSet",
+    "downloads": 1702
+  },
+  {
+    "library": "basetheme",
+    "downloads": 16432
+  },
+  {
+    "library": "basf",
+    "downloads": 6234
+  },
+  {
+    "library": "basicMCMCplots",
+    "downloads": 25300
+  },
+  {
+    "library": "basicspace",
+    "downloads": 41564
+  },
+  {
+    "library": "basictabler",
+    "downloads": 26268
+  },
+  {
+    "library": "basicTrendline",
+    "downloads": 35634
+  },
+  {
+    "library": "basifoR",
+    "downloads": 602
+  },
+  {
+    "library": "BASiNET",
+    "downloads": 16739
+  },
+  {
+    "library": "BASIX",
+    "downloads": 49232
+  },
+  {
+    "library": "BasketballAnalyzeR",
+    "downloads": 4590
+  },
+  {
+    "library": "BASS",
+    "downloads": 24543
+  },
+  {
+    "library": "BaSTA",
+    "downloads": 49167
+  },
+  {
+    "library": "bastah",
+    "downloads": 21962
+  },
+  {
+    "library": "BAT",
+    "downloads": 104465
+  },
+  {
+    "library": "batata",
+    "downloads": 4533
+  },
+  {
+    "library": "batch",
+    "downloads": 51172
+  },
+  {
+    "library": "BatchExperiments",
+    "downloads": 53701
+  },
+  {
+    "library": "BatchGetSymbols",
+    "downloads": 81688
+  },
+  {
+    "library": "BatchJobs",
+    "downloads": 218512
+  },
+  {
+    "library": "batchmeans",
+    "downloads": 54945
+  },
+  {
+    "library": "batchr",
+    "downloads": 554
+  },
+  {
+    "library": "batchscr",
+    "downloads": 13547
+  },
+  {
+    "library": "batchtools",
+    "downloads": 143006
+  },
+  {
+    "library": "BaTFLED3D",
+    "downloads": 21532
+  },
+  {
+    "library": "batman",
+    "downloads": 24721
+  },
+  {
+    "library": "batteryreduction",
+    "downloads": 23590
+  },
+  {
+    "library": "BAwiR",
+    "downloads": 23545
+  },
+  {
+    "library": "baycn",
+    "downloads": 8760
+  },
+  {
+    "library": "bayefdr",
+    "downloads": 3777
+  },
+  {
+    "library": "bayes4psy",
+    "downloads": 12730
+  },
+  {
+    "library": "bayesAB",
+    "downloads": 45555
+  },
+  {
+    "library": "bayesammi",
+    "downloads": 15095
+  },
+  {
+    "library": "bayesanova",
+    "downloads": 9436
+  },
+  {
+    "library": "BayesARIMAX",
+    "downloads": 8213
+  },
+  {
+    "library": "BayesBEKK",
+    "downloads": 9017
+  },
+  {
+    "library": "BayesBinMix",
+    "downloads": 26267
+  },
+  {
+    "library": "bayesbio",
+    "downloads": 22761
+  },
+  {
+    "library": "bayesboot",
+    "downloads": 28291
+  },
+  {
+    "library": "BayesBP",
+    "downloads": 9919
+  },
+  {
+    "library": "bayesbr",
+    "downloads": 3633
+  },
+  {
+    "library": "BayesCombo",
+    "downloads": 20455
+  },
+  {
+    "library": "BayesComm",
+    "downloads": 34185
+  },
+  {
+    "library": "bayescopulareg",
+    "downloads": 5236
+  },
+  {
+    "library": "bayescount",
+    "downloads": 39313
+  },
+  {
+    "library": "BayesCR",
+    "downloads": 33683
+  },
+  {
+    "library": "bayesCT",
+    "downloads": 15697
+  },
+  {
+    "library": "BayesCTDesign",
+    "downloads": 13451
+  },
+  {
+    "library": "BayesDA",
+    "downloads": 43533
+  },
+  {
+    "library": "bayesDccGarch",
+    "downloads": 22666
+  },
+  {
+    "library": "bayesdfa",
+    "downloads": 18275
+  },
+  {
+    "library": "bayesdistreg",
+    "downloads": 12201
+  },
+  {
+    "library": "bayesDP",
+    "downloads": 30810
+  },
+  {
+    "library": "BayesESS",
+    "downloads": 15749
+  },
+  {
+    "library": "BayesFactor",
+    "downloads": 393302
+  },
+  {
+    "library": "BayesFM",
+    "downloads": 46002
+  },
+  {
+    "library": "bayesforecast",
+    "downloads": 1139
+  },
+  {
+    "library": "bayesGAM",
+    "downloads": 1551
+  },
+  {
+    "library": "bayesGARCH",
+    "downloads": 65889
+  },
+  {
+    "library": "BayesGESM",
+    "downloads": 31842
+  },
+  {
+    "library": "BayesGOF",
+    "downloads": 28295
+  },
+  {
+    "library": "BayesGPfit",
+    "downloads": 7639
+  },
+  {
+    "library": "BayesGWQS",
+    "downloads": 3874
+  },
+  {
+    "library": "bayesian",
+    "downloads": 1458
+  },
+  {
+    "library": "BayesianAnimalTracker",
+    "downloads": 30887
+  },
+  {
+    "library": "bayesianETAS",
+    "downloads": 23669
+  },
+  {
+    "library": "BayesianFROC",
+    "downloads": 13185
+  },
+  {
+    "library": "Bayesiangammareg",
+    "downloads": 8345
+  },
+  {
+    "library": "BayesianGLasso",
+    "downloads": 18629
+  },
+  {
+    "library": "BayesianLaterality",
+    "downloads": 3004
+  },
+  {
+    "library": "BayesianNetwork",
+    "downloads": 27977
+  },
+  {
+    "library": "BayesianPower",
+    "downloads": 11132
+  },
+  {
+    "library": "BayesianReasoning",
+    "downloads": 3578
+  },
+  {
+    "library": "BayesianTools",
+    "downloads": 44165
+  },
+  {
+    "library": "bayesImageS",
+    "downloads": 34220
+  },
+  {
+    "library": "BayesLCA",
+    "downloads": 51623
+  },
+  {
+    "library": "bayesLife",
+    "downloads": 67405
+  },
+  {
+    "library": "bayeslincom",
+    "downloads": 2781
+  },
+  {
+    "library": "BayesLN",
+    "downloads": 8237
+  },
+  {
+    "library": "BayesLogit",
+    "downloads": 48382
+  },
+  {
+    "library": "bayesloglin",
+    "downloads": 20437
+  },
+  {
+    "library": "bayeslongitudinal",
+    "downloads": 17924
+  },
+  {
+    "library": "bayesm",
+    "downloads": 637843
+  },
+  {
+    "library": "BayesMallows",
+    "downloads": 20180
+  },
+  {
+    "library": "BayesMassBal",
+    "downloads": 3955
+  },
+  {
+    "library": "bayesmeta",
+    "downloads": 52847
+  },
+  {
+    "library": "BayesMFSurv",
+    "downloads": 8197
+  },
+  {
+    "library": "bayesmix",
+    "downloads": 55818
+  },
+  {
+    "library": "BayesMixSurv",
+    "downloads": 29497
+  },
+  {
+    "library": "bayesmove",
+    "downloads": 2451
+  },
+  {
+    "library": "BayesMRA",
+    "downloads": 3423
+  },
+  {
+    "library": "BayesNetBP",
+    "downloads": 23269
+  },
+  {
+    "library": "BayesNI",
+    "downloads": 36293
+  },
+  {
+    "library": "BayesNSGP",
+    "downloads": 9748
+  },
+  {
+    "library": "BayesPieceHazSelect",
+    "downloads": 19851
+  },
+  {
+    "library": "BayesPiecewiseICAR",
+    "downloads": 24740
+  },
+  {
+    "library": "bayesplot",
+    "downloads": 802268
+  },
+  {
+    "library": "bayesPop",
+    "downloads": 76512
+  },
+  {
+    "library": "BayesPostEst",
+    "downloads": 11281
+  },
+  {
+    "library": "bayespref",
+    "downloads": 33813
+  },
+  {
+    "library": "BayesProject",
+    "downloads": 2652
+  },
+  {
+    "library": "bayesQR",
+    "downloads": 59530
+  },
+  {
+    "library": "bayesreg",
+    "downloads": 14596
+  },
+  {
+    "library": "Bayesrel",
+    "downloads": 14315
+  },
+  {
+    "library": "BayesReversePLLH",
+    "downloads": 8558
+  },
+  {
+    "library": "BayesRGMM",
+    "downloads": 209
+  },
+  {
+    "library": "BayesRS",
+    "downloads": 19226
+  },
+  {
+    "library": "bayess",
+    "downloads": 38042
+  },
+  {
+    "library": "BayesS5",
+    "downloads": 24294
+  },
+  {
+    "library": "BayesSAE",
+    "downloads": 34708
+  },
+  {
+    "library": "BayesSampling",
+    "downloads": 4322
+  },
+  {
+    "library": "BayesSenMC",
+    "downloads": 9489
+  },
+  {
+    "library": "BayesSpec",
+    "downloads": 19868
+  },
+  {
+    "library": "BayesSPsurv",
+    "downloads": 3065
+  },
+  {
+    "library": "BayesSUR",
+    "downloads": 12237
+  },
+  {
+    "library": "bayesSurv",
+    "downloads": 67605
+  },
+  {
+    "library": "BayesSurvival",
+    "downloads": 4255
+  },
+  {
+    "library": "bayest",
+    "downloads": 11156
+  },
+  {
+    "library": "bayestestR",
+    "downloads": 600794
+  },
+  {
+    "library": "bayesTFR",
+    "downloads": 81887
+  },
+  {
+    "library": "BayesTree",
+    "downloads": 76842
+  },
+  {
+    "library": "BayesTreePrior",
+    "downloads": 22208
+  },
+  {
+    "library": "BayesTwin",
+    "downloads": 16214
+  },
+  {
+    "library": "BayesValidate",
+    "downloads": 43916
+  },
+  {
+    "library": "BayesVarSel",
+    "downloads": 49475
+  },
+  {
+    "library": "bayesvl",
+    "downloads": 10633
+  },
+  {
+    "library": "BayesX",
+    "downloads": 165930
+  },
+  {
+    "library": "BayesXsrc",
+    "downloads": 108470
+  },
+  {
+    "library": "bayfoxr",
+    "downloads": 11615
+  },
+  {
+    "library": "BayHaz",
+    "downloads": 809642
+  },
+  {
+    "library": "BayLum",
+    "downloads": 21379
+  },
+  {
+    "library": "baymedr",
+    "downloads": 8939
+  },
+  {
+    "library": "BaySIC",
+    "downloads": 33157
+  },
+  {
+    "library": "baystability",
+    "downloads": 15090
+  },
+  {
+    "library": "BAYSTAR",
+    "downloads": 48348
+  },
+  {
+    "library": "baytrends",
+    "downloads": 16020
+  },
+  {
+    "library": "bazar",
+    "downloads": 93320
+  },
+  {
+    "library": "BB",
+    "downloads": 328739
+  },
+  {
+    "library": "BBcor",
+    "downloads": 2637
+  },
+  {
+    "library": "bbdetection",
+    "downloads": 124
+  },
+  {
+    "library": "bbefkr",
+    "downloads": 33138
+  },
+  {
+    "library": "bbemkr",
+    "downloads": 42666
+  },
+  {
+    "library": "BBEST",
+    "downloads": 31063
+  },
+  {
+    "library": "BBI",
+    "downloads": 15688
+  },
+  {
+    "library": "bbl",
+    "downloads": 8753
+  },
+  {
+    "library": "BBmisc",
+    "downloads": 890979
+  },
+  {
+    "library": "bbmle",
+    "downloads": 553069
+  },
+  {
+    "library": "BBMM",
+    "downloads": 48641
+  },
+  {
+    "library": "BBMV",
+    "downloads": 20168
+  },
+  {
+    "library": "bbo",
+    "downloads": 34530
+  },
+  {
+    "library": "bbotk",
+    "downloads": 20529
+  },
+  {
+    "library": "BBRecapture",
+    "downloads": 31451
+  },
+  {
+    "library": "bbreg",
+    "downloads": 7517
+  },
+  {
+    "library": "bbricks",
+    "downloads": 7739
+  },
+  {
+    "library": "bbsBayes",
+    "downloads": 6234
+  },
+  {
+    "library": "bbw",
+    "downloads": 16269
+  },
+  {
+    "library": "bc3net",
+    "downloads": 39947
+  },
+  {
+    "library": "BCA",
+    "downloads": 61471
+  },
+  {
+    "library": "BCA1SG",
+    "downloads": 8073
+  },
+  {
+    "library": "bcaboot",
+    "downloads": 14328
+  },
+  {
+    "library": "BCBCSF",
+    "downloads": 44679
+  },
+  {
+    "library": "bcc",
+    "downloads": 4261
+  },
+  {
+    "library": "BCC1997",
+    "downloads": 28205
+  },
+  {
+    "library": "bccp",
+    "downloads": 2408
+  },
+  {
+    "library": "bcdata",
+    "downloads": 12002
+  },
+  {
+    "library": "BCDating",
+    "downloads": 39853
+  },
+  {
+    "library": "BcDiag",
+    "downloads": 49258
+  },
+  {
+    "library": "BCE",
+    "downloads": 41855
+  },
+  {
+    "library": "BCEA",
+    "downloads": 53561
+  },
+  {
+    "library": "BCEE",
+    "downloads": 27865
+  },
+  {
+    "library": "BCellMA",
+    "downloads": 21293
+  },
+  {
+    "library": "bcf",
+    "downloads": 15678
+  },
+  {
+    "library": "bcfrailph",
+    "downloads": 3491
+  },
+  {
+    "library": "bcfrailphdv",
+    "downloads": 1754
+  },
+  {
+    "library": "bcgam",
+    "downloads": 14540
+  },
+  {
+    "library": "BCgee",
+    "downloads": 18446
+  },
+  {
+    "library": "BCHM",
+    "downloads": 9199
+  },
+  {
+    "library": "Bchron",
+    "downloads": 73299
+  },
+  {
+    "library": "BClustLonG",
+    "downloads": 16136
+  },
+  {
+    "library": "bcmaps",
+    "downloads": 21477
+  },
+  {
+    "library": "bcmixed",
+    "downloads": 7440
+  },
+  {
+    "library": "bcp",
+    "downloads": 364444
+  },
+  {
+    "library": "bcpa",
+    "downloads": 39621
+  },
+  {
+    "library": "bcpmeta",
+    "downloads": 28497
+  },
+  {
+    "library": "BCRA",
+    "downloads": 35638
+  },
+  {
+    "library": "bcrm",
+    "downloads": 47593
+  },
+  {
+    "library": "bcROCsurface",
+    "downloads": 23264
+  },
+  {
+    "library": "bcrypt",
+    "downloads": 41142
+  },
+  {
+    "library": "BCSub",
+    "downloads": 21588
+  },
+  {
+    "library": "BCT",
+    "downloads": 1895
+  },
+  {
+    "library": "bcTSNE",
+    "downloads": 4268
+  },
+  {
+    "library": "bcv",
+    "downloads": 53411
+  },
+  {
+    "library": "bda",
+    "downloads": 60311
+  },
+  {
+    "library": "bdchecks",
+    "downloads": 12797
+  },
+  {
+    "library": "bdclean",
+    "downloads": 11768
+  },
+  {
+    "library": "bdDwC",
+    "downloads": 14635
+  },
+  {
+    "library": "bde",
+    "downloads": 29017
+  },
+  {
+    "library": "BDEsize",
+    "downloads": 12127
+  },
+  {
+    "library": "BDgraph",
+    "downloads": 574160
+  },
+  {
+    "library": "bdl",
+    "downloads": 7520
+  },
+  {
+    "library": "bdlp",
+    "downloads": 6442
+  },
+  {
+    "library": "bdots",
+    "downloads": 29132
+  },
+  {
+    "library": "BDP2",
+    "downloads": 13910
+  },
+  {
+    "library": "bdpar",
+    "downloads": 11223
+  },
+  {
+    "library": "bdpopt",
+    "downloads": 21873
+  },
+  {
+    "library": "bdpv",
+    "downloads": 40160
+  },
+  {
+    "library": "bdribs",
+    "downloads": 14070
+  },
+  {
+    "library": "bdscale",
+    "downloads": 32136
+  },
+  {
+    "library": "bdsmatrix",
+    "downloads": 1389099
+  },
+  {
+    "library": "bdvis",
+    "downloads": 41923
+  },
+  {
+    "library": "BDWreg",
+    "downloads": 0
+  },
+  {
+    "library": "bdynsys",
+    "downloads": 0
+  },
+  {
+    "library": "BE",
+    "downloads": 0
+  },
+  {
+    "library": "bea.R",
+    "downloads": 0
+  },
+  {
+    "library": "BEACH",
+    "downloads": 0
+  },
+  {
+    "library": "beadarrayFilter",
+    "downloads": 0
+  },
+  {
+    "library": "beadplexr",
+    "downloads": 0
+  },
+  {
+    "library": "beakr",
+    "downloads": 0
+  },
+  {
+    "library": "beam",
+    "downloads": 0
+  },
+  {
+    "library": "beanplot",
+    "downloads": 0
+  },
+  {
+    "library": "beanz",
+    "downloads": 0
+  },
+  {
+    "library": "beast",
+    "downloads": 0
+  },
+  {
+    "library": "beastier",
+    "downloads": 0
+  },
+  {
+    "library": "BeastJar",
+    "downloads": 0
+  },
+  {
+    "library": "beautier",
+    "downloads": 0
+  },
+  {
+    "library": "BED",
+    "downloads": 0
+  },
+  {
+    "library": "BEDASSLE",
+    "downloads": 0
+  },
+  {
+    "library": "BEDMatrix",
+    "downloads": 0
+  },
+  {
+    "library": "bedr",
+    "downloads": 0
+  },
+  {
+    "library": "beepr",
+    "downloads": 0
+  },
+  {
+    "library": "beeswarm",
+    "downloads": 0
+  },
+  {
+    "library": "beezdemand",
+    "downloads": 0
+  },
+  {
+    "library": "befproj",
+    "downloads": 0
+  },
+  {
+    "library": "beginr",
+    "downloads": 0
+  },
+  {
+    "library": "behaviorchange",
+    "downloads": 0
+  },
+  {
+    "library": "behavr",
+    "downloads": 0
+  },
+  {
+    "library": "belex",
+    "downloads": 0
+  },
+  {
+    "library": "belg",
+    "downloads": 0
+  },
+  {
+    "library": "bellreg",
+    "downloads": 0
+  },
+  {
+    "library": "bench",
+    "downloads": 0
+  },
+  {
+    "library": "benchden",
+    "downloads": 0
+  },
+  {
+    "library": "Benchmarking",
+    "downloads": 0
+  },
+  {
+    "library": "benchmarkme",
+    "downloads": 0
+  },
+  {
+    "library": "benchmarkmeData",
+    "downloads": 0
+  },
+  {
+    "library": "benchr",
+    "downloads": 0
+  },
+  {
+    "library": "bender",
+    "downloads": 0
+  },
+  {
+    "library": "benford",
+    "downloads": 0
+  },
+  {
+    "library": "benford.analysis",
+    "downloads": 0
+  },
+  {
+    "library": "BenfordTests",
+    "downloads": 0
+  },
+  {
+    "library": "BENMMI",
+    "downloads": 0
+  },
+  {
+    "library": "bentcableAR",
+    "downloads": 0
+  },
+  {
+    "library": "benthos",
+    "downloads": 0
+  },
+  {
+    "library": "Bergm",
+    "downloads": 0
+  },
+  {
+    "library": "berryFunctions",
+    "downloads": 0
+  },
+  {
+    "library": "BeSS",
+    "downloads": 0
+  },
+  {
+    "library": "Bessel",
+    "downloads": 0
+  },
+  {
+    "library": "BEST",
+    "downloads": 0
+  },
+  {
+    "library": "bestglm",
+    "downloads": 0
+  },
+  {
+    "library": "Bestie",
+    "downloads": 0
+  },
+  {
+    "library": "bestNormalize",
+    "downloads": 0
+  },
+  {
+    "library": "BESTree",
+    "downloads": 0
+  },
+  {
+    "library": "bestridge",
+    "downloads": 0
+  },
+  {
+    "library": "bestSDP",
+    "downloads": 0
+  },
+  {
+    "library": "BET",
+    "downloads": 0
+  },
+  {
+    "library": "BetaBit",
+    "downloads": 0
+  },
+  {
+    "library": "betaboost",
+    "downloads": 0
+  },
+  {
+    "library": "betacal",
+    "downloads": 0
+  },
+  {
+    "library": "betafam",
+    "downloads": 0
+  },
+  {
+    "library": "betafunctions",
+    "downloads": 0
+  },
+  {
+    "library": "betalink",
+    "downloads": 0
+  },
+  {
+    "library": "betapart",
+    "downloads": 0
+  },
+  {
+    "library": "BetaPASS",
+    "downloads": 0
+  },
+  {
+    "library": "betaper",
+    "downloads": 0
+  },
+  {
+    "library": "betareg",
+    "downloads": 0
+  },
+  {
+    "library": "betategarch",
+    "downloads": 0
+  },
+  {
+    "library": "bethel",
+    "downloads": 0
+  },
+  {
+    "library": "BETS",
+    "downloads": 0
+  },
+  {
+    "library": "bets.covid19",
+    "downloads": 0
+  },
+  {
+    "library": "bettermc",
+    "downloads": 0
+  },
+  {
+    "library": "BeviMed",
+    "downloads": 0
+  },
+  {
+    "library": "BeyondBenford",
+    "downloads": 0
+  },
+  {
+    "library": "beyondWhittle",
+    "downloads": 0
+  },
+  {
+    "library": "bezier",
+    "downloads": 0
+  },
+  {
+    "library": "bfast",
+    "downloads": 0
+  },
+  {
+    "library": "bfp",
+    "downloads": 0
+  },
+  {
+    "library": "BFpack",
+    "downloads": 0
+  },
+  {
+    "library": "BFS",
+    "downloads": 0
+  },
+  {
+    "library": "bfsl",
+    "downloads": 0
+  },
+  {
+    "library": "bfsMaps",
+    "downloads": 0
+  },
+  {
+    "library": "bfw",
+    "downloads": 0
+  },
+  {
+    "library": "BGData",
+    "downloads": 0
+  },
+  {
+    "library": "bgeva",
+    "downloads": 0
+  },
+  {
+    "library": "bggAnalytics",
+    "downloads": 0
+  },
+  {
+    "library": "BGGE",
+    "downloads": 0
+  },
+  {
+    "library": "BGGM",
+    "downloads": 0
+  },
+  {
+    "library": "bggum",
+    "downloads": 0
+  },
+  {
+    "library": "BGLR",
+    "downloads": 0
+  },
+  {
+    "library": "bgmfiles",
+    "downloads": 0
+  },
+  {
+    "library": "BGmisc",
+    "downloads": 0
+  },
+  {
+    "library": "bgmm",
+    "downloads": 0
+  },
+  {
+    "library": "BGPhazard",
+    "downloads": 0
+  },
+  {
+    "library": "BGSIMD",
+    "downloads": 0
+  },
+  {
+    "library": "bgsmtr",
+    "downloads": 0
+  },
+  {
+    "library": "bgumbel",
+    "downloads": 0
+  },
+  {
+    "library": "BGVAR",
+    "downloads": 0
+  },
+  {
+    "library": "BH",
+    "downloads": 0
+  },
+  {
+    "library": "BHAI",
+    "downloads": 0
+  },
+  {
+    "library": "Bhat",
+    "downloads": 0
+  },
+  {
+    "library": "BHH2",
+    "downloads": 0
+  },
+  {
+    "library": "bhm",
+    "downloads": 0
+  },
+  {
+    "library": "bhmbasket",
+    "downloads": 0
+  },
+  {
+    "library": "BHMSMAfMRI",
+    "downloads": 0
+  },
+  {
+    "library": "bhpm",
+    "downloads": 0
+  },
+  {
+    "library": "BHSBVAR",
+    "downloads": 0
+  },
+  {
+    "library": "BHTSpack",
+    "downloads": 0
+  },
+  {
+    "library": "biasbetareg",
+    "downloads": 0
+  },
+  {
+    "library": "BiasCorrector",
+    "downloads": 0
+  },
+  {
+    "library": "BiasedUrn",
+    "downloads": 0
+  },
+  {
+    "library": "bib2df",
+    "downloads": 0
+  },
+  {
+    "library": "BiBitR",
+    "downloads": 0
+  },
+  {
+    "library": "bibliometrix",
+    "downloads": 0
+  },
+  {
+    "library": "bibliometrixData",
+    "downloads": 0
+  },
+  {
+    "library": "biblionetwork",
+    "downloads": 0
+  },
+  {
+    "library": "BibPlots",
+    "downloads": 0
+  },
+  {
+    "library": "bibtex",
+    "downloads": 0
+  },
+  {
+    "library": "biclique",
+    "downloads": 0
+  },
+  {
+    "library": "biclust",
+    "downloads": 0
+  },
+  {
+    "library": "biclustermd",
+    "downloads": 0
+  },
+  {
+    "library": "BICORN",
+    "downloads": 0
+  },
+  {
+    "library": "BiDAG",
+    "downloads": 0
+  },
+  {
+    "library": "BiDimRegression",
+    "downloads": 0
+  },
+  {
+    "library": "BIEN",
+    "downloads": 0
+  },
+  {
+    "library": "bife",
+    "downloads": 0
+  },
+  {
+    "library": "BIFIEsurvey",
+    "downloads": 0
+  },
+  {
+    "library": "bifurcatingr",
+    "downloads": 0
+  },
+  {
+    "library": "biganalytics",
+    "downloads": 0
+  },
+  {
+    "library": "bigassertr",
+    "downloads": 0
+  },
+  {
+    "library": "bigchess",
+    "downloads": 0
+  },
+  {
+    "library": "bigdatadist",
+    "downloads": 0
+  },
+  {
+    "library": "BIGDAWG",
+    "downloads": 0
+  },
+  {
+    "library": "bigdist",
+    "downloads": 0
+  },
+  {
+    "library": "bigGP",
+    "downloads": 0
+  },
+  {
+    "library": "BIGL",
+    "downloads": 0
+  },
+  {
+    "library": "biglasso",
+    "downloads": 0
+  },
+  {
+    "library": "bigleaf",
+    "downloads": 0
+  },
+  {
+    "library": "biglm",
+    "downloads": 0
+  },
+  {
+    "library": "biglmm",
+    "downloads": 0
+  },
+  {
+    "library": "bigMap",
+    "downloads": 0
+  },
+  {
+    "library": "bigmatch",
+    "downloads": 0
+  },
+  {
+    "library": "bigmds",
+    "downloads": 0
+  },
+  {
+    "library": "bigmemory",
+    "downloads": 0
+  },
+  {
+    "library": "bigmemory.sri",
+    "downloads": 0
+  },
+  {
+    "library": "bigparallelr",
+    "downloads": 0
+  },
+  {
+    "library": "bigQueryR",
+    "downloads": 0
+  },
+  {
+    "library": "BigQuic",
+    "downloads": 0
+  },
+  {
+    "library": "bigreadr",
+    "downloads": 0
+  },
+  {
+    "library": "bigReg",
+    "downloads": 0
+  },
+  {
+    "library": "bigrquery",
+    "downloads": 0
+  },
+  {
+    "library": "bigsnpr",
+    "downloads": 0
+  },
+  {
+    "library": "bigsparser",
+    "downloads": 0
+  },
+  {
+    "library": "bigsplines",
+    "downloads": 0
+  },
+  {
+    "library": "bigstatsr",
+    "downloads": 0
+  },
+  {
+    "library": "bigstep",
+    "downloads": 0
+  },
+  {
+    "library": "bigSurvSGD",
+    "downloads": 0
+  },
+  {
+    "library": "bigtabulate",
+    "downloads": 0
+  },
+  {
+    "library": "bigtcr",
+    "downloads": 0
+  },
+  {
+    "library": "bigtime",
+    "downloads": 0
+  },
+  {
+    "library": "BigTSP",
+    "downloads": 0
+  },
+  {
+    "library": "bigutilsr",
+    "downloads": 0
+  },
+  {
+    "library": "BigVAR",
+    "downloads": 0
+  },
+  {
+    "library": "bikeshare14",
+    "downloads": 0
+  },
+  {
+    "library": "bikm1",
+    "downloads": 0
+  },
+  {
+    "library": "bild",
+    "downloads": 0
+  },
+  {
+    "library": "billboard",
+    "downloads": 0
+  },
+  {
+    "library": "billboarder",
+    "downloads": 0
+  },
+  {
+    "library": "bimetallic",
+    "downloads": 0
+  },
+  {
+    "library": "bimets",
+    "downloads": 0
+  },
+  {
+    "library": "bimixt",
+    "downloads": 0
+  },
+  {
+    "library": "BimodalIndex",
+    "downloads": 0
+  },
+  {
+    "library": "Binarize",
+    "downloads": 0
+  },
+  {
+    "library": "BinarybalancedCut",
+    "downloads": 0
+  },
+  {
+    "library": "BinaryDosage",
+    "downloads": 0
+  },
+  {
+    "library": "BinaryEMVS",
+    "downloads": 0
+  },
+  {
+    "library": "BinaryEPPM",
+    "downloads": 0
+  },
+  {
     "library": "binaryGP",
-    "downloads": 17628
+    "downloads": 0
   },
   {
     "library": "binaryLogic",
-    "downloads": 55473
+    "downloads": 0
   },
   {
     "library": "binb",
-    "downloads": 21116
+    "downloads": 0
   },
   {
     "library": "BINCOR",
-    "downloads": 16217
+    "downloads": 0
   },
   {
     "library": "binda",
-    "downloads": 79553
+    "downloads": 0
   },
   {
     "library": "bindata",
-    "downloads": 54832
+    "downloads": 0
   },
   {
     "library": "bindr",
-    "downloads": 5548303
+    "downloads": 0
   },
   {
     "library": "bindrcpp",
-    "downloads": 6147386
+    "downloads": 0
   },
   {
     "library": "binequality",
-    "downloads": 31311
+    "downloads": 0
   },
   {
     "library": "binford",
-    "downloads": 19934
+    "downloads": 0
   },
   {
     "library": "bingat",
-    "downloads": 31655
+    "downloads": 0
   },
   {
     "library": "binGroup",
-    "downloads": 139854
+    "downloads": 0
   },
   {
     "library": "binGroup2",
-    "downloads": 6576
+    "downloads": 0
   },
   {
     "library": "BinGSD",
-    "downloads": 8998
+    "downloads": 0
   },
   {
     "library": "binhf",
-    "downloads": 57041
+    "downloads": 0
   },
   {
     "library": "binman",
-    "downloads": 189358
+    "downloads": 0
   },
   {
     "library": "BinMat",
-    "downloads": 7275
+    "downloads": 0
   },
   {
     "library": "binMto",
-    "downloads": 39561
+    "downloads": 0
   },
   {
     "library": "binnednp",
-    "downloads": 18290
+    "downloads": 0
   },
   {
     "library": "BinNonNor",
-    "downloads": 36779
+    "downloads": 0
   },
   {
     "library": "BinNor",
-    "downloads": 39620
+    "downloads": 0
   },
   {
     "library": "binom",
-    "downloads": 272429
+    "downloads": 0
   },
   {
     "library": "binomialcftp",
-    "downloads": 34324
+    "downloads": 0
   },
   {
     "library": "binomialMix",
-    "downloads": 6891
+    "downloads": 0
   },
   {
     "library": "binomialRF",
-    "downloads": 8547
+    "downloads": 0
   },
   {
     "library": "binomlogit",
-    "downloads": 35676
+    "downloads": 0
   },
   {
     "library": "binomSamSize",
-    "downloads": 37862
+    "downloads": 0
   },
   {
     "library": "BinOrdNonNor",
-    "downloads": 35469
+    "downloads": 0
   },
   {
     "library": "binovisualfields",
-    "downloads": 6920
+    "downloads": 0
   },
   {
     "library": "BinQuasi",
-    "downloads": 12784
+    "downloads": 0
   },
   {
     "library": "binr",
-    "downloads": 81620
+    "downloads": 0
   },
   {
     "library": "BinSegBstrap",
-    "downloads": 8291
+    "downloads": 0
   },
   {
     "library": "binsegRcpp",
-    "downloads": 2881
+    "downloads": 0
   },
   {
     "library": "binseqtest",
-    "downloads": 37388
+    "downloads": 0
   },
   {
     "library": "binsmooth",
-    "downloads": 22139
+    "downloads": 0
   },
   {
     "library": "binsreg",
-    "downloads": 13138
+    "downloads": 0
   },
   {
     "library": "binst",
-    "downloads": 22431
+    "downloads": 0
   },
   {
     "library": "bio.infer",
-    "downloads": 43688
+    "downloads": 0
   },
   {
     "library": "bio3d",
-    "downloads": 92844
+    "downloads": 0
   },
   {
     "library": "bioacoustics",
-    "downloads": 31533
+    "downloads": 0
   },
   {
     "library": "bioassays",
-    "downloads": 3055
+    "downloads": 0
   },
   {
     "library": "bioC.logs",
-    "downloads": 7595
+    "downloads": 0
   },
   {
     "library": "BioCircos",
-    "downloads": 23736
+    "downloads": 0
   },
   {
     "library": "BiocManager",
-    "downloads": 2426832
+    "downloads": 0
   },
   {
     "library": "Biocomb",
-    "downloads": 34932
+    "downloads": 0
   },
   {
     "library": "biocompute",
-    "downloads": 9218
+    "downloads": 0
   },
   {
     "library": "Biodem",
-    "downloads": 48956
+    "downloads": 0
   },
   {
     "library": "BiodiversityR",
-    "downloads": 189844
+    "downloads": 0
   },
   {
     "library": "BIOdry",
-    "downloads": 26422
+    "downloads": 0
   },
   {
     "library": "BioFTF",
-    "downloads": 22739
+    "downloads": 0
   },
   {
     "library": "biogas",
-    "downloads": 44298
+    "downloads": 0
   },
   {
     "library": "biogeo",
-    "downloads": 24828
+    "downloads": 0
   },
   {
     "library": "biogram",
-    "downloads": 35909
+    "downloads": 0
   },
   {
     "library": "biogrowth",
-    "downloads": 2904
+    "downloads": 0
   },
   {
     "library": "Bioi",
-    "downloads": 16615
+    "downloads": 0
   },
   {
     "library": "bioimagetools",
-    "downloads": 27904
+    "downloads": 0
   },
   {
     "library": "bioinactivation",
-    "downloads": 30097
+    "downloads": 0
   },
   {
     "library": "BioInsight",
-    "downloads": 3570
+    "downloads": 0
   },
   {
     "library": "biolink",
-    "downloads": 23349
+    "downloads": 0
   },
   {
     "library": "Biolinv",
-    "downloads": 19990
+    "downloads": 0
   },
   {
     "library": "BIOM.utils",
-    "downloads": 32753
+    "downloads": 0
   },
   {
     "library": "BioMark",
-    "downloads": 40648
+    "downloads": 0
   },
   {
     "library": "biomartr",
-    "downloads": 74853
+    "downloads": 0
   },
   {
     "library": "BioMedR",
-    "downloads": 10554
+    "downloads": 0
   },
   {
     "library": "biomod2",
-    "downloads": 107881
+    "downloads": 0
   },
   {
     "library": "bionetdata",
-    "downloads": 35972
+    "downloads": 0
   },
   {
     "library": "bioOED",
-    "downloads": 21564
+    "downloads": 0
   },
   {
     "library": "Biopeak",
-    "downloads": 9553
+    "downloads": 0
   },
   {
     "library": "BioPET",
-    "downloads": 22874
+    "downloads": 0
   },
   {
     "library": "BioPETsurv",
-    "downloads": 7662
+    "downloads": 0
   },
   {
     "library": "bioPN",
-    "downloads": 31166
+    "downloads": 0
   },
   {
     "library": "BioProbability",
-    "downloads": 13020
+    "downloads": 0
   },
   {
     "library": "bioRad",
-    "downloads": 13663
+    "downloads": 0
   },
   {
     "library": "biorxivr",
-    "downloads": 14036
+    "downloads": 0
   },
   {
     "library": "Bios2cor",
-    "downloads": 23840
+    "downloads": 0
   },
   {
     "library": "bios2mds",
-    "downloads": 39521
+    "downloads": 0
   },
   {
     "library": "bioseq",
-    "downloads": 4244
+    "downloads": 0
   },
   {
     "library": "bioset",
-    "downloads": 18321
+    "downloads": 0
   },
   {
     "library": "biosignalEMG",
-    "downloads": 31098
+    "downloads": 0
   },
   {
     "library": "biospear",
-    "downloads": 17774
+    "downloads": 0
   },
   {
     "library": "biostat3",
-    "downloads": 16896
+    "downloads": 0
   },
   {
     "library": "Biostatistics",
-    "downloads": 1681
+    "downloads": 0
   },
   {
     "library": "BioStatR",
-    "downloads": 54586
+    "downloads": 0
   },
   {
     "library": "Biotech",
-    "downloads": 3381
+    "downloads": 0
   },
   {
     "library": "biotic",
-    "downloads": 21451
+    "downloads": 0
   },
   {
     "library": "biotools",
-    "downloads": 110021
+    "downloads": 0
   },
   {
     "library": "BioVenn",
-    "downloads": 4725
+    "downloads": 0
   },
   {
     "library": "bipartite",
-    "downloads": 167515
+    "downloads": 0
   },
   {
     "library": "bipartiteD3",
-    "downloads": 14083
+    "downloads": 0
   },
   {
     "library": "biplotbootGUI",
-    "downloads": 34506
+    "downloads": 0
   },
   {
     "library": "BiplotGUI",
-    "downloads": 33069
+    "downloads": 0
   },
   {
     "library": "BiProbitPartial",
-    "downloads": 12562
+    "downloads": 0
   },
   {
     "library": "birankr",
-    "downloads": 7883
+    "downloads": 0
   },
   {
     "library": "birdring",
-    "downloads": 32745
+    "downloads": 0
   },
   {
     "library": "BIRDS",
-    "downloads": 8250
+    "downloads": 0
   },
   {
     "library": "birk",
-    "downloads": 42579
+    "downloads": 0
   },
   {
     "library": "birtr",
-    "downloads": 18548
+    "downloads": 0
   },
   {
     "library": "BIS",
-    "downloads": 20946
+    "downloads": 0
   },
   {
     "library": "biscale",
-    "downloads": 12515
+    "downloads": 0
   },
   {
     "library": "bisect",
-    "downloads": 13732
+    "downloads": 0
   },
   {
     "library": "bisectr",
-    "downloads": 31843
+    "downloads": 0
   },
   {
     "library": "BiSEp",
-    "downloads": 29254
+    "downloads": 0
   },
   {
     "library": "bisque",
-    "downloads": 11981
+    "downloads": 0
   },
   {
     "library": "BisqueRNA",
-    "downloads": 13278
+    "downloads": 0
   },
   {
     "library": "BisRNA",
-    "downloads": 19274
+    "downloads": 0
   },
   {
     "library": "bit",
-    "downloads": 6065634
+    "downloads": 0
   },
   {
     "library": "bit64",
-    "downloads": 5329636
+    "downloads": 0
   },
   {
     "library": "bite",
-    "downloads": 4471
+    "downloads": 0
   },
   {
     "library": "bitmexr",
-    "downloads": 4974
+    "downloads": 0
   },
   {
     "library": "bitops",
-    "downloads": 13809654
+    "downloads": 0
   },
   {
     "library": "BiTrinA",
-    "downloads": 28542
+    "downloads": 0
   },
   {
     "library": "bitsqueezr",
-    "downloads": 12066
+    "downloads": 0
   },
   {
     "library": "biva",
-    "downloads": 13005
+    "downloads": 0
   },
   {
     "library": "bivariate",
-    "downloads": 26972
+    "downloads": 0
   },
   {
     "library": "Bivariate.Pareto",
-    "downloads": 18907
+    "downloads": 0
   },
   {
     "library": "BivarP",
-    "downloads": 28844
+    "downloads": 0
   },
   {
     "library": "BivGeo",
-    "downloads": 17722
+    "downloads": 0
   },
   {
     "library": "bivgeom",
-    "downloads": 14130
+    "downloads": 0
   },
   {
     "library": "bivquant",
-    "downloads": 9402
+    "downloads": 0
   },
   {
     "library": "BivRec",
-    "downloads": 13154
+    "downloads": 0
   },
   {
     "library": "BivRegBLS",
-    "downloads": 19229
+    "downloads": 0
   },
   {
     "library": "bivrp",
-    "downloads": 20807
+    "downloads": 0
   },
   {
     "library": "BivUnifBin",
-    "downloads": 25470
+    "downloads": 0
   },
   {
     "library": "biwavelet",
-    "downloads": 65794
+    "downloads": 0
   },
   {
     "library": "biwt",
-    "downloads": 39535
+    "downloads": 0
   },
   {
     "library": "bizdays",
-    "downloads": 323670
+    "downloads": 0
   },
   {
     "library": "bjscrapeR",
