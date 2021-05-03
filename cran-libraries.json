@@ -4528,10 +4528,6 @@
     "downloads": 834
   },
   {
-    "library": "bigalgebra",
-    "downloads": 24067
-  },
-  {
     "library": "biganalytics",
     "downloads": 87576
   },
@@ -11292,6 +11288,10 @@
     "downloads": 12873
   },
   {
+    "library": "cry",
+    "downloads": 0
+  },
+  {
     "library": "CrypticIBDcheck",
     "downloads": 32398
   },
@@ -15954,6 +15954,10 @@
   {
     "library": "ecp",
     "downloads": 85431
+  },
+  {
+    "library": "ecpc",
+    "downloads": 0
   },
   {
     "library": "ecr",
@@ -24972,6 +24976,10 @@
     "downloads": 161979
   },
   {
+    "library": "gsignal",
+    "downloads": 0
+  },
+  {
     "library": "gsisdecoder",
     "downloads": 6194
   },
@@ -27593,2811 +27601,2815 @@
   },
   {
     "library": "IFAA",
-    "downloads": 2343
+    "downloads": 0
   },
   {
     "library": "iFad",
-    "downloads": 27374
+    "downloads": 0
   },
   {
     "library": "ifaTools",
-    "downloads": 34690
+    "downloads": 0
   },
   {
     "library": "IFC",
-    "downloads": 4215
+    "downloads": 0
   },
   {
     "library": "ifctools",
-    "downloads": 20608
+    "downloads": 0
   },
   {
     "library": "iForecast",
-    "downloads": 2365
+    "downloads": 0
   },
   {
     "library": "IFP",
-    "downloads": 26009
+    "downloads": 0
   },
   {
     "library": "ifs",
-    "downloads": 34999
+    "downloads": 0
   },
   {
     "library": "ifultools",
-    "downloads": 164519
+    "downloads": 0
   },
   {
     "library": "ig.vancouver.2014.topcolour",
-    "downloads": 22919
+    "downloads": 0
   },
   {
     "library": "IgAScores",
-    "downloads": 3003
+    "downloads": 0
   },
   {
     "library": "iGasso",
-    "downloads": 29621
+    "downloads": 0
   },
   {
     "library": "igate",
-    "downloads": 8517
+    "downloads": 0
   },
   {
     "library": "IGG",
-    "downloads": 12272
+    "downloads": 0
   },
   {
     "library": "iglu",
-    "downloads": 4280
+    "downloads": 0
   },
   {
     "library": "igoR",
-    "downloads": 1312
+    "downloads": 0
   },
   {
     "library": "IgorR",
-    "downloads": 32587
+    "downloads": 0
   },
   {
     "library": "IGP",
-    "downloads": 15163
+    "downloads": 0
   },
   {
     "library": "igraph",
-    "downloads": 10959792
+    "downloads": 0
   },
   {
     "library": "igraphdata",
-    "downloads": 260490
+    "downloads": 0
   },
   {
     "library": "igraphinshiny",
-    "downloads": 21262
+    "downloads": 0
   },
   {
     "library": "iGraphMatch",
-    "downloads": 1408
+    "downloads": 0
   },
   {
     "library": "igraphtosonia",
-    "downloads": 30162
+    "downloads": 0
   },
   {
     "library": "iGSEA",
-    "downloads": 17984
+    "downloads": 0
   },
   {
     "library": "IGST",
-    "downloads": 6792
+    "downloads": 0
   },
   {
     "library": "iheatmapr",
-    "downloads": 24681
+    "downloads": 0
   },
   {
     "library": "ihpdr",
-    "downloads": 10138
+    "downloads": 0
   },
   {
     "library": "IHSEP",
-    "downloads": 17940
+    "downloads": 0
   },
   {
     "library": "iilasso",
-    "downloads": 12591
+    "downloads": 0
   },
   {
     "library": "iIneq",
-    "downloads": 5364
+    "downloads": 0
   },
   {
     "library": "ijtiff",
-    "downloads": 37163
+    "downloads": 0
   },
   {
     "library": "ilc",
-    "downloads": 23917
+    "downloads": 0
   },
   {
     "library": "ILS",
-    "downloads": 18995
+    "downloads": 0
   },
   {
     "library": "imabc",
-    "downloads": 246
+    "downloads": 0
   },
   {
     "library": "IMAGE",
-    "downloads": 9324
+    "downloads": 0
   },
   {
     "library": "image.binarization",
-    "downloads": 2795
+    "downloads": 0
   },
   {
     "library": "image.CannyEdges",
-    "downloads": 3674
+    "downloads": 0
   },
   {
     "library": "image.ContourDetector",
-    "downloads": 4003
+    "downloads": 0
   },
   {
     "library": "image.CornerDetectionF9",
-    "downloads": 3560
+    "downloads": 0
   },
   {
     "library": "image.CornerDetectionHarris",
-    "downloads": 3858
+    "downloads": 0
   },
   {
     "library": "image.dlib",
-    "downloads": 3676
+    "downloads": 0
   },
   {
     "library": "image.libfacedetection",
-    "downloads": 3744
+    "downloads": 0
   },
   {
     "library": "image.LineSegmentDetector",
-    "downloads": 3699
+    "downloads": 0
   },
   {
     "library": "image.Otsu",
-    "downloads": 3555
+    "downloads": 0
   },
   {
     "library": "image.textlinedetector",
-    "downloads": 4281
+    "downloads": 0
   },
   {
     "library": "imageData",
-    "downloads": 24162
+    "downloads": 0
   },
   {
     "library": "imagefluency",
-    "downloads": 10988
+    "downloads": 0
   },
   {
     "library": "imagefx",
-    "downloads": 9713
+    "downloads": 0
   },
   {
     "library": "imager",
-    "downloads": 423632
+    "downloads": 0
   },
   {
     "library": "imagerExtra",
-    "downloads": 19290
+    "downloads": 0
   },
   {
     "library": "IMaGES",
-    "downloads": 11094
+    "downloads": 0
   },
   {
     "library": "imageviewer",
-    "downloads": 10459
+    "downloads": 0
   },
   {
     "library": "imagine",
-    "downloads": 22592
+    "downloads": 0
   },
   {
     "library": "ImaginR",
-    "downloads": 15879
+    "downloads": 0
   },
   {
     "library": "IMak",
-    "downloads": 24708
+    "downloads": 0
   },
   {
     "library": "Imap",
-    "downloads": 57474
+    "downloads": 0
   },
   {
     "library": "imbalance",
-    "downloads": 54559
+    "downloads": 0
   },
   {
     "library": "imbibe",
-    "downloads": 2277
+    "downloads": 0
   },
   {
     "library": "imdbapi",
-    "downloads": 13037
+    "downloads": 0
   },
   {
     "library": "IMEC",
-    "downloads": 1462
+    "downloads": 0
   },
   {
     "library": "iMediate",
-    "downloads": 19998
+    "downloads": 0
   },
   {
     "library": "IMFData",
-    "downloads": 23508
+    "downloads": 0
   },
   {
     "library": "imfr",
-    "downloads": 29399
+    "downloads": 0
   },
   {
     "library": "imgpalr",
-    "downloads": 9653
+    "downloads": 0
   },
   {
     "library": "imgrec",
-    "downloads": 9199
+    "downloads": 0
   },
   {
     "library": "imguR",
-    "downloads": 49636
+    "downloads": 0
   },
   {
     "library": "IMIFA",
-    "downloads": 24945
+    "downloads": 0
   },
   {
     "library": "IMIX",
-    "downloads": 1812
+    "downloads": 0
   },
   {
     "library": "iml",
-    "downloads": 132817
+    "downloads": 0
   },
   {
     "library": "IMmailgun",
-    "downloads": 11426
+    "downloads": 0
   },
   {
     "library": "immcp",
-    "downloads": 2410
+    "downloads": 0
   },
   {
     "library": "immer",
-    "downloads": 30325
+    "downloads": 0
   },
   {
     "library": "Immigrate",
-    "downloads": 12447
+    "downloads": 0
   },
   {
     "library": "immuneSIM",
-    "downloads": 8166
+    "downloads": 0
   },
   {
     "library": "IMP",
-    "downloads": 20077
+    "downloads": 0
   },
   {
     "library": "imp4p",
-    "downloads": 28485
+    "downloads": 0
   },
   {
     "library": "IMPACT",
-    "downloads": 21755
+    "downloads": 0
   },
   {
     "library": "ImpactEffectsize",
-    "downloads": 11088
+    "downloads": 0
   },
   {
     "library": "impactflu",
-    "downloads": 5656
+    "downloads": 0
   },
   {
     "library": "impimp",
-    "downloads": 15592
+    "downloads": 0
   },
   {
     "library": "implicitMeasures",
-    "downloads": 10337
+    "downloads": 0
   },
   {
     "library": "implied",
-    "downloads": 9455
+    "downloads": 0
   },
   {
     "library": "implyr",
-    "downloads": 32170
+    "downloads": 0
   },
   {
     "library": "import",
-    "downloads": 269360
+    "downloads": 0
   },
   {
     "library": "importar",
-    "downloads": 15449
+    "downloads": 0
   },
   {
     "library": "ImportExport",
-    "downloads": 29490
+    "downloads": 0
   },
   {
     "library": "importinegi",
-    "downloads": 10724
+    "downloads": 0
   },
   {
     "library": "impressionist.colors",
-    "downloads": 8275
+    "downloads": 0
   },
   {
     "library": "imptree",
-    "downloads": 11488
+    "downloads": 0
   },
   {
     "library": "imputeFin",
-    "downloads": 9470
+    "downloads": 0
   },
   {
     "library": "imputeLCMD",
-    "downloads": 42514
+    "downloads": 0
   },
   {
     "library": "imputeMDR",
-    "downloads": 32716
+    "downloads": 0
   },
   {
     "library": "imputeMissings",
-    "downloads": 35273
+    "downloads": 0
   },
   {
     "library": "imputeMulti",
-    "downloads": 21889
+    "downloads": 0
   },
   {
     "library": "imputePSF",
-    "downloads": 20367
+    "downloads": 0
   },
   {
     "library": "imputeR",
-    "downloads": 44459
+    "downloads": 0
   },
   {
     "library": "ImputeRobust",
-    "downloads": 21419
+    "downloads": 0
   },
   {
     "library": "imputeTestbench",
-    "downloads": 27557
+    "downloads": 0
   },
   {
     "library": "imputeTS",
-    "downloads": 703158
+    "downloads": 0
   },
   {
     "library": "imputeYn",
-    "downloads": 36573
+    "downloads": 0
   },
   {
     "library": "iMRMC",
-    "downloads": 14327
+    "downloads": 0
   },
   {
     "library": "imsig",
-    "downloads": 13514
+    "downloads": 0
   },
   {
     "library": "IMTest",
-    "downloads": 37541
+    "downloads": 0
   },
   {
     "library": "in2extRemes",
-    "downloads": 32698
+    "downloads": 0
   },
   {
     "library": "inaparc",
-    "downloads": 26046
+    "downloads": 0
   },
   {
     "library": "inbreedR",
-    "downloads": 22232
+    "downloads": 0
   },
   {
     "library": "inca",
-    "downloads": 18123
+    "downloads": 0
   },
   {
     "library": "incadata",
-    "downloads": 19792
+    "downloads": 0
   },
   {
     "library": "incase",
-    "downloads": 3380
+    "downloads": 0
   },
   {
     "library": "INCATome",
-    "downloads": 17560
+    "downloads": 0
   },
   {
     "library": "IncDTW",
-    "downloads": 28228
+    "downloads": 0
   },
   {
     "library": "incgraph",
-    "downloads": 15506
+    "downloads": 0
   },
   {
     "library": "incidence",
-    "downloads": 99779
+    "downloads": 0
   },
   {
     "library": "incidence2",
-    "downloads": 3507
+    "downloads": 0
   },
   {
     "library": "incidental",
-    "downloads": 2760
+    "downloads": 0
   },
   {
     "library": "IncomPair",
-    "downloads": 6395
+    "downloads": 0
   },
   {
     "library": "incR",
-    "downloads": 14896
+    "downloads": 0
   },
   {
     "library": "inctools",
-    "downloads": 21510
+    "downloads": 0
   },
   {
     "library": "indelmiss",
-    "downloads": 17694
+    "downloads": 0
   },
   {
     "library": "independence",
-    "downloads": 3455
+    "downloads": 0
   },
   {
     "library": "IndepTest",
-    "downloads": 16732
+    "downloads": 0
   },
   {
     "library": "IndexConstruction",
-    "downloads": 10752
+    "downloads": 0
   },
   {
     "library": "IndexNumber",
-    "downloads": 13330
+    "downloads": 0
   },
   {
     "library": "IndexNumR",
-    "downloads": 18595
+    "downloads": 0
   },
   {
     "library": "IndianTaxCalc",
-    "downloads": 19461
+    "downloads": 0
   },
   {
     "library": "indicspecies",
-    "downloads": 74717
+    "downloads": 0
   },
   {
     "library": "indiedown",
-    "downloads": 738
+    "downloads": 0
   },
   {
     "library": "indirect",
-    "downloads": 12629
+    "downloads": 0
   },
   {
     "library": "InDisc",
-    "downloads": 8334
+    "downloads": 0
   },
   {
     "library": "IndTestPP",
-    "downloads": 21209
+    "downloads": 0
   },
   {
     "library": "inegiR",
-    "downloads": 31193
+    "downloads": 0
   },
   {
     "library": "ineq",
-    "downloads": 345151
+    "downloads": 0
   },
   {
     "library": "ineqJD",
-    "downloads": 11685
+    "downloads": 0
   },
   {
     "library": "iNEXT",
-    "downloads": 69892
+    "downloads": 0
   },
   {
     "library": "InfDim",
-    "downloads": 31045
+    "downloads": 0
   },
   {
     "library": "infer",
-    "downloads": 362677
+    "downloads": 0
   },
   {
     "library": "inference",
-    "downloads": 31134
+    "downloads": 0
   },
   {
     "library": "InferenceSMR",
-    "downloads": 26718
+    "downloads": 0
   },
   {
     "library": "inferference",
-    "downloads": 22756
+    "downloads": 0
   },
   {
     "library": "inferr",
-    "downloads": 23023
+    "downloads": 0
   },
   {
     "library": "infinitefactor",
-    "downloads": 5027
+    "downloads": 0
   },
   {
     "library": "InfiniumPurify",
-    "downloads": 16683
+    "downloads": 0
   },
   {
     "library": "infix",
-    "downloads": 11796
+    "downloads": 0
   },
   {
     "library": "Inflation",
-    "downloads": 11439
+    "downloads": 0
   },
   {
     "library": "Inflect",
-    "downloads": 1437
+    "downloads": 0
   },
   {
     "library": "inflection",
-    "downloads": 38421
+    "downloads": 0
   },
   {
     "library": "influence.ME",
-    "downloads": 93259
+    "downloads": 0
   },
   {
     "library": "influence.SEM",
-    "downloads": 37186
+    "downloads": 0
   },
   {
     "library": "influenceAUC",
-    "downloads": 7766
+    "downloads": 0
   },
   {
     "library": "influenceR",
-    "downloads": 900850
+    "downloads": 0
   },
   {
     "library": "influential",
-    "downloads": 9399
+    "downloads": 0
   },
   {
     "library": "influxdbr",
-    "downloads": 38150
+    "downloads": 0
   },
   {
     "library": "infoDecompuTE",
-    "downloads": 31998
+    "downloads": 0
   },
   {
     "library": "Information",
-    "downloads": 119442
+    "downloads": 0
   },
   {
     "library": "InformationValue",
-    "downloads": 147199
+    "downloads": 0
   },
   {
     "library": "InformativeCensoring",
-    "downloads": 14458
+    "downloads": 0
   },
   {
     "library": "informR",
-    "downloads": 30639
+    "downloads": 0
   },
   {
     "library": "infotheo",
-    "downloads": 208771
+    "downloads": 0
   },
   {
     "library": "InfoTrad",
-    "downloads": 23321
+    "downloads": 0
   },
   {
     "library": "infra",
-    "downloads": 24553
+    "downloads": 0
   },
   {
     "library": "infraFDTD.assist",
-    "downloads": 17093
+    "downloads": 0
   },
   {
     "library": "Infusion",
-    "downloads": 41863
+    "downloads": 0
   },
   {
     "library": "infutil",
-    "downloads": 30821
+    "downloads": 0
   },
   {
     "library": "ingredients",
-    "downloads": 63964
+    "downloads": 0
   },
   {
     "library": "ini",
-    "downloads": 5731869
+    "downloads": 0
   },
   {
     "library": "injectoR",
-    "downloads": 18777
+    "downloads": 0
   },
   {
     "library": "InjurySeverityScore",
-    "downloads": 13443
+    "downloads": 0
   },
   {
     "library": "INLABMA",
-    "downloads": 35185
+    "downloads": 0
   },
   {
     "library": "inlabru",
-    "downloads": 21167
+    "downloads": 0
   },
   {
     "library": "INLAMSM",
-    "downloads": 9088
+    "downloads": 0
   },
   {
     "library": "inldata",
-    "downloads": 2771
+    "downloads": 0
   },
   {
     "library": "inline",
-    "downloads": 1927085
+    "downloads": 0
   },
   {
     "library": "inlinedocs",
-    "downloads": 82380
+    "downloads": 0
   },
   {
     "library": "inlmisc",
-    "downloads": 61585
+    "downloads": 0
   },
   {
     "library": "inops",
-    "downloads": 7752
+    "downloads": 0
   },
   {
     "library": "inpdfr",
-    "downloads": 23144
+    "downloads": 0
   },
   {
     "library": "inplace",
-    "downloads": 12910
+    "downloads": 0
   },
   {
     "library": "InPosition",
-    "downloads": 35404
+    "downloads": 0
   },
   {
     "library": "INQC",
-    "downloads": 1268
+    "downloads": 0
   },
   {
     "library": "insane",
-    "downloads": 2185
+    "downloads": 0
   },
   {
     "library": "insect",
-    "downloads": 15385
+    "downloads": 0
   },
   {
     "library": "insee",
-    "downloads": 5443
+    "downloads": 0
   },
   {
     "library": "insight",
-    "downloads": 1243739
+    "downloads": 0
   },
   {
     "library": "InSilicoVA",
-    "downloads": 36572
+    "downloads": 0
   },
   {
     "library": "insol",
-    "downloads": 47306
+    "downloads": 0
   },
   {
     "library": "InspectChangepoint",
-    "downloads": 23663
+    "downloads": 0
   },
   {
     "library": "inspectdf",
-    "downloads": 40411
+    "downloads": 0
   },
   {
     "library": "inspector",
-    "downloads": 3309
+    "downloads": 0
   },
   {
     "library": "INSPIRE",
-    "downloads": 17746
+    "downloads": 0
   },
   {
     "library": "install.load",
-    "downloads": 51226
+    "downloads": 0
   },
   {
     "library": "installr",
-    "downloads": 2040161
+    "downloads": 0
   },
   {
     "library": "instaR",
-    "downloads": 50674
+    "downloads": 0
   },
   {
     "library": "insuranceData",
-    "downloads": 55154
+    "downloads": 0
   },
   {
     "library": "insurancerating",
-    "downloads": 15855
+    "downloads": 0
   },
   {
     "library": "intamap",
-    "downloads": 55118
+    "downloads": 0
   },
   {
     "library": "intamapInteractive",
-    "downloads": 34476
+    "downloads": 0
   },
   {
     "library": "IntCal",
-    "downloads": 5872
+    "downloads": 0
   },
   {
     "library": "intccr",
-    "downloads": 23581
+    "downloads": 0
   },
   {
     "library": "intcensROC",
-    "downloads": 12663
+    "downloads": 0
   },
   {
     "library": "intdag",
-    "downloads": 11971
+    "downloads": 0
   },
   {
     "library": "integIRTy",
-    "downloads": 15366
+    "downloads": 0
   },
   {
     "library": "integr",
-    "downloads": 9253
+    "downloads": 0
   },
   {
     "library": "IntegrateBs",
-    "downloads": 20621
+    "downloads": 0
   },
   {
     "library": "IntegratedJM",
-    "downloads": 21749
+    "downloads": 0
   },
   {
     "library": "IntegratedMRF",
-    "downloads": 20960
+    "downloads": 0
   },
   {
     "library": "intensegRid",
-    "downloads": 2072
+    "downloads": 0
   },
   {
     "library": "intensity.analysis",
-    "downloads": 10170
+    "downloads": 0
   },
   {
     "library": "interacCircos",
-    "downloads": 1299
+    "downloads": 0
   },
   {
     "library": "Interact",
-    "downloads": 31907
+    "downloads": 0
   },
   {
     "library": "interactionR",
-    "downloads": 6650
+    "downloads": 0
   },
   {
     "library": "interactions",
-    "downloads": 79875
+    "downloads": 0
   },
   {
     "library": "interactionTest",
-    "downloads": 63281
+    "downloads": 0
   },
   {
     "library": "InteractiveIGraph",
-    "downloads": 30172
+    "downloads": 0
   },
   {
     "library": "Interatrix",
-    "downloads": 23408
+    "downloads": 0
   },
   {
     "library": "interep",
-    "downloads": 15238
+    "downloads": 0
   },
   {
     "library": "InterfaceqPCR",
-    "downloads": 15875
+    "downloads": 0
   },
   {
     "library": "interferenceCI",
-    "downloads": 24754
+    "downloads": 0
   },
   {
     "library": "interfr",
-    "downloads": 12800
+    "downloads": 0
   },
   {
     "library": "intergraph",
-    "downloads": 236080
+    "downloads": 0
   },
   {
     "library": "interim",
-    "downloads": 20026
+    "downloads": 0
   },
   {
     "library": "interimApp",
-    "downloads": 8926
+    "downloads": 0
   },
   {
     "library": "interleave",
-    "downloads": 2140
+    "downloads": 0
   },
   {
     "library": "interlineaR",
-    "downloads": 11871
+    "downloads": 0
   },
   {
     "library": "interp",
-    "downloads": 95363
+    "downloads": 0
   },
   {
     "library": "interplot",
-    "downloads": 108774
+    "downloads": 0
   },
   {
     "library": "Interpol.T",
-    "downloads": 37720
+    "downloads": 0
   },
   {
     "library": "interpret",
-    "downloads": 14087
+    "downloads": 0
   },
   {
     "library": "InterpretMSSpectrum",
-    "downloads": 22016
+    "downloads": 0
   },
   {
     "library": "interpretR",
-    "downloads": 25492
+    "downloads": 0
   },
   {
     "library": "InterSIM",
-    "downloads": 19058
+    "downloads": 0
   },
   {
     "library": "InterVA4",
-    "downloads": 38795
+    "downloads": 0
   },
   {
     "library": "InterVA5",
-    "downloads": 16429
+    "downloads": 0
   },
   {
     "library": "interval",
-    "downloads": 113882
+    "downloads": 0
   },
   {
     "library": "intervalaverage",
-    "downloads": 3745
+    "downloads": 0
   },
   {
     "library": "intervals",
-    "downloads": 792029
+    "downloads": 0
   },
   {
     "library": "IntervalSurgeon",
-    "downloads": 12202
+    "downloads": 0
   },
   {
     "library": "intervcomp",
-    "downloads": 12934
+    "downloads": 0
   },
   {
     "library": "interventionalDBN",
-    "downloads": 27884
+    "downloads": 0
   },
   {
     "library": "inti",
-    "downloads": 3364
+    "downloads": 0
   },
   {
     "library": "intkrige",
-    "downloads": 9138
+    "downloads": 0
   },
   {
     "library": "IntLik",
-    "downloads": 26495
+    "downloads": 0
   },
   {
     "library": "intmed",
-    "downloads": 7366
+    "downloads": 0
   },
   {
     "library": "IntNMF",
-    "downloads": 16414
+    "downloads": 0
   },
   {
     "library": "inTrees",
-    "downloads": 48899
+    "downloads": 0
   },
   {
     "library": "intRegGOF",
-    "downloads": 29676
+    "downloads": 0
   },
   {
     "library": "INTRIGUE",
-    "downloads": 2114
+    "downloads": 0
   },
   {
     "library": "intrinsicDimension",
-    "downloads": 15822
+    "downloads": 0
   },
   {
     "library": "introgress",
-    "downloads": 33987
+    "downloads": 0
   },
   {
     "library": "intrval",
-    "downloads": 23950
+    "downloads": 0
   },
   {
     "library": "intRvals",
-    "downloads": 14901
+    "downloads": 0
   },
   {
     "library": "intsurv",
-    "downloads": 9656
+    "downloads": 0
   },
   {
     "library": "intsurvbin",
-    "downloads": 8107
+    "downloads": 0
   },
   {
     "library": "intsvy",
-    "downloads": 75133
+    "downloads": 0
   },
   {
     "library": "intubate",
-    "downloads": 18473
+    "downloads": 0
   },
   {
     "library": "inum",
-    "downloads": 894705
+    "downloads": 0
   },
   {
     "library": "invacost",
-    "downloads": 1720
+    "downloads": 0
   },
   {
     "library": "InvariantCausalPrediction",
-    "downloads": 32356
+    "downloads": 0
   },
   {
     "library": "InvasionCorrection",
-    "downloads": 16278
+    "downloads": 0
   },
   {
     "library": "invctr",
-    "downloads": 10563
+    "downloads": 0
   },
   {
     "library": "inventorize",
-    "downloads": 13705
+    "downloads": 0
   },
   {
     "library": "Inventorymodel",
-    "downloads": 18069
+    "downloads": 0
   },
   {
     "library": "inverseRegex",
-    "downloads": 7912
+    "downloads": 0
   },
   {
     "library": "investr",
-    "downloads": 61188
+    "downloads": 0
   },
   {
     "library": "invgamma",
-    "downloads": 111103
+    "downloads": 0
   },
   {
     "library": "invGauss",
-    "downloads": 27730
+    "downloads": 0
   },
   {
     "library": "invLT",
-    "downloads": 22752
+    "downloads": 0
   },
   {
     "library": "iNZightMR",
-    "downloads": 4404
+    "downloads": 0
   },
   {
     "library": "iNZightPlots",
-    "downloads": 3335
+    "downloads": 0
   },
   {
     "library": "iNZightRegression",
-    "downloads": 1942
+    "downloads": 0
   },
   {
     "library": "iNZightTools",
-    "downloads": 9482
+    "downloads": 0
   },
   {
     "library": "iNZightTS",
-    "downloads": 4826
+    "downloads": 0
   },
   {
     "library": "io",
-    "downloads": 29053
+    "downloads": 0
   },
   {
     "library": "ioanalysis",
-    "downloads": 14903
+    "downloads": 0
   },
   {
     "library": "IOHanalyzer",
-    "downloads": 10724
+    "downloads": 0
   },
   {
     "library": "IOHexperimenter",
-    "downloads": 4602
+    "downloads": 0
   },
   {
     "library": "ioncopy",
-    "downloads": 22408
+    "downloads": 0
   },
   {
     "library": "ionflows",
-    "downloads": 24596
+    "downloads": 0
   },
   {
     "library": "ionr",
-    "downloads": 18145
+    "downloads": 0
   },
   {
     "library": "iopsych",
-    "downloads": 18608
+    "downloads": 0
   },
   {
     "library": "iosmooth",
-    "downloads": 27698
+    "downloads": 0
   },
   {
     "library": "iotools",
-    "downloads": 52812
+    "downloads": 0
   },
   {
     "library": "ip2location",
-    "downloads": 7848
+    "downloads": 0
   },
   {
     "library": "ip2proxy",
-    "downloads": 2048
+    "downloads": 0
   },
   {
     "library": "ipa",
-    "downloads": 3530
+    "downloads": 0
   },
   {
     "library": "ipaddress",
-    "downloads": 10378
+    "downloads": 0
   },
   {
     "library": "ipADMIXTURE",
-    "downloads": 5125
+    "downloads": 0
   },
   {
     "library": "ipc",
-    "downloads": 16736
+    "downloads": 0
   },
   {
     "library": "IPCAPS",
-    "downloads": 8531
+    "downloads": 0
   },
   {
     "library": "IPCWK",
-    "downloads": 5092
+    "downloads": 0
   },
   {
     "library": "ipcwswitch",
-    "downloads": 12573
+    "downloads": 0
   },
   {
     "library": "IPDFileCheck",
-    "downloads": 9928
+    "downloads": 0
   },
   {
     "library": "IPDfromKM",
-    "downloads": 2125
+    "downloads": 0
   },
   {
     "library": "ipdw",
-    "downloads": 36915
+    "downloads": 0
   },
   {
     "library": "IPEC",
-    "downloads": 18674
+    "downloads": 0
   },
   {
     "library": "ipflasso",
-    "downloads": 21362
+    "downloads": 0
   },
   {
     "library": "ipfp",
-    "downloads": 32673
+    "downloads": 0
   },
   {
     "library": "ipfr",
-    "downloads": 9106
+    "downloads": 0
   },
   {
     "library": "ipft",
-    "downloads": 21674
+    "downloads": 0
   },
   {
     "library": "IPLGP",
-    "downloads": 1094
+    "downloads": 0
   },
   {
     "library": "iplots",
-    "downloads": 268219
+    "downloads": 0
   },
   {
     "library": "ipmisc",
-    "downloads": 78490
+    "downloads": 0
   },
   {
     "library": "ipmr",
-    "downloads": 1228
+    "downloads": 0
   },
   {
     "library": "IPMRF",
-    "downloads": 17858
+    "downloads": 0
   },
   {
     "library": "IPPP",
-    "downloads": 10544
+    "downloads": 0
   },
   {
     "library": "ipptoolbox",
-    "downloads": 11668
+    "downloads": 0
   },
   {
     "library": "ipr",
-    "downloads": 8614
+    "downloads": 0
   },
   {
     "library": "ipred",
-    "downloads": 4231353
+    "downloads": 0
   },
   {
     "library": "iprior",
-    "downloads": 24166
+    "downloads": 0
   },
   {
     "library": "ips",
-    "downloads": 43485
+    "downloads": 0
   },
   {
     "library": "iptmnetr",
-    "downloads": 13360
+    "downloads": 0
   },
   {
     "library": "iptools",
-    "downloads": 37634
+    "downloads": 0
   },
   {
     "library": "ipumsr",
-    "downloads": 80378
+    "downloads": 0
   },
   {
     "library": "IPV",
-    "downloads": 7068
+    "downloads": 0
   },
   {
     "library": "ipw",
-    "downloads": 63937
+    "downloads": 0
   },
   {
     "library": "IPWboxplot",
-    "downloads": 10692
+    "downloads": 0
   },
   {
     "library": "ipwCoxCSV",
-    "downloads": 7985
+    "downloads": 0
   },
   {
     "library": "ipwErrorY",
-    "downloads": 15037
+    "downloads": 0
   },
   {
     "library": "IPWpn",
-    "downloads": 471
+    "downloads": 0
   },
   {
     "library": "iq",
-    "downloads": 10308
+    "downloads": 0
   },
   {
     "library": "IQCC",
-    "downloads": 35922
+    "downloads": 0
   },
   {
     "library": "iqLearn",
-    "downloads": 30682
+    "downloads": 0
   },
   {
     "library": "irace",
-    "downloads": 109654
+    "downloads": 0
   },
   {
     "library": "iRafNet",
-    "downloads": 18827
+    "downloads": 0
   },
   {
     "library": "IRATER",
-    "downloads": 15765
+    "downloads": 0
   },
   {
     "library": "IRCcheck",
-    "downloads": 255
+    "downloads": 0
   },
   {
     "library": "ircor",
-    "downloads": 14737
+    "downloads": 0
   },
   {
     "library": "IRdisplay",
-    "downloads": 859988
+    "downloads": 0
   },
   {
     "library": "iRegression",
-    "downloads": 29126
+    "downloads": 0
   },
   {
     "library": "iRepro",
-    "downloads": 26661
+    "downloads": 0
   },
   {
     "library": "Irescale",
-    "downloads": 10372
+    "downloads": 0
   },
   {
     "library": "iRF",
-    "downloads": 19469
+    "downloads": 0
   },
   {
     "library": "irg",
-    "downloads": 11079
+    "downloads": 0
   },
   {
     "library": "iriR",
-    "downloads": 2430
+    "downloads": 0
   },
   {
     "library": "IrishDirectorates",
-    "downloads": 19599
+    "downloads": 0
   },
   {
     "library": "IRISMustangMetrics",
-    "downloads": 30720
+    "downloads": 0
   },
   {
     "library": "IRISSeismic",
-    "downloads": 36996
+    "downloads": 0
   },
   {
     "library": "IRkernel",
-    "downloads": 375742
+    "downloads": 0
   },
   {
     "library": "irlba",
-    "downloads": 2759690
+    "downloads": 0
   },
   {
     "library": "irr",
-    "downloads": 264410
+    "downloads": 0
   },
   {
     "library": "irrCAC",
-    "downloads": 9349
+    "downloads": 0
   },
   {
     "library": "IrregLong",
-    "downloads": 12809
+    "downloads": 0
   },
   {
     "library": "irrICC",
-    "downloads": 8495
+    "downloads": 0
   },
   {
     "library": "irrNA",
-    "downloads": 12639
+    "downloads": 0
   },
   {
     "library": "IRSF",
-    "downloads": 1988
+    "downloads": 0
   },
   {
     "library": "irt",
-    "downloads": 2302
+    "downloads": 0
   },
   {
     "library": "IRTBEMM",
-    "downloads": 10275
+    "downloads": 0
   },
   {
     "library": "irtDemo",
-    "downloads": 23682
+    "downloads": 0
   },
   {
     "library": "irtGUI",
-    "downloads": 643
+    "downloads": 0
   },
   {
     "library": "irtoys",
-    "downloads": 62838
+    "downloads": 0
   },
   {
     "library": "irtplay",
-    "downloads": 14467
+    "downloads": 0
   },
   {
     "library": "irtProb",
-    "downloads": 35493
+    "downloads": 0
   },
   {
     "library": "irtrees",
-    "downloads": 33715
+    "downloads": 0
   },
   {
     "library": "irtreliability",
-    "downloads": 12485
+    "downloads": 0
   },
   {
     "library": "IRTShiny",
-    "downloads": 32605
+    "downloads": 0
   },
   {
     "library": "isa2",
-    "downloads": 178148
+    "downloads": 0
   },
   {
     "library": "ISAT",
-    "downloads": 11595
+    "downloads": 0
   },
   {
     "library": "ISBF",
-    "downloads": 31613
+    "downloads": 0
   },
   {
     "library": "ISCO08ConveRsions",
-    "downloads": 13116
+    "downloads": 0
   },
   {
     "library": "isdals",
-    "downloads": 49021
+    "downloads": 0
   },
   {
     "library": "iSDM",
-    "downloads": 16797
+    "downloads": 0
   },
   {
     "library": "isdparser",
-    "downloads": 130150
+    "downloads": 0
   },
   {
     "library": "ISEtools",
-    "downloads": 10769
+    "downloads": 0
   },
   {
     "library": "IsingFit",
-    "downloads": 65216
+    "downloads": 0
   },
   {
     "library": "isingLenzMC",
-    "downloads": 27577
+    "downloads": 0
   },
   {
     "library": "IsingSampler",
-    "downloads": 55455
+    "downloads": 0
   },
   {
     "library": "islasso",
-    "downloads": 11401
+    "downloads": 0
   },
   {
     "library": "ISLR",
-    "downloads": 1377587
+    "downloads": 0
   },
   {
     "library": "ISM",
-    "downloads": 14847
+    "downloads": 0
   },
   {
     "library": "ismev",
-    "downloads": 128830
+    "downloads": 0
   },
   {
     "library": "isni",
-    "downloads": 15721
+    "downloads": 0
   },
   {
     "library": "isnullptr",
-    "downloads": 19651
+    "downloads": 0
   },
   {
     "library": "Iso",
-    "downloads": 90906
+    "downloads": 0
   },
   {
     "library": "isoband",
-    "downloads": 10528689
+    "downloads": 0
   },
   {
     "library": "isoboost",
-    "downloads": 7090
+    "downloads": 0
   },
   {
     "library": "isocat",
-    "downloads": 10217
+    "downloads": 0
   },
   {
     "library": "IsoCheck",
-    "downloads": 5163
+    "downloads": 0
   },
   {
     "library": "IsoCI",
-    "downloads": 24859
+    "downloads": 0
   },
   {
     "library": "isocir",
-    "downloads": 30620
+    "downloads": 0
   },
   {
     "library": "ISOcodes",
-    "downloads": 1028273
+    "downloads": 0
   },
   {
     "library": "IsoCorr",
-    "downloads": 3404
+    "downloads": 0
   },
   {
     "library": "isodistrreg",
-    "downloads": 519
+    "downloads": 0
   },
   {
     "library": "IsoGene",
-    "downloads": 31556
+    "downloads": 0
   },
   {
     "library": "isopam",
-    "downloads": 36549
+    "downloads": 0
   },
   {
     "library": "isopat",
-    "downloads": 29728
+    "downloads": 0
   },
   {
     "library": "IsoplotR",
-    "downloads": 61339
+    "downloads": 0
   },
   {
     "library": "IsoplotRgui",
-    "downloads": 3191
+    "downloads": 0
   },
   {
     "library": "ISOpureR",
-    "downloads": 28414
+    "downloads": 0
   },
   {
     "library": "isoreader",
-    "downloads": 2367
+    "downloads": 0
   },
   {
     "library": "IsoriX",
-    "downloads": 42739
+    "downloads": 0
   },
   {
     "library": "IsoSpecR",
-    "downloads": 23320
+    "downloads": 0
   },
   {
     "library": "isoSurv",
-    "downloads": 5099
+    "downloads": 0
   },
   {
     "library": "isotone",
-    "downloads": 57901
+    "downloads": 0
   },
   {
     "library": "isotonic.pen",
-    "downloads": 24293
+    "downloads": 0
   },
   {
     "library": "IsotopeR",
-    "downloads": 36027
+    "downloads": 0
   },
   {
     "library": "isotree",
-    "downloads": 13758
+    "downloads": 0
   },
   {
     "library": "ISOweek",
-    "downloads": 178555
+    "downloads": 0
   },
   {
     "library": "ispd",
-    "downloads": 8742
+    "downloads": 0
   },
   {
     "library": "isqg",
-    "downloads": 13111
+    "downloads": 0
   },
   {
     "library": "ISR3",
-    "downloads": 21262
+    "downloads": 0
   },
   {
     "library": "ISRaD",
-    "downloads": 8131
+    "downloads": 0
   },
   {
     "library": "istacr",
-    "downloads": 10188
+    "downloads": 0
   },
   {
     "library": "iSTATS",
-    "downloads": 10231
+    "downloads": 0
   },
   {
     "library": "iSubGen",
-    "downloads": 222
+    "downloads": 0
   },
   {
     "library": "isva",
-    "downloads": 70110
+    "downloads": 0
   },
   {
     "library": "ISwR",
-    "downloads": 525143
+    "downloads": 0
   },
   {
     "library": "italy",
-    "downloads": 17801
+    "downloads": 0
   },
   {
     "library": "itan",
-    "downloads": 16083
+    "downloads": 0
   },
   {
     "library": "itcSegment",
-    "downloads": 25056
+    "downloads": 0
   },
   {
     "library": "itemanalysis",
-    "downloads": 14700
+    "downloads": 0
   },
   {
     "library": "iteRates",
-    "downloads": 37888
+    "downloads": 0
   },
   {
     "library": "iterators",
-    "downloads": 9236154
+    "downloads": 0
   },
   {
     "library": "iterLap",
-    "downloads": 38439
+    "downloads": 0
   },
   {
     "library": "iterpc",
-    "downloads": 60044
+    "downloads": 0
   },
   {
     "library": "itertools",
-    "downloads": 1122733
+    "downloads": 0
   },
   {
     "library": "itertools2",
-    "downloads": 25265
+    "downloads": 0
   },
   {
     "library": "ITGM",
-    "downloads": 18989
+    "downloads": 0
   },
   {
     "library": "ITNr",
-    "downloads": 15177
+    "downloads": 0
   },
   {
     "library": "iTOP",
-    "downloads": 13577
+    "downloads": 0
   },
   {
     "library": "itraxR",
-    "downloads": 925
+    "downloads": 0
   },
   {
     "library": "ITRLearn",
-    "downloads": 13167
+    "downloads": 0
   },
   {
     "library": "ITRSelect",
-    "downloads": 12784
+    "downloads": 0
   },
   {
     "library": "its.analysis",
-    "downloads": 10766
+    "downloads": 0
   },
   {
     "library": "itsadug",
-    "downloads": 46872
+    "downloads": 0
   },
   {
     "library": "itsmr",
-    "downloads": 59714
+    "downloads": 0
   },
   {
     "library": "IUPS",
-    "downloads": 27832
+    "downloads": 0
   },
   {
     "library": "iva",
-    "downloads": 12402
+    "downloads": 0
   },
   {
     "library": "ivdesc",
-    "downloads": 8657
+    "downloads": 0
   },
   {
     "library": "ivdesign",
-    "downloads": 3601
+    "downloads": 0
   },
   {
     "library": "ivdoctr",
-    "downloads": 3058
+    "downloads": 0
   },
   {
     "library": "ivfixed",
-    "downloads": 38214
+    "downloads": 0
   },
   {
     "library": "ivitr",
-    "downloads": 2873
+    "downloads": 0
   },
   {
     "library": "ivmodel",
-    "downloads": 32331
+    "downloads": 0
   },
   {
     "library": "ivmte",
-    "downloads": 11348
+    "downloads": 0
   },
   {
     "library": "ivpack",
-    "downloads": 99572
+    "downloads": 0
   },
   {
     "library": "ivpanel",
-    "downloads": 36378
+    "downloads": 0
   },
   {
     "library": "ivprobit",
-    "downloads": 40026
+    "downloads": 0
   },
   {
     "library": "ivreg",
-    "downloads": 16804
+    "downloads": 0
   },
   {
     "library": "ivregEX",
-    "downloads": 17257
+    "downloads": 0
   },
   {
     "library": "ivsacim",
-    "downloads": 2271
+    "downloads": 0
   },
   {
     "library": "ivtools",
-    "downloads": 18816
+    "downloads": 0
   },
   {
     "library": "ivx",
-    "downloads": 10022
+    "downloads": 0
   },
   {
     "library": "IVYplot",
-    "downloads": 968
+    "downloads": 0
   },
   {
     "library": "iWeigReg",
-    "downloads": 26663
+    "downloads": 0
   },
   {
     "library": "iWISA",
-    "downloads": 17314
+    "downloads": 0
   },
   {
     "library": "iZID",
-    "downloads": 7869
+    "downloads": 0
   },
   {
     "library": "jaatha",
-    "downloads": 43366
+    "downloads": 0
   },
   {
     "library": "jaccard",
-    "downloads": 20641
+    "downloads": 0
   },
   {
     "library": "jack",
-    "downloads": 9615
+    "downloads": 0
   },
   {
     "library": "jackalope",
-    "downloads": 11228
+    "downloads": 0
   },
   {
     "library": "jackknifeKME",
-    "downloads": 27961
+    "downloads": 0
   },
   {
     "library": "jackstrap",
-    "downloads": 3534
+    "downloads": 0
   },
   {
     "library": "jackstraw",
-    "downloads": 43706
+    "downloads": 0
   },
   {
     "library": "JacobiEigen",
-    "downloads": 17500
+    "downloads": 0
   },
   {
     "library": "jacpop",
-    "downloads": 21985
+    "downloads": 0
   },
   {
     "library": "JADE",
-    "downloads": 92422
+    "downloads": 0
   },
   {
     "library": "jaggR",
-    "downloads": 9188
+    "downloads": 0
   },
   {
     "library": "jagsUI",
-    "downloads": 121026
+    "downloads": 0
   },
   {
     "library": "JamendoR",
-    "downloads": 9675
+    "downloads": 0
   },
   {
     "library": "james.analysis",
-    "downloads": 21693
+    "downloads": 0
   },
   {
     "library": "janeaustenr",
-    "downloads": 1101391
+    "downloads": 0
   },
   {
     "library": "janitor",
-    "downloads": 1144016
+    "downloads": 0
   },
   {
     "library": "jaod",
-    "downloads": 16926
+    "downloads": 0
   },
   {
     "library": "jarbes",
-    "downloads": 12437
+    "downloads": 0
   },
   {
     "library": "JASPAR",
-    "downloads": 30575
+    "downloads": 0
   },
   {
     "library": "JavaGD",
-    "downloads": 263827
+    "downloads": 0
   },
   {
     "library": "Jaya",
-    "downloads": 8403
+    "downloads": 0
   },
   {
     "library": "JBrowseR",
-    "downloads": 1426
+    "downloads": 0
   },
   {
     "library": "jcext",
-    "downloads": 13461
+    "downloads": 0
   },
   {
     "library": "jcolors",
-    "downloads": 71492
+    "downloads": 0
   },
   {
     "library": "jcp",
-    "downloads": 13667
+    "downloads": 0
+  },
+  {
+    "library": "JCRImpactFactor",
+    "downloads": 0
   },
   {
     "library": "Jdmbs",
-    "downloads": 19029
+    "downloads": 0
   },
   {
     "library": "jdx",
-    "downloads": 17268
+    "downloads": 0
   },
   {
     "library": "jeek",
-    "downloads": 12814
+    "downloads": 0
   },
   {
     "library": "jetpack",
-    "downloads": 17419
+    "downloads": 0
   },
   {
     "library": "jetset",
-    "downloads": 23617
+    "downloads": 0
   },
   {
     "library": "jfa",
-    "downloads": 8681
+    "downloads": 0
   },
   {
     "library": "JFE",
-    "downloads": 19256
+    "downloads": 0
   },
   {
     "library": "JGEE",
-    "downloads": 20390
+    "downloads": 0
   },
   {
     "library": "JGL",
-    "downloads": 31679
+    "downloads": 0
   },
   {
     "library": "JGR",
-    "downloads": 270297
+    "downloads": 0
   },
   {
     "library": "jiebaR",
-    "downloads": 149880
+    "downloads": 0
   },
   {
     "library": "jiebaRD",
-    "downloads": 112835
+    "downloads": 0
   },
   {
     "library": "jipApprox",
-    "downloads": 12017
+    "downloads": 0
   },
   {
     "library": "jjb",
-    "downloads": 16612
+    "downloads": 0
   },
   {
     "library": "jlctree",
-    "downloads": 11480
+    "downloads": 0
   },
   {
     "library": "jlsm",
-    "downloads": 955
+    "downloads": 0
   },
   {
     "library": "JM",
-    "downloads": 95754
+    "downloads": 0
   },
   {
     "library": "JMbayes",
-    "downloads": 65646
+    "downloads": 0
   },
   {
     "library": "JMbayes2",
-    "downloads": 1952
+    "downloads": 0
   },
   {
     "library": "jmcm",
-    "downloads": 26614
+    "downloads": 0
   },
   {
     "library": "JMcmprsk",
-    "downloads": 15896
+    "downloads": 0
   },
   {
     "library": "jmdem",
-    "downloads": 12207
+    "downloads": 0
   },
   {
     "library": "JMdesign",
-    "downloads": 27675
+    "downloads": 0
   },
   {
     "library": "jmetrik",
-    "downloads": 24885
+    "downloads": 0
   },
   {
     "library": "JMI",
-    "downloads": 11208
+    "downloads": 0
   },
   {
     "library": "Jmisc",
-    "downloads": 49100
+    "downloads": 0
   },
   {
     "library": "jmotif",
-    "downloads": 31088
+    "downloads": 0
   },
   {
     "library": "jmuOutlier",
-    "downloads": 30373
+    "downloads": 0
   },
   {
     "library": "jmv",
-    "downloads": 124434
+    "downloads": 0
   },
   {
     "library": "jmvconnect",
-    "downloads": 23537
+    "downloads": 0
   },
   {
     "library": "jmvcore",
-    "downloads": 148991
+    "downloads": 0
   },
   {
     "library": "jmvReadWrite",
-    "downloads": 2865
+    "downloads": 0
   },
   {
     "library": "jocre",
-    "downloads": 18636
+    "downloads": 0
   },
   {
     "library": "JoF",
-    "downloads": 4874
+    "downloads": 0
   },
   {
     "library": "Johnson",
-    "downloads": 38721
+    "downloads": 0
   },
   {
     "library": "joineR",
-    "downloads": 64013
+    "downloads": 0
   },
   {
     "library": "joineRmeta",
-    "downloads": 13821
+    "downloads": 0
   },
   {
     "library": "joineRML",
-    "downloads": 71753
+    "downloads": 0
   },
   {
     "library": "joinet",
-    "downloads": 10236
+    "downloads": 0
   },
   {
     "library": "joint.Cox",
-    "downloads": 50635
+    "downloads": 0
   },
   {
     "library": "JointAI",
-    "downloads": 21373
+    "downloads": 0
   },
   {
     "library": "jointDiag",
-    "downloads": 36101
+    "downloads": 0
   },
   {
     "library": "jointMeanCov",
-    "downloads": 8416
+    "downloads": 0
   },
   {
     "library": "JointModel",
-    "downloads": 19409
+    "downloads": 0
   },
   {
     "library": "JointNets",
-    "downloads": 12098
+    "downloads": 0
   },
   {
     "library": "jointNmix",
-    "downloads": 18933
+    "downloads": 0
   },
   {
     "library": "jointPm",
-    "downloads": 26742
+    "downloads": 0
   },
   {
     "library": "jointseg",
-    "downloads": 18802
+    "downloads": 0
   },
   {
     "library": "joinXL",
-    "downloads": 16532
+    "downloads": 0
   },
   {
     "library": "jomo",
-    "downloads": 1147663
+    "downloads": 0
   },
   {
     "library": "JOPS",
-    "downloads": 865
+    "downloads": 0
   },
   {
     "library": "jordan",
-    "downloads": 344
+    "downloads": 0
   },
   {
     "library": "JoSAE",
-    "downloads": 34798
+    "downloads": 0
   },
   {
     "library": "josaplay",
-    "downloads": 8993
+    "downloads": 0
   },
   {
     "library": "jose",
-    "downloads": 508417
+    "downloads": 0
   },
   {
     "library": "journalabbr",
-    "downloads": 3025
+    "downloads": 0
   },
   {
     "library": "JOUSBoost",
-    "downloads": 20748
+    "downloads": 0
   },
   {
     "library": "joyn",
-    "downloads": 473
+    "downloads": 0
   },
   {
     "library": "jpeg",
-    "downloads": 6850187
+    "downloads": 0
   },
   {
     "library": "JPEN",
-    "downloads": 20034
+    "downloads": 0
   },
   {
     "library": "jpmesh",
-    "downloads": 36394
+    "downloads": 0
   },
   {
     "library": "JQL",
-    "downloads": 10533
+    "downloads": 0
   },
   {
     "library": "jqr",
-    "downloads": 412441
+    "downloads": 0
   },
   {
     "library": "jquerylib",
-    "downloads": 942719
+    "downloads": 0
   },
   {
     "library": "jrc",
-    "downloads": 14074
+    "downloads": 0
   },
   {
     "library": "JRF",
-    "downloads": 21297
+    "downloads": 0
   },
   {
     "library": "jrich",
-    "downloads": 17617
+    "downloads": 0
   },
   {
     "library": "jrt",
-    "downloads": 11933
+    "downloads": 0
   },
   {
     "library": "jrvFinance",
-    "downloads": 34328
+    "downloads": 0
   },
   {
     "library": "js",
-    "downloads": 1376499
+    "downloads": 0
   },
   {
     "library": "JSconsole",
-    "downloads": 2386
+    "downloads": 0
   },
   {
     "library": "jSDM",
-    "downloads": 9114
+    "downloads": 0
   },
   {
     "library": "jskm",
-    "downloads": 16704
+    "downloads": 0
   },
   {
     "library": "JSM",
-    "downloads": 20519
+    "downloads": 0
   },
   {
     "library": "JSmediation",
-    "downloads": 10118
+    "downloads": 0
   },
   {
     "library": "jsmodule",
-    "downloads": 18659
+    "downloads": 0
   },
   {
     "library": "json64",
-    "downloads": 10388
+    "downloads": 0
   },
   {
     "library": "jSonarR",
-    "downloads": 28988
+    "downloads": 0
   },
   {
     "library": "jsonify",
-    "downloads": 220378
+    "downloads": 0
   },
   {
     "library": "jsonld",
-    "downloads": 51047
+    "downloads": 0
   },
   {
     "library": "jsonlite",
-    "downloads": 43340812
+    "downloads": 0
   },
   {
     "library": "jsonstat",
-    "downloads": 12386
+    "downloads": 0
   },
   {
     "library": "jsontools",
-    "downloads": 605
+    "downloads": 0
   },
   {
     "library": "jsonvalidate",
-    "downloads": 225258
+    "downloads": 0
   },
   {
     "library": "jsr223",
-    "downloads": 14173
+    "downloads": 0
   },
   {
     "library": "jstable",
-    "downloads": 22270
+    "downloads": 0
   },
   {
     "library": "jstor",
-    "downloads": 18024
+    "downloads": 0
   },
   {
     "library": "jsTree",
-    "downloads": 16782
+    "downloads": 0
   },
   {
     "library": "jsTreeR",
-    "downloads": 3812
+    "downloads": 0
   },
   {
     "library": "jti",
-    "downloads": 2758
+    "downloads": 0
   },
   {
     "library": "jtools",
-    "downloads": 337000
+    "downloads": 0
   },
   {
     "library": "jtrans",
-    "downloads": 27771
+    "downloads": 0
   },
   {
     "library": "jubilee",
-    "downloads": 14833
+    "downloads": 0
   },
   {
     "library": "juicr",
-    "downloads": 25
+    "downloads": 0
   },
   {
     "library": "Julia",
-    "downloads": 33966
+    "downloads": 0
   },
   {
     "library": "JuliaCall",
-    "downloads": 192671
+    "downloads": 0
   },
   {
     "library": "JuliaConnectoR",
-    "downloads": 6569
+    "downloads": 0
   },
   {
     "library": "JumpeR",
-    "downloads": 836
+    "downloads": 0
   },
   {
     "library": "JumpTest",
-    "downloads": 13850
+    "downloads": 0
   },
   {
     "library": "junctions",
-    "downloads": 13973
+    "downloads": 0
   },
   {
     "library": "jvcoords",
-    "downloads": 13522
+    "downloads": 0
   },
   {
     "library": "jvnVaR",
-    "downloads": 21584
+    "downloads": 0
   },
   {
     "library": "JWileymisc",
-    "downloads": 26188
+    "downloads": 0
   },
   {
     "library": "kableExtra",
-    "downloads": 1924451
+    "downloads": 0
   },
   {
     "library": "kader",
-    "downloads": 16337
+    "downloads": 0
   },
   {
     "library": "kamila",
-    "downloads": 24282
+    "downloads": 0
   },
   {
     "library": "kangar00",
-    "downloads": 80811
+    "downloads": 0
   },
   {
     "library": "KANT",
-    "downloads": 28075
+    "downloads": 0
   },
   {
     "library": "kantorovich",
-    "downloads": 16280
+    "downloads": 0
   },
   {
     "library": "kaos",
-    "downloads": 13604
+    "downloads": 0
   },
   {
     "library": "kaphom",
-    "downloads": 19405
+    "downloads": 0
   },
   {
     "library": "KappaGUI",
-    "downloads": 32254
+    "downloads": 0
   },
   {
     "library": "kappalab",
-    "downloads": 68196
+    "downloads": 0
   },
   {
     "library": "kappaSize",
-    "downloads": 35663
+    "downloads": 0
   },
   {
     "library": "KappaV",
-    "downloads": 28239
+    "downloads": 0
   },
   {
     "library": "kaps",
-    "downloads": 32115
+    "downloads": 0
   },
   {
     "library": "karaoke",
-    "downloads": 18220
+    "downloads": 0
   },
   {
     "library": "KarsTS",
-    "downloads": 19318
+    "downloads": 0
   },
   {
     "library": "kayadata",
-    "downloads": 11144
+    "downloads": 0
   },
   {
     "library": "kazaam",
-    "downloads": 10286
+    "downloads": 0
   },
   {
     "library": "KbMvtSkew",
-    "downloads": 12148
+    "downloads": 0
   },
   {
     "library": "kcirt",
-    "downloads": 30761
+    "downloads": 0
   },
   {
     "library": "kcopula",
-    "downloads": 4749
+    "downloads": 0
   },
   {
     "library": "kcpRS",
-    "downloads": 9307
+    "downloads": 0
   },
   {
     "library": "KCSKNNShiny",
-    "downloads": 8069
+    "downloads": 0
   },
   {
     "library": "KCSNBShiny",
-    "downloads": 8155
+    "downloads": 0
   },
   {
     "library": "kde1d",
-    "downloads": 22852
+    "downloads": 0
   },
   {
     "library": "kdecopula",
-    "downloads": 106315
+    "downloads": 0
   },
   {
     "library": "kdensity",
-    "downloads": 32737
+    "downloads": 0
   },
   {
     "library": "kdetrees",
-    "downloads": 36456
+    "downloads": 0
   },
   {
     "library": "kdevine",
-    "downloads": 18944
+    "downloads": 0
   },
   {
     "library": "kdist",
-    "downloads": 15234
+    "downloads": 0
   },
   {
     "library": "kedd",
-    "downloads": 40987
+    "downloads": 0
   },
   {
     "library": "keep",
-    "downloads": 24204
+    "downloads": 0
   },
   {
     "library": "kehra",
-    "downloads": 17532
+    "downloads": 0
   },
   {
     "library": "kelvin",
-    "downloads": 30322
+    "downloads": 0
   },
   {
     "library": "Kendall",
-    "downloads": 502960
+    "downloads": 0
   },
   {
     "library": "kendallRandomWalks",
-    "downloads": 12385
+    "downloads": 0
   },
   {
     "library": "KENDL",
-    "downloads": 18999
+    "downloads": 0
   },
   {
     "library": "KenSyn",
-    "downloads": 16057
+    "downloads": 0
   },
   {
     "library": "kequate",
-    "downloads": 40324
+    "downloads": 0
   },
   {
     "library": "keras",
-    "downloads": 900904
+    "downloads": 0
   },
   {
     "library": "kerasR",
-    "downloads": 65305
+    "downloads": 0
   },
   {
     "library": "kerastuneR",
-    "downloads": 8044
+    "downloads": 0
   },
   {
     "library": "kerdiest",
-    "downloads": 46528
+    "downloads": 0
   },
   {
     "library": "KERE",
-    "downloads": 22319
+    "downloads": 0
   },
   {
     "library": "kergp",
-    "downloads": 23905
+    "downloads": 0
   },
   {
     "library": "kerndwd",
-    "downloads": 32201
+    "downloads": 0
   },
   {
     "library": "kernelboot",
-    "downloads": 23877
+    "downloads": 0
   },
   {
     "library": "kernelFactory",
-    "downloads": 43407
+    "downloads": 0
   },
   {
     "library": "Kernelheaping",
-    "downloads": 27818
+    "downloads": 0
   },
   {
     "library": "KernelICA",
-    "downloads": 546
+    "downloads": 0
   },
   {
     "library": "KernelKnn",
-    "downloads": 75351
+    "downloads": 0
   },
   {
     "library": "kernelPhil",
-    "downloads": 797
+    "downloads": 0
   },
   {
     "library": "kernelPSI",
-    "downloads": 9431
+    "downloads": 0
   },
   {
     "library": "kernhaz",
-    "downloads": 10786
+    "downloads": 0
   },
   {
     "library": "kernlab",
-    "downloads": 6269679
+    "downloads": 0
   },
   {
     "library": "kernplus",
-    "downloads": 16280
+    "downloads": 0
   },
   {
     "library": "kernscr",
-    "downloads": 18366
+    "downloads": 0
   },
   {
     "library": "KernSmooth",
-    "downloads": 2171772
+    "downloads": 0
   },
   {
     "library": "KernSmoothIRT",
-    "downloads": 41202
+    "downloads": 0
   },
   {
     "library": "kerTests",
-    "downloads": 2929
+    "downloads": 0
   },
   {
     "library": "keyATM",
-    "downloads": 6963
+    "downloads": 0
   },
   {
     "library": "Keyboard",
-    "downloads": 3090
+    "downloads": 0
   },
   {
     "library": "KeyboardSimulator",
-    "downloads": 20180
+    "downloads": 0
   },
   {
     "library": "keyholder",
-    "downloads": 16686
+    "downloads": 0
   },
   {
     "library": "keyplayer",
-    "downloads": 21662
+    "downloads": 0
   },
   {
     "library": "keypress",
-    "downloads": 25730
+    "downloads": 0
   },
   {
     "library": "keyring",
-    "downloads": 106228
+    "downloads": 0
   },
   {
     "library": "keyringr",
-    "downloads": 22637
+    "downloads": 0
   },
   {
     "library": "keys",
-    "downloads": 2525
+    "downloads": 0
   },
   {
     "library": "keyToEnglish",
-    "downloads": 3164
+    "downloads": 0
   },
   {
     "library": "KFAS",
-    "downloads": 443210
+    "downloads": 0
   },
   {
     "library": "kfda",
-    "downloads": 14991
+    "downloads": 0
   },
   {
     "library": "kfigr",
-    "downloads": 30594
+    "downloads": 0
   },
   {
     "library": "KFKSDS",
-    "downloads": 72995
+    "downloads": 0
   },
   {
     "library": "KFPCA",
-    "downloads": 1101
+    "downloads": 0
   },
   {
     "library": "kgc",
-    "downloads": 17799
+    "downloads": 0
   },
   {
     "library": "KGode",
-    "downloads": 16460
+    "downloads": 0
   },
   {
     "library": "kgrams",
-    "downloads": 1073
+    "downloads": 0
   },
   {
     "library": "kgschart",
-    "downloads": 15936
+    "downloads": 0
   },
   {
     "library": "khroma",
-    "downloads": 17098
+    "downloads": 0
   },
   {
     "library": "kibior",
-    "downloads": 1485
+    "downloads": 0
   },
   {
     "library": "kidney.epi",
-    "downloads": 12334
+    "downloads": 0
   },
   {
     "library": "kim",
-    "downloads": 2936
+    "downloads": 0
   },
   {
     "library": "kimisc",
-    "downloads": 108741
+    "downloads": 0
   },
   {
     "library": "kin.cohort",
-    "downloads": 30275
+    "downloads": 0
   },
   {
     "library": "kindisperse",
-    "downloads": 451
+    "downloads": 0
   },
   {
     "library": "kineticF",
-    "downloads": 20160
+    "downloads": 0
   },
   {
     "library": "kinship2",
-    "downloads": 222214
+    "downloads": 0
   },
   {
     "library": "kirby21.base",
-    "downloads": 21267
+    "downloads": 0
   },
   {
     "library": "kirby21.fmri",
-    "downloads": 16915
+    "downloads": 0
   },
   {
     "library": "kirby21.t1",
-    "downloads": 17320
+    "downloads": 0
   },
   {
     "library": "kissmig",
-    "downloads": 21949
+    "downloads": 0
   },
   {
     "library": "kit",
-    "downloads": 13270
+    "downloads": 0
   },
   {
     "library": "kitagawa",
-    "downloads": 29942
+    "downloads": 0
   },
   {
     "library": "kittyR",
-    "downloads": 1672
+    "downloads": 0
   },
   {
     "library": "kiwisR",
-    "downloads": 13261
+    "downloads": 0
   },
   {
     "library": "kknn",
-    "downloads": 434690
+    "downloads": 0
   },
   {
     "library": "klaR",
-    "downloads": 1983731
+    "downloads": 0
   },
   {
     "library": "klassR",
-    "downloads": 8898
+    "downloads": 0
   },
   {
     "library": "klausuR",
-    "downloads": 28791
+    "downloads": 0
   },
   {
     "library": "klexdatr",
-    "downloads": 4402
+    "downloads": 0
   },
   {
     "library": "klic",
-    "downloads": 5669
+    "downloads": 0
   },
   {
     "library": "klsh",
-    "downloads": 2269
+    "downloads": 0
   },
   {
     "library": "klustR",
-    "downloads": 7274
+    "downloads": 0
   },
   {
     "library": "km.ci",
-    "downloads": 475810
+    "downloads": 0
   },
   {
     "library": "kmc",
-    "downloads": 24151
+    "downloads": 0
   },
   {
     "library": "kmcudaR",
-    "downloads": 4444
+    "downloads": 0
   },
   {
     "library": "KMDA",
-    "downloads": 28906
+    "downloads": 0
   },
   {
     "library": "kmed",
-    "downloads": 24766
+    "downloads": 0
   },
   {
     "library": "kmer",
-    "downloads": 27623
+    "downloads": 0
   },
   {
     "library": "kmi",
-    "downloads": 49936
+    "downloads": 0
   },
   {
     "library": "kml",
-    "downloads": 61130
+    "downloads": 0
   },
   {
     "library": "kml3d",
-    "downloads": 38065
+    "downloads": 0
   },
   {
     "library": "kmlShape",
-    "downloads": 21619
+    "downloads": 0
   },
   {
     "library": "kmodR",
-    "downloads": 49612
+    "downloads": 0
   },
   {
     "library": "KMsurv",
-    "downloads": 552245
+    "downloads": 0
   },
   {
     "library": "KMunicate",
-    "downloads": 4273
+    "downloads": 0
   },
   {
     "library": "KnapsackSampling",
-    "downloads": 15961
+    "downloads": 0
   },
   {
     "library": "KneeArrower",
-    "downloads": 2736
+    "downloads": 0
   },
   {
     "library": "knitcitations",
-    "downloads": 183197
+    "downloads": 0
   },
   {
     "library": "knitLatex",
-    "downloads": 40178
+    "downloads": 0
   },
   {
     "library": "knitr",
-    "downloads": 31571155
+    "downloads": 0
   },
   {
     "library": "knitrBootstrap",
-    "downloads": 58387
+    "downloads": 0
   },
   {
     "library": "knitrdata",
-    "downloads": 5854
+    "downloads": 0
   },
   {
     "library": "knitrProgressBar",
-    "downloads": 15061
+    "downloads": 0
   },
   {
     "library": "knn.covertree",
-    "downloads": 18532
+    "downloads": 0
   },
   {
     "library": "knnIndep",
-    "downloads": 28424
+    "downloads": 0
   },
   {
     "library": "knnp",
-    "downloads": 12282
+    "downloads": 0
   },
   {
     "library": "KNNShiny",
-    "downloads": 9003
+    "downloads": 0
   },
   {
     "library": "knockoff",
-    "downloads": 31582
+    "downloads": 0
   },
   {
     "library": "KnockoffScreen",
@@ -31005,6 +31017,10 @@
   },
   {
     "library": "latex2exp",
+    "downloads": 0
+  },
+  {
+    "library": "latexdiffr",
     "downloads": 0
   },
   {
@@ -41308,6 +41324,10 @@
     "downloads": 0
   },
   {
+    "library": "onbabynames",
+    "downloads": 0
+  },
+  {
     "library": "OncoBayes2",
     "downloads": 0
   },
@@ -50444,6 +50464,10 @@
     "downloads": 0
   },
   {
+    "library": "re2",
+    "downloads": 0
+  },
+  {
     "library": "reactable",
     "downloads": 0
   },
@@ -56288,6 +56312,10 @@
     "downloads": 0
   },
   {
+    "library": "scINSIGHT",
+    "downloads": 0
+  },
+  {
     "library": "sciplot",
     "downloads": 0
   },
@@ -57500,6 +57528,10 @@
     "downloads": 0
   },
   {
+    "library": "SFSI",
+    "downloads": 0
+  },
+  {
     "library": "sfsmisc",
     "downloads": 0
   },
@@ -58521,6 +58553,10 @@
   },
   {
     "library": "simplegraphdb",
+    "downloads": 0
+  },
+  {
+    "library": "simpleMH",
     "downloads": 0
   },
   {
@@ -65917,6 +65953,10 @@
   },
   {
     "library": "trotter",
+    "downloads": 0
+  },
+  {
+    "library": "TrtCombo.FactorialExp.SR",
     "downloads": 0
   },
   {
