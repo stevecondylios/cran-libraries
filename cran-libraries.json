@@ -3688,6 +3688,10 @@
     "downloads": 20340
   },
   {
+    "library": "bayesrules",
+    "downloads": 0
+  },
+  {
     "library": "bayess",
     "downloads": 39332
   },
@@ -5850,6 +5854,10 @@
   {
     "library": "bootES",
     "downloads": 78368
+  },
+  {
+    "library": "bootGOF",
+    "downloads": 0
   },
   {
     "library": "bootImpute",
@@ -11466,6 +11474,10 @@
   {
     "library": "CrypticIBDcheck",
     "downloads": 33045
+  },
+  {
+    "library": "crypto2",
+    "downloads": 0
   },
   {
     "library": "cryptowatchR",
@@ -21601,979 +21613,979 @@
   },
   {
     "library": "G1DBN",
-    "downloads": 0
+    "downloads": 36472
   },
   {
     "library": "g2f",
-    "downloads": 0
+    "downloads": 18610
   },
   {
     "library": "G2Sd",
-    "downloads": 0
+    "downloads": 38818
   },
   {
     "library": "g3viz",
-    "downloads": 0
+    "downloads": 20711
   },
   {
     "library": "GA",
-    "downloads": 0
+    "downloads": 306680
   },
   {
     "library": "GAabbreviate",
-    "downloads": 0
+    "downloads": 26254
   },
   {
     "library": "GABi",
-    "downloads": 0
+    "downloads": 27263
   },
   {
     "library": "GACFF",
-    "downloads": 0
+    "downloads": 11995
   },
   {
     "library": "GAD",
-    "downloads": 0
+    "downloads": 48995
   },
   {
     "library": "GADAG",
-    "downloads": 0
+    "downloads": 17821
   },
   {
     "library": "gadget2",
-    "downloads": 0
+    "downloads": 8136
   },
   {
     "library": "GaDiFPT",
-    "downloads": 0
+    "downloads": 26997
   },
   {
     "library": "GADMTools",
-    "downloads": 0
+    "downloads": 36905
   },
   {
     "library": "gafit",
-    "downloads": 0
+    "downloads": 25028
   },
   {
     "library": "gaiah",
-    "downloads": 0
+    "downloads": 18081
   },
   {
     "library": "gainML",
-    "downloads": 0
+    "downloads": 7424
   },
   {
     "library": "gains",
-    "downloads": 0
+    "downloads": 122727
   },
   {
     "library": "GAIPE",
-    "downloads": 0
+    "downloads": 31494
   },
   {
     "library": "galah",
-    "downloads": 0
+    "downloads": 1423
   },
   {
     "library": "GALLO",
-    "downloads": 0
+    "downloads": 4943
   },
   {
     "library": "galts",
-    "downloads": 0
+    "downloads": 32159
   },
   {
     "library": "galvanizer",
-    "downloads": 0
+    "downloads": 1892
   },
   {
     "library": "gam",
-    "downloads": 0
+    "downloads": 1471368
   },
   {
     "library": "gamair",
-    "downloads": 0
+    "downloads": 148147
   },
   {
     "library": "gambin",
-    "downloads": 0
+    "downloads": 40048
   },
   {
     "library": "gamblers.ruin.gameplay",
-    "downloads": 0
+    "downloads": 518
   },
   {
     "library": "gamboostLSS",
-    "downloads": 0
+    "downloads": 135432
   },
   {
     "library": "gamboostMSM",
-    "downloads": 0
+    "downloads": 29272
   },
   {
     "library": "gamclass",
-    "downloads": 0
+    "downloads": 31170
   },
   {
     "library": "gamCopula",
-    "downloads": 0
+    "downloads": 20741
   },
   {
     "library": "GAMens",
-    "downloads": 0
+    "downloads": 24835
   },
   {
     "library": "gameofthrones",
-    "downloads": 0
+    "downloads": 68908
   },
   {
     "library": "games",
-    "downloads": 0
+    "downloads": 37899
   },
   {
     "library": "gamesGA",
-    "downloads": 0
+    "downloads": 15662
   },
   {
     "library": "GameTheory",
-    "downloads": 0
+    "downloads": 33725
   },
   {
     "library": "GameTheoryAllocation",
-    "downloads": 0
+    "downloads": 43780
   },
   {
     "library": "gamlr",
-    "downloads": 0
+    "downloads": 80176
   },
   {
     "library": "gamlss",
-    "downloads": 0
+    "downloads": 621643
   },
   {
     "library": "gamlss.add",
-    "downloads": 0
+    "downloads": 49270
   },
   {
     "library": "gamlss.cens",
-    "downloads": 0
+    "downloads": 47798
   },
   {
     "library": "gamlss.countKinf",
-    "downloads": 0
+    "downloads": 11962
   },
   {
     "library": "gamlss.data",
-    "downloads": 0
+    "downloads": 541055
   },
   {
     "library": "gamlss.demo",
-    "downloads": 0
+    "downloads": 32436
   },
   {
     "library": "gamlss.dist",
-    "downloads": 0
+    "downloads": 658774
   },
   {
     "library": "gamlss.foreach",
-    "downloads": 0
+    "downloads": 1085
   },
   {
     "library": "gamlss.inf",
-    "downloads": 0
+    "downloads": 13812
   },
   {
     "library": "gamlss.lasso",
-    "downloads": 0
+    "downloads": 1072
   },
   {
     "library": "gamlss.mx",
-    "downloads": 0
+    "downloads": 48100
   },
   {
     "library": "gamlss.nl",
-    "downloads": 0
+    "downloads": 37036
   },
   {
     "library": "gamlss.spatial",
-    "downloads": 0
+    "downloads": 36471
   },
   {
     "library": "gamlss.tr",
-    "downloads": 0
+    "downloads": 55692
   },
   {
     "library": "gamlssbssn",
-    "downloads": 0
+    "downloads": 17461
   },
   {
     "library": "gamm4",
-    "downloads": 0
+    "downloads": 453223
   },
   {
     "library": "gamm4.test",
-    "downloads": 0
+    "downloads": 13926
   },
   {
     "library": "gamma",
-    "downloads": 0
+    "downloads": 3786
   },
   {
     "library": "Gammareg",
-    "downloads": 0
+    "downloads": 17622
   },
   {
     "library": "gammSlice",
-    "downloads": 0
+    "downloads": 28200
   },
   {
     "library": "gamreg",
-    "downloads": 0
+    "downloads": 19621
   },
   {
     "library": "gamRR",
-    "downloads": 0
+    "downloads": 23226
   },
   {
     "library": "gamsel",
-    "downloads": 0
+    "downloads": 23827
   },
   {
     "library": "ganalytics",
-    "downloads": 0
+    "downloads": 23736
   },
   {
     "library": "ganGenerativeData",
-    "downloads": 0
+    "downloads": 895
   },
   {
     "library": "GANPA",
-    "downloads": 0
+    "downloads": 35122
   },
   {
     "library": "GANPAdata",
-    "downloads": 0
+    "downloads": 33457
   },
   {
     "library": "gap",
-    "downloads": 0
+    "downloads": 210799
   },
   {
     "library": "gap.datasets",
-    "downloads": 0
+    "downloads": 26389
   },
   {
     "library": "GapAnalysis",
-    "downloads": 0
+    "downloads": 2731
   },
   {
     "library": "GAparsimony",
-    "downloads": 0
+    "downloads": 17595
   },
   {
     "library": "gapfill",
-    "downloads": 0
+    "downloads": 25701
   },
   {
     "library": "gapmap",
-    "downloads": 0
+    "downloads": 21432
   },
   {
     "library": "gapminder",
-    "downloads": 0
+    "downloads": 1171688
   },
   {
     "library": "GARCHIto",
-    "downloads": 0
+    "downloads": 3647
   },
   {
     "library": "garchmodels",
-    "downloads": 0
+    "downloads": 2262
   },
   {
     "library": "garchx",
-    "downloads": 0
+    "downloads": 9369
   },
   {
     "library": "GARCOM",
-    "downloads": 0
+    "downloads": 2902
   },
   {
     "library": "gargle",
-    "downloads": 0
+    "downloads": 7418179
   },
   {
     "library": "gargoyle",
-    "downloads": 0
+    "downloads": 1396
   },
   {
     "library": "garma",
-    "downloads": 0
+    "downloads": 5808
   },
   {
     "library": "garray",
-    "downloads": 0
+    "downloads": 16506
   },
   {
     "library": "GAS",
-    "downloads": 0
+    "downloads": 51263
   },
   {
     "library": "gaselect",
-    "downloads": 0
+    "downloads": 25191
   },
   {
     "library": "gasfluxes",
-    "downloads": 0
+    "downloads": 23490
   },
   {
     "library": "GaSP",
-    "downloads": 0
+    "downloads": 189
   },
   {
     "library": "gasper",
-    "downloads": 0
+    "downloads": 4759
   },
   {
     "library": "gastempt",
-    "downloads": 0
+    "downloads": 16395
   },
   {
     "library": "gaston",
-    "downloads": 0
+    "downloads": 59978
   },
   {
     "library": "gatepoints",
-    "downloads": 0
+    "downloads": 22550
   },
   {
     "library": "gateR",
-    "downloads": 0
+    "downloads": 3636
   },
   {
     "library": "GauPro",
-    "downloads": 0
+    "downloads": 25557
   },
   {
     "library": "gauseR",
-    "downloads": 0
+    "downloads": 3334
   },
   {
     "library": "gausscov",
-    "downloads": 0
+    "downloads": 18076
   },
   {
     "library": "gaussDiff",
-    "downloads": 0
+    "downloads": 38537
   },
   {
     "library": "gaussfacts",
-    "downloads": 0
+    "downloads": 22644
   },
   {
     "library": "GaussianHMM1d",
-    "downloads": 0
+    "downloads": 11017
   },
   {
     "library": "gaussplotR",
-    "downloads": 0
+    "downloads": 3595
   },
   {
     "library": "gaussquad",
-    "downloads": 0
+    "downloads": 42293
   },
   {
     "library": "gawdis",
-    "downloads": 0
+    "downloads": 3561
   },
   {
     "library": "gazepath",
-    "downloads": 0
+    "downloads": 26217
   },
   {
     "library": "gb",
-    "downloads": 0
+    "downloads": 34736
   },
   {
     "library": "GB2",
-    "downloads": 0
+    "downloads": 37471
   },
   {
     "library": "GB2group",
-    "downloads": 0
+    "downloads": 13298
   },
   {
     "library": "GBcurves",
-    "downloads": 0
+    "downloads": 2227
   },
   {
     "library": "gbeta",
-    "downloads": 0
+    "downloads": 2496
   },
   {
     "library": "gbfs",
-    "downloads": 0
+    "downloads": 19974
   },
   {
     "library": "GBJ",
-    "downloads": 0
+    "downloads": 48170
   },
   {
     "library": "gbm",
-    "downloads": 0
+    "downloads": 1629275
   },
   {
     "library": "gbm.auto",
-    "downloads": 0
+    "downloads": 1860
   },
   {
     "library": "gbm2sas",
-    "downloads": 0
+    "downloads": 24242
   },
   {
     "library": "gbp",
-    "downloads": 0
+    "downloads": 19464
   },
   {
     "library": "gbRd",
-    "downloads": 0
+    "downloads": 942840
   },
   {
     "library": "gbs2ploidy",
-    "downloads": 0
+    "downloads": 18036
   },
   {
     "library": "gbts",
-    "downloads": 0
+    "downloads": 18552
   },
   {
     "library": "gbutils",
-    "downloads": 0
+    "downloads": 34282
   },
   {
     "library": "GCAI.bias",
-    "downloads": 0
+    "downloads": 28393
   },
   {
     "library": "GCalcium",
-    "downloads": 0
+    "downloads": 10962
   },
   {
     "library": "GCalignR",
-    "downloads": 0
+    "downloads": 22185
   },
   {
     "library": "gCat",
-    "downloads": 0
+    "downloads": 25996
   },
   {
     "library": "gcbd",
-    "downloads": 0
+    "downloads": 16702
   },
   {
     "library": "GCD",
-    "downloads": 0
+    "downloads": 39354
   },
   {
     "library": "gcdnet",
-    "downloads": 0
+    "downloads": 33552
   },
   {
     "library": "gcerisk",
-    "downloads": 0
+    "downloads": 25523
   },
   {
     "library": "gcite",
-    "downloads": 0
+    "downloads": 20573
   },
   {
     "library": "gcKrig",
-    "downloads": 0
+    "downloads": 24724
   },
   {
     "library": "gclm",
-    "downloads": 0
+    "downloads": 3959
   },
   {
     "library": "gclus",
-    "downloads": 0
+    "downloads": 1386623
   },
   {
     "library": "gcmr",
-    "downloads": 0
+    "downloads": 39776
   },
   {
     "library": "gconsensus",
-    "downloads": 0
+    "downloads": 3692
   },
   {
     "library": "gcookbook",
-    "downloads": 0
+    "downloads": 282119
   },
   {
     "library": "GCPM",
-    "downloads": 0
+    "downloads": 37821
   },
   {
     "library": "GCSM",
-    "downloads": 0
+    "downloads": 2916
   },
   {
     "library": "GD",
-    "downloads": 0
+    "downloads": 21346
   },
   {
     "library": "GDAdata",
-    "downloads": 0
+    "downloads": 28810
   },
   {
     "library": "gdalcubes",
-    "downloads": 0
+    "downloads": 16712
   },
   {
     "library": "gdalUtilities",
-    "downloads": 0
+    "downloads": 21266
   },
   {
     "library": "gdalUtils",
-    "downloads": 0
+    "downloads": 443677
   },
   {
     "library": "gdata",
-    "downloads": 0
+    "downloads": 7578451
   },
   {
     "library": "GDAtools",
-    "downloads": 0
+    "downloads": 38394
   },
   {
     "library": "gde",
-    "downloads": 0
+    "downloads": 3413
   },
   {
     "library": "gDefrag",
-    "downloads": 0
+    "downloads": 14298
   },
   {
     "library": "GDELTtools",
-    "downloads": 0
+    "downloads": 30848
   },
   {
     "library": "gdiff",
-    "downloads": 0
+    "downloads": 4598
   },
   {
     "library": "GDINA",
-    "downloads": 0
+    "downloads": 71089
   },
   {
     "library": "gdistance",
-    "downloads": 0
+    "downloads": 171711
   },
   {
     "library": "gdm",
-    "downloads": 0
+    "downloads": 47588
   },
   {
     "library": "gdmp",
-    "downloads": 0
+    "downloads": 21845
   },
   {
     "library": "gdns",
-    "downloads": 0
+    "downloads": 21257
   },
   {
     "library": "gdpc",
-    "downloads": 0
+    "downloads": 28093
   },
   {
     "library": "gds",
-    "downloads": 0
+    "downloads": 23723
   },
   {
     "library": "gdtools",
-    "downloads": 0
+    "downloads": 2349116
   },
   {
     "library": "gdxdt",
-    "downloads": 0
+    "downloads": 8611
   },
   {
     "library": "GE",
-    "downloads": 0
+    "downloads": 8835
   },
   {
     "library": "gear",
-    "downloads": 0
+    "downloads": 28577
   },
   {
     "library": "GeDS",
-    "downloads": 0
+    "downloads": 17193
   },
   {
     "library": "gee",
-    "downloads": 0
+    "downloads": 439973
   },
   {
     "library": "GEEaSPU",
-    "downloads": 0
+    "downloads": 19314
   },
   {
     "library": "geeCRT",
-    "downloads": 0
+    "downloads": 2705
   },
   {
     "library": "geecure",
-    "downloads": 0
+    "downloads": 16557
   },
   {
     "library": "geeM",
-    "downloads": 0
+    "downloads": 80839
   },
   {
     "library": "GEEmediate",
-    "downloads": 0
+    "downloads": 19323
   },
   {
     "library": "geepack",
-    "downloads": 0
+    "downloads": 645843
   },
   {
     "library": "geesmv",
-    "downloads": 0
+    "downloads": 26545
   },
   {
     "library": "geex",
-    "downloads": 0
+    "downloads": 17612
   },
   {
     "library": "geigen",
-    "downloads": 0
+    "downloads": 74687
   },
   {
     "library": "geiger",
-    "downloads": 0
+    "downloads": 239291
   },
   {
     "library": "GEint",
-    "downloads": 0
+    "downloads": 20592
   },
   {
     "library": "gelnet",
-    "downloads": 0
+    "downloads": 26615
   },
   {
     "library": "gemlog",
-    "downloads": 0
+    "downloads": 23837
   },
   {
     "library": "gemma2",
-    "downloads": 0
+    "downloads": 10035
   },
   {
     "library": "gems",
-    "downloads": 0
+    "downloads": 38166
   },
   {
     "library": "gemtc",
-    "downloads": 0
+    "downloads": 72643
   },
   {
     "library": "gen2stage",
-    "downloads": 0
+    "downloads": 9638
   },
   {
     "library": "gen3sis",
-    "downloads": 0
+    "downloads": 5029
   },
   {
     "library": "gen5helper",
-    "downloads": 0
+    "downloads": 8328
   },
   {
     "library": "genalg",
-    "downloads": 0
+    "downloads": 146782
   },
   {
     "library": "GenAlgo",
-    "downloads": 0
+    "downloads": 20775
   },
   {
     "library": "genasis",
-    "downloads": 0
+    "downloads": 25177
   },
   {
     "library": "genBaRcode",
-    "downloads": 0
+    "downloads": 12057
   },
   {
     "library": "GenBinomApps",
-    "downloads": 0
+    "downloads": 42690
   },
   {
     "library": "gencve",
-    "downloads": 0
+    "downloads": 19839
   },
   {
     "library": "gendata",
-    "downloads": 0
+    "downloads": 30278
   },
   {
     "library": "gender",
-    "downloads": 0
+    "downloads": 409627
   },
   {
     "library": "genderBR",
-    "downloads": 0
+    "downloads": 20313
   },
   {
     "library": "gendist",
-    "downloads": 0
+    "downloads": 26387
   },
   {
     "library": "GENEAclassify",
-    "downloads": 0
+    "downloads": 26404
   },
   {
     "library": "GENEAread",
-    "downloads": 0
+    "downloads": 45560
   },
   {
     "library": "GENEAsphere",
-    "downloads": 0
+    "downloads": 10988
   },
   {
     "library": "GeneBook",
-    "downloads": 0
+    "downloads": 9631
   },
   {
     "library": "GeneClusterNet",
-    "downloads": 0
+    "downloads": 18267
   },
   {
     "library": "GeneCycle",
-    "downloads": 0
+    "downloads": 53767
   },
   {
     "library": "geneExpressionFromGEO",
-    "downloads": 0
+    "downloads": 3127
   },
   {
     "library": "GeneF",
-    "downloads": 0
+    "downloads": 34352
   },
   {
     "library": "geneHummus",
-    "downloads": 0
+    "downloads": 11218
   },
   {
     "library": "geneListPie",
-    "downloads": 0
+    "downloads": 29204
   },
   {
     "library": "genemodel",
-    "downloads": 0
+    "downloads": 19363
   },
   {
     "library": "GeneNet",
-    "downloads": 0
+    "downloads": 96497
   },
   {
     "library": "geneNetBP",
-    "downloads": 0
+    "downloads": 19766
   },
   {
     "library": "genepi",
-    "downloads": 0
+    "downloads": 31824
   },
   {
     "library": "genepop",
-    "downloads": 0
+    "downloads": 31012
   },
   {
     "library": "generalCorr",
-    "downloads": 0
+    "downloads": 36604
   },
   {
     "library": "generalhoslem",
-    "downloads": 0
+    "downloads": 53981
   },
   {
     "library": "GeneralisedCovarianceMeasure",
-    "downloads": 0
+    "downloads": 9560
   },
   {
     "library": "GeneralizedHyperbolic",
-    "downloads": 0
+    "downloads": 710183
   },
   {
     "library": "GeneralizedUmatrix",
-    "downloads": 0
+    "downloads": 27580
   },
   {
     "library": "GeneralOaxaca",
-    "downloads": 0
+    "downloads": 21526
   },
   {
     "library": "generator",
-    "downloads": 0
+    "downloads": 23868
   },
   {
     "library": "generics",
-    "downloads": 0
+    "downloads": 12831947
   },
   {
     "library": "genero",
-    "downloads": 0
+    "downloads": 7068
   },
   {
     "library": "geneSignatureFinder",
-    "downloads": 0
+    "downloads": 28790
   },
   {
     "library": "GenEst",
-    "downloads": 0
+    "downloads": 22057
   },
   {
     "library": "genesysr",
-    "downloads": 0
+    "downloads": 13722
   },
   {
     "library": "genetics",
-    "downloads": 0
+    "downloads": 199591
   },
   {
     "library": "GeneticSubsetter",
-    "downloads": 0
+    "downloads": 26604
   },
   {
     "library": "GeNetIt",
-    "downloads": 0
+    "downloads": 22705
   },
   {
     "library": "GenForImp",
-    "downloads": 0
+    "downloads": 24913
   },
   {
     "library": "GenHMM1d",
-    "downloads": 0
+    "downloads": 1831
   },
   {
     "library": "genie",
-    "downloads": 0
+    "downloads": 27288
   },
   {
     "library": "genieclust",
-    "downloads": 0
+    "downloads": 7552
   },
   {
     "library": "genio",
-    "downloads": 0
+    "downloads": 12156
   },
   {
     "library": "genius",
-    "downloads": 0
+    "downloads": 22813
   },
   {
     "library": "geniusr",
-    "downloads": 0
+    "downloads": 20463
   },
   {
     "library": "GenKern",
-    "downloads": 0
+    "downloads": 60562
   },
   {
     "library": "genlasso",
-    "downloads": 0
+    "downloads": 59603
   },
   {
     "library": "GENLIB",
-    "downloads": 0
+    "downloads": 32068
   },
   {
     "library": "genlogis",
-    "downloads": 0
+    "downloads": 16991
   },
   {
     "library": "GENMETA",
-    "downloads": 0
+    "downloads": 11964
   },
   {
     "library": "geno2proteo",
-    "downloads": 0
+    "downloads": 14992
   },
   {
     "library": "genodds",
-    "downloads": 0
+    "downloads": 9022
   },
   {
     "library": "genogeographer",
-    "downloads": 0
+    "downloads": 14659
   },
   {
     "library": "GenomeAdmixR",
-    "downloads": 0
+    "downloads": 2376
   },
   {
     "library": "genomeplot",
-    "downloads": 0
+    "downloads": 18470
   },
   {
     "library": "genomic.autocorr",
-    "downloads": 0
+    "downloads": 15782
   },
   {
     "library": "GenomicMating",
-    "downloads": 0
+    "downloads": 20411
   },
   {
     "library": "genomicper",
-    "downloads": 0
+    "downloads": 23060
   },
   {
     "library": "GenomicTools",
-    "downloads": 0
+    "downloads": 28924
   },
   {
     "library": "GenomicTools.fileHandler",
-    "downloads": 0
+    "downloads": 19428
   },
   {
     "library": "genoPlotR",
-    "downloads": 0
+    "downloads": 50595
   },
   {
     "library": "GenOrd",
-    "downloads": 0
+    "downloads": 43936
   },
   {
     "library": "GenoScan",
-    "downloads": 0
+    "downloads": 11583
   },
   {
     "library": "genotypeR",
-    "downloads": 0
+    "downloads": 16032
   },
   {
     "library": "genpathmox",
-    "downloads": 0
+    "downloads": 25616
   },
   {
     "library": "genpwr",
-    "downloads": 0
+    "downloads": 12986
   },
   {
     "library": "genridge",
-    "downloads": 0
+    "downloads": 38201
   },
   {
     "library": "GenSA",
-    "downloads": 0
+    "downloads": 269525
   },
   {
     "library": "genscore",
-    "downloads": 0
+    "downloads": 4532
   },
   {
     "library": "genSEIR",
@@ -22581,211 +22593,211 @@
   },
   {
     "library": "genset",
-    "downloads": 0
+    "downloads": 3327
   },
   {
     "library": "gensphere",
-    "downloads": 0
+    "downloads": 20334
   },
   {
     "library": "genSurv",
-    "downloads": 0
+    "downloads": 32726
   },
   {
     "library": "gensvm",
-    "downloads": 0
+    "downloads": 19659
   },
   {
     "library": "GenTag",
-    "downloads": 0
+    "downloads": 13938
   },
   {
     "library": "genTS",
-    "downloads": 0
+    "downloads": 7340
   },
   {
     "library": "GenWin",
-    "downloads": 0
+    "downloads": 27280
   },
   {
     "library": "geoBayes",
-    "downloads": 0
+    "downloads": 33375
   },
   {
     "library": "GeoBoxplot",
-    "downloads": 0
+    "downloads": 24794
   },
   {
     "library": "geobr",
-    "downloads": 0
+    "downloads": 33787
   },
   {
     "library": "geocacheR",
-    "downloads": 0
+    "downloads": 7547
   },
   {
     "library": "geocmeans",
-    "downloads": 0
+    "downloads": 801
   },
   {
     "library": "geodaData",
-    "downloads": 0
+    "downloads": 4647
   },
   {
     "library": "geodata",
-    "downloads": 0
+    "downloads": 360
   },
   {
     "library": "GeoDE",
-    "downloads": 0
+    "downloads": 26984
   },
   {
     "library": "GeodesiCL",
-    "downloads": 0
+    "downloads": 327
   },
   {
     "library": "geodetector",
-    "downloads": 0
+    "downloads": 14751
   },
   {
     "library": "geodimension",
-    "downloads": 0
+    "downloads": 2511
   },
   {
     "library": "geodist",
-    "downloads": 0
+    "downloads": 41999
   },
   {
     "library": "geodiv",
-    "downloads": 0
+    "downloads": 9731
   },
   {
     "library": "geodrawr",
-    "downloads": 0
+    "downloads": 4598
   },
   {
     "library": "GeodRegr",
-    "downloads": 0
+    "downloads": 2775
   },
   {
     "library": "geoelectrics",
-    "downloads": 0
+    "downloads": 20735
   },
   {
     "library": "geofabrik",
-    "downloads": 0
+    "downloads": 5017
   },
   {
     "library": "geofacet",
-    "downloads": 0
+    "downloads": 41409
   },
   {
     "library": "geofd",
-    "downloads": 0
+    "downloads": 23662
   },
   {
     "library": "geofi",
-    "downloads": 0
+    "downloads": 1880
   },
   {
     "library": "geoFKF",
-    "downloads": 0
+    "downloads": 2698
   },
   {
     "library": "geoGAM",
-    "downloads": 0
+    "downloads": 18472
   },
   {
     "library": "geogenr",
-    "downloads": 0
+    "downloads": 2009
   },
   {
     "library": "geogrid",
-    "downloads": 0
+    "downloads": 38235
   },
   {
     "library": "geohashTools",
-    "downloads": 0
+    "downloads": 33714
   },
   {
     "library": "geojson",
-    "downloads": 0
+    "downloads": 344475
   },
   {
     "library": "geojsonio",
-    "downloads": 0
+    "downloads": 467095
   },
   {
     "library": "geojsonlint",
-    "downloads": 0
+    "downloads": 209786
   },
   {
     "library": "geojsonR",
-    "downloads": 0
+    "downloads": 44926
   },
   {
     "library": "geojsonsf",
-    "downloads": 0
+    "downloads": 256885
   },
   {
     "library": "geoknife",
-    "downloads": 0
+    "downloads": 66717
   },
   {
     "library": "GeoLight",
-    "downloads": 0
+    "downloads": 41615
   },
   {
     "library": "geomander",
-    "downloads": 0
+    "downloads": 192
   },
   {
     "library": "GEOmap",
-    "downloads": 0
+    "downloads": 116343
   },
   {
     "library": "geomapdata",
-    "downloads": 0
+    "downloads": 68082
   },
   {
     "library": "GeomComb",
-    "downloads": 0
+    "downloads": 21438
   },
   {
     "library": "geomedb",
-    "downloads": 0
+    "downloads": 18212
   },
   {
     "library": "geomerge",
-    "downloads": 0
+    "downloads": 18657
   },
   {
     "library": "geometa",
-    "downloads": 0
+    "downloads": 30830
   },
   {
     "library": "geometr",
-    "downloads": 0
+    "downloads": 8298
   },
   {
     "library": "geometries",
-    "downloads": 0
+    "downloads": 113184
   },
   {
     "library": "geometry",
-    "downloads": 0
+    "downloads": 1213684
   },
   {
     "library": "GeoMongo",
-    "downloads": 0
+    "downloads": 17655
   },
   {
     "library": "geomorph",
-    "downloads": 0
+    "downloads": 151850
   },
   {
     "library": "geomultistar",
-    "downloads": 0
+    "downloads": 3555
   },
   {
     "library": "geonames",
@@ -28193,6 +28205,10 @@
   },
   {
     "library": "iheatmapr",
+    "downloads": 0
+  },
+  {
+    "library": "iheiddown",
     "downloads": 0
   },
   {
@@ -41800,6 +41816,10 @@
     "downloads": 0
   },
   {
+    "library": "OenoKPM",
+    "downloads": 0
+  },
+  {
     "library": "officedown",
     "downloads": 0
   },
@@ -47000,6 +47020,10 @@
     "downloads": 0
   },
   {
+    "library": "prettyglm",
+    "downloads": 0
+  },
+  {
     "library": "prettyGraphs",
     "downloads": 0
   },
@@ -51113,6 +51137,10 @@
   },
   {
     "library": "rdoxygen",
+    "downloads": 0
+  },
+  {
+    "library": "RDP",
     "downloads": 0
   },
   {
