@@ -7124,10 +7124,6 @@
     "downloads": 176096
   },
   {
-    "library": "cartogramR",
-    "downloads": 177
-  },
-  {
     "library": "cartography",
     "downloads": 145712
   },
@@ -9302,6 +9298,10 @@
   {
     "library": "CNPS",
     "downloads": 548
+  },
+  {
+    "library": "cns",
+    "downloads": 0
   },
   {
     "library": "CNull",
@@ -16496,10 +16496,6 @@
     "downloads": 65589
   },
   {
-    "library": "EditImputeCont",
-    "downloads": 25958
-  },
-  {
     "library": "editrules",
     "downloads": 76031
   },
@@ -19718,6 +19714,10 @@
   {
     "library": "fedregs",
     "downloads": 14909
+  },
+  {
+    "library": "fedstatAPIr",
+    "downloads": 0
   },
   {
     "library": "FeedbackTS",
@@ -30964,6 +30964,10 @@
     "downloads": 1239
   },
   {
+    "library": "kinematics",
+    "downloads": 0
+  },
+  {
     "library": "kineticF",
     "downloads": 21106
   },
@@ -34001,799 +34005,799 @@
   },
   {
     "library": "MAclinical",
-    "downloads": 0
+    "downloads": 31867
   },
   {
     "library": "maclogp",
-    "downloads": 0
+    "downloads": 891
   },
   {
     "library": "mactivate",
-    "downloads": 0
+    "downloads": 3178
   },
   {
     "library": "maczic",
-    "downloads": 0
+    "downloads": 2146
   },
   {
     "library": "MAd",
-    "downloads": 0
+    "downloads": 64592
   },
   {
     "library": "mada",
-    "downloads": 0
+    "downloads": 48721
   },
   {
     "library": "maddison",
-    "downloads": 0
+    "downloads": 20134
   },
   {
     "library": "madgrad",
-    "downloads": 0
+    "downloads": 802
   },
   {
     "library": "maditr",
-    "downloads": 0
+    "downloads": 28134
   },
   {
     "library": "madness",
-    "downloads": 0
+    "downloads": 28275
   },
   {
     "library": "MADPop",
-    "downloads": 0
+    "downloads": 19165
   },
   {
     "library": "madr",
-    "downloads": 0
+    "downloads": 20468
   },
   {
     "library": "madrat",
-    "downloads": 0
+    "downloads": 19795
   },
   {
     "library": "mads",
-    "downloads": 0
+    "downloads": 27481
   },
   {
     "library": "madsim",
-    "downloads": 0
+    "downloads": 32127
   },
   {
     "library": "Maeswrap",
-    "downloads": 0
+    "downloads": 33771
   },
   {
     "library": "MAFDash",
-    "downloads": 0
+    "downloads": 1095
   },
   {
     "library": "magclass",
-    "downloads": 0
+    "downloads": 34441
   },
   {
     "library": "MAGEE",
-    "downloads": 0
+    "downloads": 712
   },
   {
     "library": "magic",
-    "downloads": 0
+    "downloads": 1241827
   },
   {
     "library": "magicaxis",
-    "downloads": 0
+    "downloads": 68961
   },
   {
     "library": "magicfor",
-    "downloads": 0
+    "downloads": 29408
   },
   {
     "library": "magick",
-    "downloads": 0
+    "downloads": 1887394
   },
   {
     "library": "magickGUI",
-    "downloads": 0
+    "downloads": 15281
   },
   {
     "library": "magicLamp",
-    "downloads": 0
+    "downloads": 15887
   },
   {
     "library": "magmaR",
-    "downloads": 0
+    "downloads": 814
   },
   {
     "library": "MAGNAMWAR",
-    "downloads": 0
+    "downloads": 17656
   },
   {
     "library": "magree",
-    "downloads": 0
+    "downloads": 20848
   },
   {
     "library": "magrittr",
-    "downloads": 0
+    "downloads": 84496344
   },
   {
     "library": "maGUI",
-    "downloads": 0
+    "downloads": 13957
   },
   {
     "library": "maic",
-    "downloads": 0
+    "downloads": 5405
   },
   {
     "library": "mail",
-    "downloads": 0
+    "downloads": 91065
   },
   {
     "library": "mailmerge",
-    "downloads": 0
+    "downloads": 1374
   },
   {
     "library": "mailR",
-    "downloads": 0
+    "downloads": 1045017
   },
   {
     "library": "mailtoR",
-    "downloads": 0
+    "downloads": 3947
   },
   {
     "library": "MAINT.Data",
-    "downloads": 0
+    "downloads": 47101
   },
   {
     "library": "majesticR",
-    "downloads": 0
+    "downloads": 11803
   },
   {
     "library": "MajKMeans",
-    "downloads": 0
+    "downloads": 5614
   },
   {
     "library": "makedummies",
-    "downloads": 0
+    "downloads": 28323
   },
   {
     "library": "MakefileR",
-    "downloads": 0
+    "downloads": 24975
   },
   {
     "library": "makeFlow",
-    "downloads": 0
+    "downloads": 17482
   },
   {
     "library": "makemyprior",
-    "downloads": 0
+    "downloads": 633
   },
   {
     "library": "makeProject",
-    "downloads": 0
+    "downloads": 31507
   },
   {
     "library": "maketools",
-    "downloads": 0
+    "downloads": 4011
   },
   {
     "library": "malan",
-    "downloads": 0
+    "downloads": 3869
   },
   {
     "library": "malani",
-    "downloads": 0
+    "downloads": 16936
   },
   {
     "library": "malariaAtlas",
-    "downloads": 0
+    "downloads": 18195
   },
   {
     "library": "MALDIquant",
-    "downloads": 0
+    "downloads": 177269
   },
   {
     "library": "MALDIquantForeign",
-    "downloads": 0
+    "downloads": 54011
   },
   {
     "library": "MALDIrppa",
-    "downloads": 0
+    "downloads": 18935
   },
   {
     "library": "mallet",
-    "downloads": 0
+    "downloads": 122631
   },
   {
     "library": "MAMS",
-    "downloads": 0
+    "downloads": 42443
   },
   {
     "library": "ManagedCloudProvider",
-    "downloads": 0
+    "downloads": 438
   },
   {
     "library": "managelocalrepo",
-    "downloads": 0
+    "downloads": 23867
   },
   {
     "library": "MANCIE",
-    "downloads": 0
+    "downloads": 22516
   },
   {
     "library": "mand",
-    "downloads": 0
+    "downloads": 4753
   },
   {
     "library": "mandelbrot",
-    "downloads": 0
+    "downloads": 15954
   },
   {
     "library": "manet",
-    "downloads": 0
+    "downloads": 14049
   },
   {
     "library": "mangoTraining",
-    "downloads": 0
+    "downloads": 31289
   },
   {
     "library": "Mangrove",
-    "downloads": 0
+    "downloads": 22666
   },
   {
     "library": "manhattanly",
-    "downloads": 0
+    "downloads": 34554
   },
   {
     "library": "manhplot",
-    "downloads": 0
+    "downloads": 9318
   },
   {
     "library": "manifestoR",
-    "downloads": 0
+    "downloads": 35133
   },
   {
     "library": "ManifoldOptim",
-    "downloads": 0
+    "downloads": 23361
   },
   {
     "library": "manipulate",
-    "downloads": 0
+    "downloads": 1568404
   },
   {
     "library": "manipulateWidget",
-    "downloads": 0
+    "downloads": 2132644
   },
   {
     "library": "ManlyMix",
-    "downloads": 0
+    "downloads": 31968
   },
   {
     "library": "MANOVA.RM",
-    "downloads": 0
+    "downloads": 33591
   },
   {
     "library": "manymodelr",
-    "downloads": 0
+    "downloads": 13975
   },
   {
     "library": "ManyTests",
-    "downloads": 0
+    "downloads": 29480
   },
   {
     "library": "MaOEA",
-    "downloads": 0
+    "downloads": 8643
   },
   {
     "library": "maotai",
-    "downloads": 0
+    "downloads": 31758
   },
   {
     "library": "MAP",
-    "downloads": 0
+    "downloads": 24079
   },
   {
     "library": "Map2NCBI",
-    "downloads": 0
+    "downloads": 28678
   },
   {
     "library": "MAPA",
-    "downloads": 0
+    "downloads": 245904
   },
   {
     "library": "mapaccuracy",
-    "downloads": 0
+    "downloads": 1684
   },
   {
     "library": "mapbayr",
-    "downloads": 0
+    "downloads": 941
   },
   {
     "library": "mapboxapi",
-    "downloads": 0
+    "downloads": 5002
   },
   {
     "library": "mapboxer",
-    "downloads": 0
+    "downloads": 3122
   },
   {
     "library": "mapcan",
-    "downloads": 0
+    "downloads": 10559
   },
   {
     "library": "mapchina",
-    "downloads": 0
+    "downloads": 3742
   },
   {
     "library": "mapdata",
-    "downloads": 0
+    "downloads": 861717
   },
   {
     "library": "mapdeck",
-    "downloads": 0
+    "downloads": 190741
   },
   {
     "library": "mapedit",
-    "downloads": 0
+    "downloads": 167961
   },
   {
     "library": "mapfit",
-    "downloads": 0
+    "downloads": 23197
   },
   {
     "library": "MapGAM",
-    "downloads": 0
+    "downloads": 39174
   },
   {
     "library": "mapi",
-    "downloads": 0
+    "downloads": 12290
   },
   {
     "library": "Mapinguari",
-    "downloads": 0
+    "downloads": 9083
   },
   {
     "library": "MAPITR",
-    "downloads": 0
+    "downloads": 3902
   },
   {
     "library": "MAPLES",
-    "downloads": 0
+    "downloads": 29349
   },
   {
     "library": "mapmisc",
-    "downloads": 0
+    "downloads": 53861
   },
   {
     "library": "mapping",
-    "downloads": 0
+    "downloads": 2016
   },
   {
     "library": "mappings",
-    "downloads": 0
+    "downloads": 310
   },
   {
     "library": "mapplots",
-    "downloads": 0
+    "downloads": 74939
   },
   {
     "library": "mappoly",
-    "downloads": 0
+    "downloads": 3898
   },
   {
     "library": "mapproj",
-    "downloads": 0
+    "downloads": 2503205
   },
   {
     "library": "mapr",
-    "downloads": 0
+    "downloads": 31293
   },
   {
     "library": "mapReasy",
-    "downloads": 0
+    "downloads": 16013
   },
   {
     "library": "maps",
-    "downloads": 0
+    "downloads": 5366326
   },
   {
     "library": "mapsapi",
-    "downloads": 0
+    "downloads": 42271
   },
   {
     "library": "mapsf",
-    "downloads": 0
+    "downloads": 3752
   },
   {
     "library": "mapsFinland",
-    "downloads": 0
+    "downloads": 7417
   },
   {
     "library": "mapSpain",
-    "downloads": 0
+    "downloads": 4239
   },
   {
     "library": "mapsRinteractive",
-    "downloads": 0
+    "downloads": 14512
   },
   {
     "library": "mapStats",
-    "downloads": 0
+    "downloads": 33397
   },
   {
     "library": "maptiles",
-    "downloads": 0
+    "downloads": 4927
   },
   {
     "library": "maptools",
-    "downloads": 0
+    "downloads": 9771526
   },
   {
     "library": "maptpx",
-    "downloads": 0
+    "downloads": 41331
   },
   {
     "library": "maptree",
-    "downloads": 0
+    "downloads": 180582
   },
   {
     "library": "mapview",
-    "downloads": 0
+    "downloads": 947867
   },
   {
     "library": "mAr",
-    "downloads": 0
+    "downloads": 49955
   },
   {
     "library": "mar1s",
-    "downloads": 0
+    "downloads": 38094
   },
   {
     "library": "march",
-    "downloads": 0
+    "downloads": 26666
   },
   {
     "library": "marcher",
-    "downloads": 0
+    "downloads": 16855
   },
   {
     "library": "marelac",
-    "downloads": 0
+    "downloads": 44983
   },
   {
     "library": "MareyMap",
-    "downloads": 0
+    "downloads": 32015
   },
   {
     "library": "marg",
-    "downloads": 0
+    "downloads": 70825
   },
   {
     "library": "MargCond",
-    "downloads": 0
+    "downloads": 12833
   },
   {
     "library": "marginalizedRisk",
-    "downloads": 0
+    "downloads": 1265
   },
   {
     "library": "MarginalMediation",
-    "downloads": 0
+    "downloads": 12817
   },
   {
     "library": "margins",
-    "downloads": 0
+    "downloads": 206142
   },
   {
     "library": "marima",
-    "downloads": 0
+    "downloads": 32624
   },
   {
     "library": "mark",
-    "downloads": 0
+    "downloads": 173
   },
   {
     "library": "markdown",
-    "downloads": 0
+    "downloads": 30122819
   },
   {
     "library": "markdownInput",
-    "downloads": 0
+    "downloads": 8616
   },
   {
     "library": "marked",
-    "downloads": 0
+    "downloads": 51954
   },
   {
     "library": "markerpen",
-    "downloads": 0
+    "downloads": 1515
   },
   {
     "library": "MarketMatching",
-    "downloads": 0
+    "downloads": 64294
   },
   {
     "library": "marketr",
-    "downloads": 0
+    "downloads": 8290
   },
   {
     "library": "markmyassignment",
-    "downloads": 0
+    "downloads": 27177
   },
   {
     "library": "markophylo",
-    "downloads": 0
+    "downloads": 32322
   },
   {
     "library": "markovchain",
-    "downloads": 0
+    "downloads": 692585
   },
   {
     "library": "Markovchart",
-    "downloads": 0
+    "downloads": 9386
   },
   {
     "library": "MarkowitzR",
-    "downloads": 0
+    "downloads": 40582
   },
   {
     "library": "marl",
-    "downloads": 0
+    "downloads": 24654
   },
   {
     "library": "marmap",
-    "downloads": 0
+    "downloads": 105452
   },
   {
     "library": "marqLevAlg",
-    "downloads": 0
+    "downloads": 32249
   },
   {
     "library": "MARSANNhybrid",
-    "downloads": 0
+    "downloads": 2075
   },
   {
     "library": "MARSS",
-    "downloads": 0
+    "downloads": 91408
   },
   {
     "library": "MARSSVRhybrid",
-    "downloads": 0
+    "downloads": 2144
   },
   {
     "library": "MARVEL",
-    "downloads": 0
+    "downloads": 1171
   },
   {
     "library": "MARX",
-    "downloads": 0
+    "downloads": 16570
   },
   {
     "library": "maSAE",
-    "downloads": 0
+    "downloads": 29580
   },
   {
     "library": "mase",
-    "downloads": 0
+    "downloads": 13744
   },
   {
     "library": "mashr",
-    "downloads": 0
+    "downloads": 5179
   },
   {
     "library": "MaskJointDensity",
-    "downloads": 0
+    "downloads": 12543
   },
   {
     "library": "mason",
-    "downloads": 0
+    "downloads": 19041
   },
   {
     "library": "MASS",
-    "downloads": 0
+    "downloads": 8735743
   },
   {
     "library": "MASSExtra",
-    "downloads": 0
+    "downloads": 3253
   },
   {
     "library": "Massign",
-    "downloads": 0
+    "downloads": 15022
   },
   {
     "library": "MASSTIMATE",
-    "downloads": 0
+    "downloads": 36540
   },
   {
     "library": "MasterBayes",
-    "downloads": 0
+    "downloads": 53085
   },
   {
     "library": "mastif",
-    "downloads": 0
+    "downloads": 7567
   },
   {
     "library": "MAT",
-    "downloads": 0
+    "downloads": 31613
   },
   {
     "library": "MATA",
-    "downloads": 0
+    "downloads": 30898
   },
   {
     "library": "matahari",
-    "downloads": 0
+    "downloads": 12304
   },
   {
     "library": "match2C",
-    "downloads": 0
+    "downloads": 5175
   },
   {
     "library": "matchbook",
-    "downloads": 0
+    "downloads": 15352
   },
   {
     "library": "Matching",
-    "downloads": 0
+    "downloads": 581830
   },
   {
     "library": "matchingMarkets",
-    "downloads": 0
+    "downloads": 72023
   },
   {
     "library": "matchingR",
-    "downloads": 0
+    "downloads": 35566
   },
   {
     "library": "MatchIt",
-    "downloads": 0
+    "downloads": 723784
   },
   {
     "library": "MatchLinReg",
-    "downloads": 0
+    "downloads": 21717
   },
   {
     "library": "matchmaker",
-    "downloads": 0
+    "downloads": 11677
   },
   {
     "library": "matchMulti",
-    "downloads": 0
+    "downloads": 22367
   },
   {
     "library": "MatchThem",
-    "downloads": 0
+    "downloads": 17145
   },
   {
     "library": "matconv",
-    "downloads": 0
+    "downloads": 30043
   },
   {
     "library": "materialmodifier",
-    "downloads": 0
+    "downloads": 897
   },
   {
     "library": "mathjaxr",
-    "downloads": 0
+    "downloads": 228731
   },
   {
     "library": "mathpix",
-    "downloads": 0
+    "downloads": 22456
   },
   {
     "library": "matie",
-    "downloads": 0
+    "downloads": 28759
   },
   {
     "library": "matlab",
-    "downloads": 0
+    "downloads": 749224
   },
   {
     "library": "matlabr",
-    "downloads": 0
+    "downloads": 34976
   },
   {
     "library": "matlib",
-    "downloads": 0
+    "downloads": 223700
   },
   {
     "library": "matman",
-    "downloads": 0
+    "downloads": 5899
   },
   {
     "library": "MatManlyMix",
-    "downloads": 0
+    "downloads": 19338
   },
   {
     "library": "matpow",
-    "downloads": 0
+    "downloads": 26721
   },
   {
     "library": "matR",
-    "downloads": 0
+    "downloads": 23537
   },
   {
     "library": "matricks",
-    "downloads": 0
+    "downloads": 6427
   },
   {
     "library": "Matrix",
-    "downloads": 0
+    "downloads": 6310573
   },
   {
     "library": "Matrix.utils",
-    "downloads": 0
+    "downloads": 91117
   },
   {
     "library": "matrixcalc",
-    "downloads": 0
+    "downloads": 1975718
   },
   {
     "library": "MatrixCorrelation",
-    "downloads": 0
+    "downloads": 27097
   },
   {
     "library": "MatrixEQTL",
-    "downloads": 0
+    "downloads": 61264
   },
   {
     "library": "MatrixExtra",
-    "downloads": 0
+    "downloads": 1035
   },
   {
     "library": "matrixLaplacian",
-    "downloads": 0
+    "downloads": 20676
   },
   {
     "library": "MatrixLDA",
-    "downloads": 0
+    "downloads": 18021
   },
   {
     "library": "MatrixMixtures",
-    "downloads": 0
+    "downloads": 459
   },
   {
     "library": "MatrixModels",
-    "downloads": 0
+    "downloads": 9834199
   },
   {
     "library": "matrixNormal",
-    "downloads": 0
+    "downloads": 15563
   },
   {
     "library": "matrixpls",
-    "downloads": 0
+    "downloads": 35669
   },
   {
     "library": "matrixProfile",
-    "downloads": 0
+    "downloads": 12611
   },
   {
     "library": "matrixprofiler",
-    "downloads": 0
+    "downloads": 1976
   },
   {
     "library": "matrixsampling",
-    "downloads": 0
+    "downloads": 21598
   },
   {
     "library": "matrixStats",
-    "downloads": 0
+    "downloads": 8611308
   },
   {
     "library": "matrixStrucTest",
-    "downloads": 0
+    "downloads": 9198
   },
   {
     "library": "matrixTests",
-    "downloads": 0
+    "downloads": 26871
   },
   {
     "library": "matsbyname",
-    "downloads": 0
+    "downloads": 18521
   },
   {
     "library": "matsindf",
-    "downloads": 0
+    "downloads": 14438
   },
   {
     "library": "MatSkew",
@@ -35733,6 +35737,10 @@
   },
   {
     "library": "messaging",
+    "downloads": 0
+  },
+  {
+    "library": "messydates",
     "downloads": 0
   },
   {
@@ -50376,6 +50384,10 @@
     "downloads": 0
   },
   {
+    "library": "RawHummus",
+    "downloads": 0
+  },
+  {
     "library": "rawKS",
     "downloads": 0
   },
@@ -54397,10 +54409,6 @@
   },
   {
     "library": "RobinHood",
-    "downloads": 0
-  },
-  {
-    "library": "robis",
     "downloads": 0
   },
   {
@@ -60608,6 +60616,10 @@
     "downloads": 0
   },
   {
+    "library": "SMME",
+    "downloads": 0
+  },
+  {
     "library": "smmR",
     "downloads": 0
   },
@@ -66056,6 +66068,10 @@
     "downloads": 0
   },
   {
+    "library": "tidylda",
+    "downloads": 0
+  },
+  {
     "library": "tidylo",
     "downloads": 0
   },
@@ -66817,6 +66833,10 @@
   },
   {
     "library": "TPmsm",
+    "downloads": 0
+  },
+  {
+    "library": "tpn",
     "downloads": 0
   },
   {
