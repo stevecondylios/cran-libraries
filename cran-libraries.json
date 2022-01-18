@@ -3668,6 +3668,10 @@
     "downloads": 52111
   },
   {
+    "library": "Bayesiantreg",
+    "downloads": 0
+  },
+  {
     "library": "bayesImageS",
     "downloads": 45743
   },
@@ -6294,6 +6298,10 @@
   {
     "library": "brant",
     "downloads": 45362
+  },
+  {
+    "library": "braQCA",
+    "downloads": 20294
   },
   {
     "library": "bravo",
@@ -34952,6 +34960,10 @@
     "downloads": 37262
   },
   {
+    "library": "LongDat",
+    "downloads": 0
+  },
+  {
     "library": "longit",
     "downloads": 3085
   },
@@ -36401,791 +36413,791 @@
   },
   {
     "library": "matrixdist",
-    "downloads": 0
+    "downloads": 5068
   },
   {
     "library": "MatrixEQTL",
-    "downloads": 0
+    "downloads": 66537
   },
   {
     "library": "MatrixExtra",
-    "downloads": 0
+    "downloads": 16144
   },
   {
     "library": "matrixLaplacian",
-    "downloads": 0
+    "downloads": 23624
   },
   {
     "library": "MatrixLDA",
-    "downloads": 0
+    "downloads": 20627
   },
   {
     "library": "MatrixMixtures",
-    "downloads": 0
+    "downloads": 2763
   },
   {
     "library": "MatrixModels",
-    "downloads": 0
+    "downloads": 11797469
   },
   {
     "library": "matrixNormal",
-    "downloads": 0
+    "downloads": 19457
   },
   {
     "library": "matrixpls",
-    "downloads": 0
+    "downloads": 39432
   },
   {
     "library": "matrixProfile",
-    "downloads": 0
+    "downloads": 14878
   },
   {
     "library": "matrixprofiler",
-    "downloads": 0
+    "downloads": 4660
   },
   {
     "library": "matrixsampling",
-    "downloads": 0
+    "downloads": 25721
   },
   {
     "library": "matrixStats",
-    "downloads": 0
+    "downloads": 11564994
   },
   {
     "library": "matrixStrucTest",
-    "downloads": 0
+    "downloads": 11333
   },
   {
     "library": "matrixTests",
-    "downloads": 0
+    "downloads": 32958
   },
   {
     "library": "matsbyname",
-    "downloads": 0
+    "downloads": 23899
   },
   {
     "library": "matsindf",
-    "downloads": 0
+    "downloads": 18838
   },
   {
     "library": "MatSkew",
-    "downloads": 0
+    "downloads": 16580
   },
   {
     "library": "MATTOOLS",
-    "downloads": 0
+    "downloads": 34292
   },
   {
     "library": "MatTransMix",
-    "downloads": 0
+    "downloads": 22150
   },
   {
     "library": "matuR",
-    "downloads": 0
+    "downloads": 4779
   },
   {
     "library": "mau",
-    "downloads": 0
+    "downloads": 19099
   },
   {
     "library": "mauricer",
-    "downloads": 0
+    "downloads": 16485
   },
   {
     "library": "MAVE",
-    "downloads": 0
+    "downloads": 28044
   },
   {
     "library": "MAVTgsa",
-    "downloads": 0
+    "downloads": 30909
   },
   {
     "library": "MaXact",
-    "downloads": 0
+    "downloads": 34501
   },
   {
     "library": "maxadjAUC",
-    "downloads": 0
+    "downloads": 14090
   },
   {
     "library": "maxcombo",
-    "downloads": 0
+    "downloads": 4596
   },
   {
     "library": "MaxentVariableSelection",
-    "downloads": 0
+    "downloads": 24224
   },
   {
     "library": "maximin",
-    "downloads": 0
+    "downloads": 16374
   },
   {
     "library": "MaximinInfer",
-    "downloads": 0
+    "downloads": 734
   },
   {
     "library": "maxLik",
-    "downloads": 0
+    "downloads": 1777038
   },
   {
     "library": "maxlike",
-    "downloads": 0
+    "downloads": 147321
   },
   {
     "library": "maxmatching",
-    "downloads": 0
+    "downloads": 18930
   },
   {
     "library": "MaxMC",
-    "downloads": 0
+    "downloads": 12076
   },
   {
     "library": "maxnet",
-    "downloads": 0
+    "downloads": 82584
   },
   {
     "library": "maxnodf",
-    "downloads": 0
+    "downloads": 9392
   },
   {
     "library": "MaxPro",
-    "downloads": 0
+    "downloads": 30680
   },
   {
     "library": "MaxSkew",
-    "downloads": 0
+    "downloads": 25463
   },
   {
     "library": "maxstat",
-    "downloads": 0
+    "downloads": 618423
   },
   {
     "library": "maxTPR",
-    "downloads": 0
+    "downloads": 17906
   },
   {
     "library": "MazamaCoreUtils",
-    "downloads": 0
+    "downloads": 27833
   },
   {
     "library": "MazamaLocationUtils",
-    "downloads": 0
+    "downloads": 14682
   },
   {
     "library": "MazamaRollUtils",
-    "downloads": 0
+    "downloads": 1751
   },
   {
     "library": "MazamaSpatialPlots",
-    "downloads": 0
+    "downloads": 2000
   },
   {
     "library": "MazamaSpatialUtils",
-    "downloads": 0
+    "downloads": 47140
   },
   {
     "library": "mazealls",
-    "downloads": 0
+    "downloads": 17912
   },
   {
     "library": "mazeGen",
-    "downloads": 0
+    "downloads": 21190
   },
   {
     "library": "mazeinda",
-    "downloads": 0
+    "downloads": 15172
   },
   {
     "library": "mazing",
-    "downloads": 0
+    "downloads": 2539
   },
   {
     "library": "MBA",
-    "downloads": 0
+    "downloads": 257352
   },
   {
     "library": "MBAnalysis",
-    "downloads": 0
+    "downloads": 1728
   },
   {
     "library": "mbbefd",
-    "downloads": 0
+    "downloads": 45086
   },
   {
     "library": "MBC",
-    "downloads": 0
+    "downloads": 24692
   },
   {
     "library": "MBCbook",
-    "downloads": 0
+    "downloads": 13352
   },
   {
     "library": "MBCluster.Seq",
-    "downloads": 0
+    "downloads": 42216
   },
   {
     "library": "mbclusterwise",
-    "downloads": 0
+    "downloads": 19719
   },
   {
     "library": "mbend",
-    "downloads": 0
+    "downloads": 21963
   },
   {
     "library": "MBESS",
-    "downloads": 0
+    "downloads": 430268
   },
   {
     "library": "mbest",
-    "downloads": 0
+    "downloads": 204643
   },
   {
     "library": "MBHdesign",
-    "downloads": 0
+    "downloads": 30476
   },
   {
     "library": "MBI",
-    "downloads": 0
+    "downloads": 34227
   },
   {
     "library": "mbir",
-    "downloads": 0
+    "downloads": 23258
   },
   {
     "library": "mblm",
-    "downloads": 0
+    "downloads": 66298
   },
   {
     "library": "MBmca",
-    "downloads": 0
+    "downloads": 36303
   },
   {
     "library": "mbmixture",
-    "downloads": 0
+    "downloads": 5100
   },
   {
     "library": "MBNMAdose",
-    "downloads": 0
+    "downloads": 14465
   },
   {
     "library": "MBNMAtime",
-    "downloads": 0
+    "downloads": 12765
   },
   {
     "library": "mboost",
-    "downloads": 0
+    "downloads": 453602
   },
   {
     "library": "mboxr",
-    "downloads": 0
+    "downloads": 20049
   },
   {
     "library": "mbr",
-    "downloads": 0
+    "downloads": 3797
   },
   {
     "library": "mbrdr",
-    "downloads": 0
+    "downloads": 2327
   },
   {
     "library": "mbRes",
-    "downloads": 0
+    "downloads": 2593
   },
   {
     "library": "mbrglm",
-    "downloads": 0
+    "downloads": 18979
   },
   {
     "library": "MBSGS",
-    "downloads": 0
+    "downloads": 21009
   },
   {
     "library": "MBSP",
-    "downloads": 0
+    "downloads": 16352
   },
   {
     "library": "mbsts",
-    "downloads": 0
+    "downloads": 12957
   },
   {
     "library": "mBvs",
-    "downloads": 0
+    "downloads": 28468
   },
   {
     "library": "mc.heterogeneity",
-    "downloads": 0
+    "downloads": 14163
   },
   {
     "library": "mc2d",
-    "downloads": 0
+    "downloads": 438707
   },
   {
     "library": "MC2toPath",
-    "downloads": 0
+    "downloads": 27431
   },
   {
     "library": "MCAvariants",
-    "downloads": 0
+    "downloads": 33532
   },
   {
     "library": "mcb",
-    "downloads": 0
+    "downloads": 6569
   },
   {
     "library": "MCBackscattering",
-    "downloads": 0
+    "downloads": 9502
   },
   {
     "library": "mcBFtest",
-    "downloads": 0
+    "downloads": 12504
   },
   {
     "library": "mcbiopi",
-    "downloads": 0
+    "downloads": 47400
   },
   {
     "library": "mcboost",
-    "downloads": 0
+    "downloads": 3121
   },
   {
     "library": "mcc",
-    "downloads": 0
+    "downloads": 31914
   },
   {
     "library": "mcca",
-    "downloads": 0
+    "downloads": 21940
   },
   {
     "library": "mccca",
-    "downloads": 0
+    "downloads": 84
   },
   {
     "library": "mccf1",
-    "downloads": 0
+    "downloads": 14795
   },
   {
     "library": "mcclust",
-    "downloads": 0
+    "downloads": 52517
   },
   {
     "library": "mccmeiv",
-    "downloads": 0
+    "downloads": 14866
   },
   {
     "library": "mccr",
-    "downloads": 0
+    "downloads": 22797
   },
   {
     "library": "MCDA",
-    "downloads": 0
+    "downloads": 47886
   },
   {
     "library": "MCDM",
-    "downloads": 0
+    "downloads": 24631
   },
   {
     "library": "mcemGLM",
-    "downloads": 0
+    "downloads": 24165
   },
   {
     "library": "mcen",
-    "downloads": 0
+    "downloads": 16488
   },
   {
     "library": "mcga",
-    "downloads": 0
+    "downloads": 47573
   },
   {
     "library": "mcgibbsit",
-    "downloads": 0
+    "downloads": 36963
   },
   {
     "library": "mcglm",
-    "downloads": 0
+    "downloads": 18353
   },
   {
     "library": "mcGlobaloptim",
-    "downloads": 0
+    "downloads": 43081
   },
   {
     "library": "mcheatmaps",
-    "downloads": 0
+    "downloads": 26827
   },
   {
     "library": "MChtest",
-    "downloads": 0
+    "downloads": 35334
   },
   {
     "library": "MCI",
-    "downloads": 0
+    "downloads": 30257
   },
   {
     "library": "MCID",
-    "downloads": 0
+    "downloads": 1983
   },
   {
     "library": "MCL",
-    "downloads": 0
+    "downloads": 37913
   },
   {
     "library": "mclcar",
-    "downloads": 0
+    "downloads": 26649
   },
   {
     "library": "mcll",
-    "downloads": 0
+    "downloads": 30666
   },
   {
     "library": "mclogit",
-    "downloads": 0
+    "downloads": 73825
   },
   {
     "library": "mclust",
-    "downloads": 0
+    "downloads": 7023178
   },
   {
     "library": "mclustAddons",
-    "downloads": 0
+    "downloads": 1637
   },
   {
     "library": "mclustcomp",
-    "downloads": 0
+    "downloads": 39122
   },
   {
     "library": "MCM",
-    "downloads": 0
+    "downloads": 2309
   },
   {
     "library": "mcmc",
-    "downloads": 0
+    "downloads": 762810
   },
   {
     "library": "MCMC.OTU",
-    "downloads": 0
+    "downloads": 26736
   },
   {
     "library": "MCMC.qpcr",
-    "downloads": 0
+    "downloads": 35196
   },
   {
     "library": "MCMC4Extremes",
-    "downloads": 0
+    "downloads": 29079
   },
   {
     "library": "mcmcderive",
-    "downloads": 0
+    "downloads": 14716
   },
   {
     "library": "mcmcensemble",
-    "downloads": 0
+    "downloads": 6893
   },
   {
     "library": "MCMCglmm",
-    "downloads": 0
+    "downloads": 459708
   },
   {
     "library": "MCMChybridGP",
-    "downloads": 0
+    "downloads": 12361
   },
   {
     "library": "mcmcOutput",
-    "downloads": 0
+    "downloads": 9261
   },
   {
     "library": "MCMCpack",
-    "downloads": 0
+    "downloads": 1057971
   },
   {
     "library": "mcmcplots",
-    "downloads": 0
+    "downloads": 76041
   },
   {
     "library": "MCMCprecision",
-    "downloads": 0
+    "downloads": 27232
   },
   {
     "library": "mcmcr",
-    "downloads": 0
+    "downloads": 24671
   },
   {
     "library": "mcmcsae",
-    "downloads": 0
+    "downloads": 6597
   },
   {
     "library": "mcmcse",
-    "downloads": 0
+    "downloads": 61215
   },
   {
     "library": "MCMCtreeR",
-    "downloads": 0
+    "downloads": 14852
   },
   {
     "library": "MCMCvis",
-    "downloads": 0
+    "downloads": 51721
   },
   {
     "library": "mcMST",
-    "downloads": 0
+    "downloads": 19632
   },
   {
     "library": "mco",
-    "downloads": 0
+    "downloads": 219831
   },
   {
     "library": "Mcomp",
-    "downloads": 0
+    "downloads": 175253
   },
   {
     "library": "mcompanion",
-    "downloads": 0
+    "downloads": 23204
   },
   {
     "library": "MConjoint",
-    "downloads": 0
+    "downloads": 32524
   },
   {
     "library": "mcp",
-    "downloads": 0
+    "downloads": 12977
   },
   {
     "library": "MCPAN",
-    "downloads": 0
+    "downloads": 58698
   },
   {
     "library": "mcparallelDo",
-    "downloads": 0
+    "downloads": 22665
   },
   {
     "library": "MCPMod",
-    "downloads": 0
+    "downloads": 50099
   },
   {
     "library": "MCPModGeneral",
-    "downloads": 0
+    "downloads": 11678
   },
   {
     "library": "MCPModPack",
-    "downloads": 0
+    "downloads": 11630
   },
   {
     "library": "mcprofile",
-    "downloads": 0
+    "downloads": 48457
   },
   {
     "library": "MCPtests",
-    "downloads": 0
+    "downloads": 5489
   },
   {
     "library": "mcr",
-    "downloads": 0
+    "downloads": 49313
   },
   {
     "library": "mcreplicate",
-    "downloads": 0
+    "downloads": 3880
   },
   {
     "library": "MCS",
-    "downloads": 0
+    "downloads": 37425
   },
   {
     "library": "MCSim",
-    "downloads": 0
+    "downloads": 14127
   },
   {
     "library": "mcsm",
-    "downloads": 0
+    "downloads": 50004
   },
   {
     "library": "mcStats",
-    "downloads": 0
+    "downloads": 13688
   },
   {
     "library": "mctest",
-    "downloads": 0
+    "downloads": 220604
   },
   {
     "library": "MCTM",
-    "downloads": 0
+    "downloads": 26750
   },
   {
     "library": "mctq",
-    "downloads": 0
+    "downloads": 952
   },
   {
     "library": "mcunit",
-    "downloads": 0
+    "downloads": 9844
   },
   {
     "library": "mcvis",
-    "downloads": 0
+    "downloads": 7767
   },
   {
     "library": "mcwr",
-    "downloads": 0
+    "downloads": 4151
   },
   {
     "library": "md",
-    "downloads": 0
+    "downloads": 25226
   },
   {
     "library": "md.log",
-    "downloads": 0
+    "downloads": 18027
   },
   {
     "library": "mda",
-    "downloads": 0
+    "downloads": 1213390
   },
   {
     "library": "mDAG",
-    "downloads": 0
+    "downloads": 13766
   },
   {
     "library": "mdapack",
-    "downloads": 0
+    "downloads": 9928
   },
   {
     "library": "mdatools",
-    "downloads": 0
+    "downloads": 52881
   },
   {
     "library": "MDBED",
-    "downloads": 0
+    "downloads": 8854
   },
   {
     "library": "mdbr",
-    "downloads": 0
+    "downloads": 5142
   },
   {
     "library": "mde",
-    "downloads": 0
+    "downloads": 11614
   },
   {
     "library": "mded",
-    "downloads": 0
+    "downloads": 38527
   },
   {
     "library": "mdendro",
-    "downloads": 0
+    "downloads": 19209
   },
   {
     "library": "MDFS",
-    "downloads": 0
+    "downloads": 24204
   },
   {
     "library": "mdftracks",
-    "downloads": 0
+    "downloads": 20703
   },
   {
     "library": "mdgc",
-    "downloads": 0
+    "downloads": 4767
   },
   {
     "library": "mdhglm",
-    "downloads": 0
+    "downloads": 49669
   },
   {
     "library": "MDimNormn",
-    "downloads": 0
+    "downloads": 25778
   },
   {
     "library": "mdir.logrank",
-    "downloads": 0
+    "downloads": 15160
   },
   {
     "library": "MDMAPR",
-    "downloads": 0
+    "downloads": 4733
   },
   {
     "library": "mdmb",
-    "downloads": 0
+    "downloads": 88456
   },
   {
     "library": "MDMR",
-    "downloads": 0
+    "downloads": 26387
   },
   {
     "library": "MDOLS",
-    "downloads": 0
+    "downloads": 4060
   },
   {
     "library": "mdpeer",
-    "downloads": 0
+    "downloads": 20227
   },
   {
     "library": "MDplot",
-    "downloads": 0
+    "downloads": 24736
   },
   {
     "library": "MDPtoolbox",
-    "downloads": 0
+    "downloads": 45963
   },
   {
     "library": "mds",
-    "downloads": 0
+    "downloads": 19621
   },
   {
     "library": "mdscore",
-    "downloads": 0
+    "downloads": 34637
   },
   {
     "library": "mdsdt",
-    "downloads": 0
+    "downloads": 27365
   },
   {
     "library": "MDSGUI",
-    "downloads": 0
+    "downloads": 18930
   },
   {
     "library": "MDSMap",
-    "downloads": 0
+    "downloads": 24293
   },
   {
     "library": "mdsOpt",
-    "downloads": 0
+    "downloads": 32491
   },
   {
     "library": "MDSPCAShiny",
-    "downloads": 0
+    "downloads": 12377
   },
   {
     "library": "mdsr",
-    "downloads": 0
+    "downloads": 63269
   },
   {
     "library": "MDSS",
-    "downloads": 0
+    "downloads": 12878
   },
   {
     "library": "mdthemes",
-    "downloads": 0
+    "downloads": 9357
   },
   {
     "library": "mdw",
-    "downloads": 0
+    "downloads": 18712
   },
   {
     "library": "meanr",
-    "downloads": 0
+    "downloads": 28294
   },
   {
     "library": "meanShiftR",
-    "downloads": 0
+    "downloads": 31696
   },
   {
     "library": "meantables",
-    "downloads": 0
+    "downloads": 6584
   },
   {
     "library": "meaRtools",
-    "downloads": 0
+    "downloads": 21108
   },
   {
     "library": "measurementProtocol",
-    "downloads": 0
+    "downloads": 38741
   },
   {
     "library": "measurements",
-    "downloads": 0
+    "downloads": 151343
   },
   {
     "library": "measures",
@@ -41784,6 +41796,10 @@
     "downloads": 0
   },
   {
+    "library": "namedropR",
+    "downloads": 0
+  },
+  {
     "library": "NameNeedle",
     "downloads": 0
   },
@@ -42221,6 +42237,10 @@
   },
   {
     "library": "netcontrol",
+    "downloads": 0
+  },
+  {
+    "library": "NetDA",
     "downloads": 0
   },
   {
