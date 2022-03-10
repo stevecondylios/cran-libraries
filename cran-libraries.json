@@ -2032,6 +2032,10 @@
     "downloads": 8194
   },
   {
+    "library": "arcpullr",
+    "downloads": 10585
+  },
+  {
     "library": "arctools",
     "downloads": 7572
   },
@@ -5736,10 +5740,6 @@
     "downloads": 66541
   },
   {
-    "library": "blockRAR",
-    "downloads": 15763
-  },
-  {
     "library": "blocksdesign",
     "downloads": 85646
   },
@@ -6070,6 +6070,10 @@
   {
     "library": "BoostMLR",
     "downloads": 12273
+  },
+  {
+    "library": "boostmtree",
+    "downloads": 32063
   },
   {
     "library": "boot",
@@ -7066,6 +7070,10 @@
   {
     "library": "calendR",
     "downloads": 16246
+  },
+  {
+    "library": "calendRio",
+    "downloads": 0
   },
   {
     "library": "CALF",
@@ -10672,6 +10680,10 @@
     "downloads": 15105
   },
   {
+    "library": "conformalbayes",
+    "downloads": 0
+  },
+  {
     "library": "conformalClassification",
     "downloads": 22439
   },
@@ -11672,6 +11684,10 @@
     "downloads": 49110
   },
   {
+    "library": "cpfa",
+    "downloads": 0
+  },
+  {
     "library": "CpGassoc",
     "downloads": 46821
   },
@@ -12306,6 +12322,10 @@
   {
     "library": "CTAShiny",
     "downloads": 14556
+  },
+  {
+    "library": "ctbi",
+    "downloads": 0
   },
   {
     "library": "CTD",
@@ -16001,383 +16021,383 @@
   },
   {
     "library": "DPQmpfr",
-    "downloads": 0
+    "downloads": 4704
   },
   {
     "library": "dprint",
-    "downloads": 0
+    "downloads": 19139
   },
   {
     "library": "dpseg",
-    "downloads": 0
+    "downloads": 7372
   },
   {
     "library": "DPtree",
-    "downloads": 0
+    "downloads": 16097
   },
   {
     "library": "DPWeibull",
-    "downloads": 0
+    "downloads": 22036
   },
   {
     "library": "DQAgui",
-    "downloads": 0
+    "downloads": 387
   },
   {
     "library": "DQAstats",
-    "downloads": 0
+    "downloads": 1352
   },
   {
     "library": "dqrng",
-    "downloads": 0
+    "downloads": 401107
   },
   {
     "library": "dr",
-    "downloads": 0
+    "downloads": 82904
   },
   {
     "library": "DR.SC",
-    "downloads": 0
+    "downloads": 1202
   },
   {
     "library": "dr4pl",
-    "downloads": 0
+    "downloads": 27210
   },
   {
     "library": "dracor",
-    "downloads": 0
+    "downloads": 8945
   },
   {
     "library": "dragon",
-    "downloads": 0
+    "downloads": 17685
   },
   {
     "library": "dragonking",
-    "downloads": 0
+    "downloads": 19473
   },
   {
     "library": "dragracer",
-    "downloads": 0
+    "downloads": 6402
   },
   {
     "library": "dragulaR",
-    "downloads": 0
+    "downloads": 18288
   },
   {
     "library": "drake",
-    "downloads": 0
+    "downloads": 134030
   },
   {
     "library": "DramaAnalysis",
-    "downloads": 0
+    "downloads": 12243
   },
   {
     "library": "drat",
-    "downloads": 0
+    "downloads": 435271
   },
   {
     "library": "draw",
-    "downloads": 0
+    "downloads": 22565
   },
   {
     "library": "drawer",
-    "downloads": 0
+    "downloads": 3938
   },
   {
     "library": "DRaWR",
-    "downloads": 0
+    "downloads": 25076
   },
   {
     "library": "drawsample",
-    "downloads": 0
+    "downloads": 5832
   },
   {
     "library": "DRAYL",
-    "downloads": 0
+    "downloads": 12348
   },
   {
     "library": "DrBats",
-    "downloads": 0
+    "downloads": 24842
   },
   {
     "library": "drc",
-    "downloads": 0
+    "downloads": 320638
   },
   {
     "library": "drda",
-    "downloads": 0
+    "downloads": 3459
   },
   {
     "library": "DRDID",
-    "downloads": 0
+    "downloads": 17596
   },
   {
     "library": "DRDRtest",
-    "downloads": 0
+    "downloads": 2136
   },
   {
     "library": "dreamer",
-    "downloads": 0
+    "downloads": 2316
   },
   {
     "library": "dreamerr",
-    "downloads": 0
+    "downloads": 95752
   },
   {
     "library": "DREGAR",
-    "downloads": 0
+    "downloads": 26706
   },
   {
     "library": "drf",
-    "downloads": 0
+    "downloads": 7292
   },
   {
     "library": "drfit",
-    "downloads": 0
+    "downloads": 56266
   },
   {
     "library": "drgee",
-    "downloads": 0
+    "downloads": 53459
   },
   {
     "library": "DRHotNet",
-    "downloads": 0
+    "downloads": 15748
   },
   {
     "library": "drhur",
-    "downloads": 0
+    "downloads": 6180
   },
   {
     "library": "DriftBurstHypothesis",
-    "downloads": 0
+    "downloads": 23932
   },
   {
     "library": "drifter",
-    "downloads": 0
+    "downloads": 15157
   },
   {
     "library": "DrillR",
-    "downloads": 0
+    "downloads": 23256
   },
   {
     "library": "drimmR",
-    "downloads": 0
+    "downloads": 4609
   },
   {
     "library": "DrImpute",
-    "downloads": 0
+    "downloads": 25520
   },
   {
     "library": "DRIP",
-    "downloads": 0
+    "downloads": 31366
   },
   {
     "library": "DriveML",
-    "downloads": 0
+    "downloads": 8581
   },
   {
     "library": "driveR",
-    "downloads": 0
+    "downloads": 4416
   },
   {
     "library": "drmdel",
-    "downloads": 0
+    "downloads": 38087
   },
   {
     "library": "droll",
-    "downloads": 0
+    "downloads": 2603
   },
   {
     "library": "DRomics",
-    "downloads": 0
+    "downloads": 16515
   },
   {
     "library": "dropR",
-    "downloads": 0
+    "downloads": 28703
   },
   {
     "library": "droptest",
-    "downloads": 0
+    "downloads": 18938
   },
   {
     "library": "drord",
-    "downloads": 0
+    "downloads": 7238
   },
   {
     "library": "drought",
-    "downloads": 0
+    "downloads": 6220
   },
   {
     "library": "drpop",
-    "downloads": 0
+    "downloads": 2201
   },
   {
     "library": "DRR",
-    "downloads": 0
+    "downloads": 975222
   },
   {
     "library": "drtmle",
-    "downloads": 0
+    "downloads": 23286
   },
   {
     "library": "DrugClust",
-    "downloads": 0
+    "downloads": 25622
   },
   {
     "library": "drugprepr",
-    "downloads": 0
+    "downloads": 1226
   },
   {
     "library": "drumr",
-    "downloads": 0
+    "downloads": 12076
   },
   {
     "library": "DRviaSPCN",
-    "downloads": 0
+    "downloads": 667
   },
   {
     "library": "ds",
-    "downloads": 0
+    "downloads": 45933
   },
   {
     "library": "ds4psy",
-    "downloads": 0
+    "downloads": 19543
   },
   {
     "library": "dsa",
-    "downloads": 0
+    "downloads": 26094
   },
   {
     "library": "DSAIDE",
-    "downloads": 0
+    "downloads": 31116
   },
   {
     "library": "DSAIRM",
-    "downloads": 0
+    "downloads": 22029
   },
   {
     "library": "dsample",
-    "downloads": 0
+    "downloads": 34296
   },
   {
     "library": "dsb",
-    "downloads": 0
+    "downloads": 5905
   },
   {
     "library": "DSBayes",
-    "downloads": 0
+    "downloads": 33234
   },
   {
     "library": "dscore",
-    "downloads": 0
+    "downloads": 14319
   },
   {
     "library": "dse",
-    "downloads": 0
+    "downloads": 119662
   },
   {
     "library": "DSI",
-    "downloads": 0
+    "downloads": 22484
   },
   {
     "library": "dsims",
-    "downloads": 0
+    "downloads": 4158
   },
   {
     "library": "DSjobtracker",
-    "downloads": 0
+    "downloads": 5211
   },
   {
     "library": "DSL",
-    "downloads": 0
+    "downloads": 51509
   },
   {
     "library": "dslabs",
-    "downloads": 0
+    "downloads": 532502
   },
   {
     "library": "dslice",
-    "downloads": 0
+    "downloads": 34764
   },
   {
     "library": "DSLite",
-    "downloads": 0
+    "downloads": 13950
   },
   {
     "library": "dsm",
-    "downloads": 0
+    "downloads": 50061
   },
   {
     "library": "dsmisc",
-    "downloads": 0
+    "downloads": 6657
   },
   {
     "library": "DSMolgenisArmadillo",
-    "downloads": 0
+    "downloads": 6716
   },
   {
     "library": "DSOpal",
-    "downloads": 0
+    "downloads": 14387
   },
   {
     "library": "dsos",
-    "downloads": 0
+    "downloads": 510
   },
   {
     "library": "DSpoty",
-    "downloads": 0
+    "downloads": 12128
   },
   {
     "library": "dsrTest",
-    "downloads": 0
+    "downloads": 23455
   },
   {
     "library": "DSSAT",
-    "downloads": 0
+    "downloads": 12984
   },
   {
     "library": "dssd",
-    "downloads": 0
+    "downloads": 16588
   },
   {
     "library": "DSsim",
-    "downloads": 0
+    "downloads": 47868
   },
   {
     "library": "dst",
-    "downloads": 0
+    "downloads": 32606
   },
   {
     "library": "DstarM",
-    "downloads": 0
+    "downloads": 27195
   },
   {
     "library": "dstat",
-    "downloads": 0
+    "downloads": 17423
   },
   {
     "library": "dSVA",
-    "downloads": 0
+    "downloads": 24937
   },
   {
     "library": "DSviaDRM",
-    "downloads": 0
+    "downloads": 26269
   },
   {
     "library": "DSWE",
-    "downloads": 0
+    "downloads": 4832
   },
   {
     "library": "DT",
-    "downloads": 0
+    "downloads": 10934216
   },
   {
     "library": "dtangle",
-    "downloads": 0
+    "downloads": 23778
   },
   {
     "library": "DTAplots",
-    "downloads": 0
+    "downloads": 5857
   },
   {
     "library": "DTAT",
@@ -18584,10 +18604,6 @@
     "downloads": 0
   },
   {
-    "library": "epiphy",
-    "downloads": 0
-  },
-  {
     "library": "epiR",
     "downloads": 0
   },
@@ -19365,6 +19381,10 @@
   },
   {
     "library": "exactLoglinTest",
+    "downloads": 0
+  },
+  {
+    "library": "ExactMed",
     "downloads": 0
   },
   {
@@ -20477,6 +20497,10 @@
   },
   {
     "library": "fauxpas",
+    "downloads": 0
+  },
+  {
+    "library": "FAVAR",
     "downloads": 0
   },
   {
@@ -21761,6 +21785,10 @@
   },
   {
     "library": "FlyingR",
+    "downloads": 0
+  },
+  {
+    "library": "FlywayNet",
     "downloads": 0
   },
   {
@@ -27792,6 +27820,10 @@
     "downloads": 0
   },
   {
+    "library": "HCTDesign",
+    "downloads": 0
+  },
+  {
     "library": "HCTR",
     "downloads": 0
   },
@@ -29821,6 +29853,10 @@
   },
   {
     "library": "IDCard",
+    "downloads": 0
+  },
+  {
+    "library": "IDConverter",
     "downloads": 0
   },
   {
@@ -32453,10 +32489,6 @@
   },
   {
     "library": "kader",
-    "downloads": 0
-  },
-  {
-    "library": "kairos",
     "downloads": 0
   },
   {
@@ -38524,6 +38556,10 @@
     "downloads": 0
   },
   {
+    "library": "MHDA",
+    "downloads": 0
+  },
+  {
     "library": "mHG",
     "downloads": 0
   },
@@ -41921,6 +41957,10 @@
   },
   {
     "library": "mvdalab",
+    "downloads": 0
+  },
+  {
+    "library": "mvgb",
     "downloads": 0
   },
   {
@@ -49388,10 +49428,6 @@
     "downloads": 0
   },
   {
-    "library": "pomdp",
-    "downloads": 0
-  },
-  {
     "library": "pomdpSolve",
     "downloads": 0
   },
@@ -50928,6 +50964,10 @@
     "downloads": 0
   },
   {
+    "library": "PSGD",
+    "downloads": 0
+  },
+  {
     "library": "psgp",
     "downloads": 0
   },
@@ -51677,6 +51717,10 @@
   },
   {
     "library": "QHScrnomo",
+    "downloads": 0
+  },
+  {
+    "library": "QI",
     "downloads": 0
   },
   {
@@ -56864,6 +56908,10 @@
     "downloads": 0
   },
   {
+    "library": "rKolada",
+    "downloads": 0
+  },
+  {
     "library": "rKOMICS",
     "downloads": 0
   },
@@ -58732,6 +58780,10 @@
     "downloads": 0
   },
   {
+    "library": "rrMixture",
+    "downloads": 0
+  },
+  {
     "library": "RRMLRfMC",
     "downloads": 0
   },
@@ -59865,6 +59917,10 @@
   },
   {
     "library": "Rwhois",
+    "downloads": 0
+  },
+  {
+    "library": "rwicc",
     "downloads": 0
   },
   {
@@ -61880,6 +61936,10 @@
     "downloads": 0
   },
   {
+    "library": "sentiment.ai",
+    "downloads": 0
+  },
+  {
     "library": "SentimentAnalysis",
     "downloads": 0
   },
@@ -61893,6 +61953,10 @@
   },
   {
     "library": "sentometrics",
+    "downloads": 0
+  },
+  {
+    "library": "sentopics",
     "downloads": 0
   },
   {
@@ -63553,6 +63617,10 @@
   },
   {
     "library": "SIRE",
+    "downloads": 0
+  },
+  {
+    "library": "siren",
     "downloads": 0
   },
   {
@@ -69108,6 +69176,10 @@
     "downloads": 0
   },
   {
+    "library": "templateICAr",
+    "downloads": 0
+  },
+  {
     "library": "templates",
     "downloads": 0
   },
@@ -71265,10 +71337,6 @@
   },
   {
     "library": "triebeard",
-    "downloads": 0
-  },
-  {
-    "library": "triggerstrategy",
     "downloads": 0
   },
   {
